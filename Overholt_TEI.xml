@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><!--<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>--><?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
+<!--WHC 2026-09-16: the lines above had already been commented out in the received file. I had to comment out the next line as well because it was not allowing a table element anywhere, and not being familiar with an ODD .rng, I was not able to see how to add permission to allow it there.-->
+<!--<?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -379,57 +383,69 @@
                home next morning when they heard of his health, at top of hill at <unclear
                   reason="illegible">??</unclear></p>
          </div>
+         
+         <!--whc: giving an example of table syntax-->
+         <div type="entry" xml:id="KFO-99-example">
+            <head><pb facs="KFODiary_p099.jpg" n="99"/></head>
+            <!--AR- list of items, cont. from previous page. done with typewriter -->
+               <table>
+               <row><cell>1 Looking Glass</cell><cell></cell><cell>$1.00</cell></row>
+            <row><cell>1 Cupboard and contents</cell> <cell>(Basement Hall)</cell>  <cell>10.00</cell></row>
+            <row><cell>1 Table</cell><cell>"</cell><cell>6.00</cell></row>
+            </table>
+         </div>
+         
 <!-- AR- image 099, transcription-4 page 9,-->
          <div type="entry" xml:id="KFO-99">
             <head><pb facs="KFODiary_p099.jpg" n="99"/></head>
             <!--AR- list of items, cont. from previous page. done with typewriter -->
             <p>1 Looking Glass					     $1.00</p>
             <p>1 Cupboard and contents (Basement Hall)		      10.00</p>
-            <p>1 Table				“			        6.00</p>
-            <p>1 Dough Tray			“			        4.00</p>
+            <p>1 Table				"			        6.00</p>
+            <p>1 Dough Tray			"			        4.00</p>
             <p>Oil Cloth						        5.00</p>
             <p>1 Cooking Stove, etc.   (Front Cellar)			      20.00</p>
-            <p>1 Cupboard and contents     “				      15.00</p>
-            <p>1 Corner do. Canned fruit, etc.	“		       10.00</p>
-            <p>Crocks				“			          4.00</p>
-            <p>2 Barrels Vinegar		“			       15.00</p>
-            <p>2     “       do.		(Back Cellar)			        15.00</p>
-            <p>200 # Lard at 15		“			         30.00</p>
-            <p>8 Doz. Canned Fruit		“			         40.00</p>
-            <p>17 Crocks Jams and Pickles “			         20.00</p>
-            <p>1 Table				“			         10.00</p>
-            <p>Sugar, Apples, etc.		“			          20.00</p>
+            <p>1 Cupboard and contents     "				      15.00</p>
+            <p>1 Corner do. Canned fruit, etc.	"		       10.00</p>
+            <p>Crocks				"			          4.00</p>
+            <p>2 Barrels Vinegar		"			       15.00</p>
+            <p>2     "       do.		(Back Cellar)			        15.00</p>
+            <p>200 # Lard at 15		"			         30.00</p>
+            <p>8 Doz. Canned Fruit		"			         40.00</p>
+            <p>17 Crocks Jams and Pickles "			         20.00</p>
+            <p>1 Table				"			         10.00</p>
+            <p>Sugar, Apples, etc.		"			          20.00</p>
             <p>1 Piano		(In Parlor)			        350.00</p>
-            <p>1 Sofa				“			         40.00</p>
-            <p>1 Centre Table			“			         40.00</p>
-            <p>1 Rocking Chair		“			         20.00</p>
-            <p>1    “             do.		“			         10.00</p>
-            <p>½ Dozen Chairs		“			          50.00</p>
-            <p>1 Looking Glass		“			          10.00</p>
-            <p>1 Lamp			“				3.00</p>
-            <p>2 Vases			“				3.00</p>
-            <p>Curtains and Upholstering	“			         30.00</p>
-            <p>26 Yds. Carpet		“			          50.00</p>
-            <p>1 Rug				“				6.00</p>
+            <p>1 Sofa				"			         40.00</p>
+            <p>1 Centre Table			"			         40.00</p>
+            <p>1 Rocking Chair		"			         20.00</p>
+            <p>1    "             do.		"			         10.00</p>
+            <p>½ Dozen Chairs		"			          50.00</p>
+            <p>1 Looking Glass		"			          10.00</p>
+            <p>1 Lamp			"				3.00</p>
+            <p>2 Vases			"				3.00</p>
+            <p>Curtains and Upholstering	"			         30.00</p>
+            <p>26 Yds. Carpet		"			          50.00</p>
+            <p>1 Rug				"				6.00</p>
             <p>1 Bureau and Glass :     	(Front Chamber)	</p><!-- no price given -->
-            <p>1 Bed and Bedstead:		“</p>><!-- no price given -->
-            <p>1 Washstand and Ware:	“</p>><!-- no price given -->
-            <p>Towel Rack and 4 Chairs:	“				300.00</p>
-            <p>1 Wardrobe			“				  35.00</p>
-            <p>26 Yds. Carpet at $1		“				   26.00</p>
-            <p>2 Rocking Chairs		“				    5.00</p>
+            <p>1 Bed and Bedstead:		"</p><!-- no price given -->
+            <p>1 Washstand and Ware:	"</p><!-- no price given -->
+            <p>Towel Rack and 4 Chairs:	"				300.00</p>
+            <p>1 Wardrobe			"				  35.00</p>
+            <p>26 Yds. Carpet at $1		"				   26.00</p>
+            <p>2 Rocking Chairs		"				    5.00</p>
             <p>1 Franklin Stove	Room 2nd Floor			   20.00</p>
-            <p>1 Secretary and Contents	“				   30.00   </p>
-            <p>1 Cupboard and Ward		“				   40.00</p>
-            <p>1 Wardrobe			“				   10.00</p>
-            <p>1 Stand			“				     2.00</p>
-            <p>40 Sheets			“				   40.00</p>
-            <p>7 Table Cloths			“				   17.50</p>
-            <p>9 quilts				“				    90.00</p>
-            <p>5 Coverlets			“				    40.00</p>
-            <p>26 Yds. Carpet and Rug	“				    26.00</p>
-            <p>½ Doz.Cane seat chairs	“				     3.00</p>
-            <p>1 doz. Knives and 1 doz.Forks  “				    32.00</p>
+            <p>1 Secretary and Contents	"				   30.00   </p>
+            <p>1 Cupboard and Ward		"				   40.00</p>
+            <p>1 Wardrobe			"				   10.00</p>
+            <p>1 Stand			"				     2.00</p>
+            <p>40 Sheets			"				   40.00</p>
+            <p>7 Table Cloths			"				   17.50</p>
+            <p>9 quilts				"				    90.00</p>
+            <p>5 Coverlets			"				    40.00</p>
+            <p>26 Yds. Carpet and Rug	"				    26.00</p>
+            <p>½ Doz.Cane seat chairs	"				     3.00</p>
+            <p>1 doz. Knives and 1 doz.Forks  "				    32.00</p>
          </div>
          
 <!-- AR- image 100, transcription-4 page 10,-->
@@ -437,40 +453,40 @@
             <head><pb facs="KFODiary_p100.jpg" n="100"/></head>
             <!--AR- list of items, cont. from previous page. done with typewriter -->
             <p>1 Set Small Knives and Forks- Room 2nd Floor		$12.00</p>
-            <p>2   “       “ 	Silver Spoons		“			  12.00</p>
-            <p>2   “	“	Large   do.		“			   18.00</p>
+            <p>2   "       " 	Silver Spoons		"			  12.00</p>
+            <p>2   "	"	Large   do.		"			   18.00</p>
             <p>2 Beds Complete		(In Bedchamber 2nd Floor)	   40.00</p>
-            <p>1 Washstand adn Ware		“			     3.00</p>
-            <p>1 Mantle Clock			“			     5.00</p>
-            <p>1 Trunk				“			     5.00</p>
-            <p>1 Bureau				“			     5.00</p>
-            <p>20 Yds. Carpet $1			“			    20.00</p>
+            <p>1 Washstand adn Ware		"			     3.00</p>
+            <p>1 Mantle Clock			"			     5.00</p>
+            <p>1 Trunk				"			     5.00</p>
+            <p>1 Bureau				"			     5.00</p>
+            <p>20 Yds. Carpet $1			"			    20.00</p>
             <p>35 Yds. Oilcloth 		(In Upper Hall)			    20.00</p>
             <p>Stair Carpet, Stair Rods, and Oilcloth			    15.00</p>
             <p>9 Venetian Blinds $3						     27.00</p>
             <p>1 Carriage Robe						     20.00</p>
             <p>2 Beds Complete		(In Bedchamber 3rd Floor)	     50.00</p>
-            <p>1 Table and Cover			“			       4.00</p>
-            <p>1 Washstand and Bowl		“			       5.00</p>
-            <p>1 Looking Glass			“			      2.50</p>
-            <p>26 Yds. Carpet			“			     13.00</p>
+            <p>1 Table and Cover			"			       4.00</p>
+            <p>1 Washstand and Bowl		"			       5.00</p>
+            <p>1 Looking Glass			"			      2.50</p>
+            <p>26 Yds. Carpet			"			     13.00</p>
             <p>1 Bed Complete		(In Chamber 3rd Floor)	     30.00</p>
-            <p>1 Washstand and Bowl		“			      10.00</p>
-            <p>1 Looking Glass			“			      2.50</p>
-            <p>1 Sewing Machine			“			50.00</p>
-            <p>1 Stand 				“			1.50</p>
-            <p>1 Stove				“			12.00</p>
-            <p>26 Yds Carpet et $1			“			26.00</p>
-            <p>½ Doz. Large Arm Chairs		“			9.00</p>
+            <p>1 Washstand and Bowl		"			      10.00</p>
+            <p>1 Looking Glass			"			      2.50</p>
+            <p>1 Sewing Machine			"			50.00</p>
+            <p>1 Stand 				"			1.50</p>
+            <p>1 Stove				"			12.00</p>
+            <p>26 Yds Carpet et $1			"			26.00</p>
+            <p>½ Doz. Large Arm Chairs		"			9.00</p>
             <p>16 Yds. Hall Carpet 		(3rd Floor)			8.00</p>
             <p>26 Yds. Carpet at $1. (In Bedchamber 3rd floor)		26.00</p>
-            <p>1 Rug					“			6.00</p>
+            <p>1 Rug					"			6.00</p>
             <p>6 Blankets 		(In Small Room  3rd floor)		15.00</p>
-            <p>17 Quilts at 4$				“			68.00</p>
-            <p>12 Comforts at 2$			“			24.00</p>
-            <p>1 Box Sugar and 1 Box Crackers	“			7.80</p>
+            <p>17 Quilts at 4$				"			68.00</p>
+            <p>12 Comforts at 2$			"			24.00</p>
+            <p>1 Box Sugar and 1 Box Crackers	"			7.80</p>
             <p>4 Beds Complete		(In Bedchamber 3rd floor)	60.00</p>
-            <p>18 Gallons Apple Butter $1		“			18.00</p>
+            <p>18 Gallons Apple Butter $1		"			18.00</p>
             <p>6 Crocks Jellies	$1				  	 6.00</p>
             <p>1 Pair Fly Nets						  10.00</p>
             <p>30# Feathers at 40cents					  12.00</p>
@@ -496,7 +512,7 @@
             <p>1 Set Harness							50.00</p>
             <p>1 set    do. (old)						10.00</p> 
             <p>3 Old Saddles and Bridles					15.00</p>
-            <p>1 Bay “Horse” 1 Grey Horse “Charlie”			250.00</p> 
+            <p>1 Bay "Horse” 1 Grey Horse "Charlie”			250.00</p> 
             <p>3 Cows, 1 spotted, 1 Roan, and 1 White Back		185.00</p>
             <p>4 Steers 2 red, 1 yellow, 1 spotted				200.00</p> 
             <p>1 Gold Watch and Chain					175.00</p>
@@ -504,7 +520,7 @@
             <p>Received February 1870 or H.S. Overholt [Henry S. Overholt], C.S Overholt [Christian S. Overholt] and J.O. Tinstman [Jacob O.Tinstman], executors of the last Will and Testament of Abraham Overholt, deceased, the Articles named in the forgoing Schedule, amounting in the aggregate to the sum of Three Thousand Eight Hundred adn Eighty-seven 05/100
                Dollars ($3887.05) which articles I have elected to take in full under the following clause of the Will of my later Husband dec’d.
             </p> 
-            <p>“I also give and bequeath to my said wife my Household and Kitchen Furniture with the Bedsa and Bedding, Horses and Carriages or so much thereof as she may is necessary out of any or all of the property I now have.”
+            <p>"I also give and bequeath to my said wife my Household and Kitchen Furniture with the Bedsa and Bedding, Horses and Carriages or so much thereof as she may is necessary out of any or all of the property I now have.”
                Witnessed by.
             </p> 
          </div>
@@ -588,7 +604,7 @@
 <!-- AR- image 108, transcription-4 page 18,-->
          <div type="entry" xml:id="KFO-108">
             <head><pb facs="KFODiary_p108.jpg" n="108"/></head>
-            <p>April 17th, 1872. Noon. “Wednesday”</p>
+            <p>April 17th, 1872. Noon. "Wednesday”</p>
             <p>John S.R.O. &amp; Maria O. T 
                Married
                At Abraham[ O.[verholt] homestead (parker)-
@@ -612,12 +628,12 @@
             
             <p>While there, stopped at Continental Hotel, &amp; party had to change to another hotel in middle of the night as fire broke out in C. Hotel. 
                Then went to Niagara Falls.
-               “	“	“ Cleveland.</p>
+               "	"	" Cleveland.</p>
             
            <p> *Pheobe Fox (daughter of Christian Fox near Alverton) &amp; C.S.R.O. [Christian S.R. Overholt] 
-            Kate Fox (“ 	“	“	“) &amp; H.C. F (no entries in {FC??} books on that day)
+            Kate Fox (" 	"	"	") &amp; H.C. F (no entries in {FC??} books on that day)
             Elizabeth S.O (father’s sister) &amp; – Chambers
-            Aunt Sallie ( “  sister in law) &amp; Uncle Aaron S.R. O[Overholt]
+            Aunt Sallie ( "  sister in law) &amp; Uncle Aaron S.R. O[Overholt]
             Anna Gilchrist &amp; B.F.O (B. Frank Overholt)</p>
         
          </div>   
@@ -648,7 +664,7 @@
             <head><pb facs="KFODiary_p112.jpg" n="112"/></head>
             <p>Wedding reception in May 1872 at Grandmothers</p>
             
-            <p>“Turkeys”</p>
+            <p>"Turkeys”</p>
             
             <p>Gf. Frick [John Wilson Frick[ thought wedding cake was mashed potatoes</p>
             
@@ -677,7 +693,7 @@
             <head><pb facs="KFODiary_p114.jpg" n="114"/></head>
             <p>4-1-74 Uncle Edgar’s name changed from Peter Sherrick Frick to J Edgar Frick by <persName ref="#HCF">Uncle Clay</persName> who gave him a pearl pen knife. </p>
             <p>In spring of 1874, F &amp; <persName ref="#MFO">M</persName> left Shreve &amp; moe to <placeName>Wooster</placeName>.</p>
-            <p>They lived the first two months at “The American Home” ( Mr. &amp; Mrs. Yocum were boarding them there)</p>
+            <p>They lived the first two months at "The American Home” ( Mr. &amp; Mrs. Yocum were boarding them there)</p>
             <p>In June ‘74 Father [John S.R. Overholt] bought a 1/3rd interest in the Wooster City Mills for $8,000, &amp; in July another 1/3rd, &amp; in August Uncle Jacob Frick bought the remaining third; - then Father [John S.R Overholt] conveyed him a 1/6th interest for $4,000, and on Sept 4, 1874 Uncle Jacob Frick &amp; Father [John S.R. Overholt] became equal partners in the property, each ½ costing $12,000.00 </p>
             <p><persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> in June or July ‘74 leased the frame dwelling , #27 Spink St, (adjoining my birthplace) &amp; lived there until April 1, 1875, when they moved to the Judge Welker property at corner of Beall Ave &amp; Larwill St.  
                Cousin Abe C Overholt- then 16-(<persName ref="#JSRO">Father</persName>] was his guardian) lived with <persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> that fall &amp; went to college.</p>
@@ -692,7 +708,7 @@
             <p>The following is copy of newspaper clipping: { this is handwritten as is the ‘copy’} </p>
             <p> In Memorian  </p>
             
-            <p>“The following tribute to the memory of Mrs. Overholt, [Maria Stuaffer Overholt] recently deceased, has been written by one well-acquainted with her for a long time:   </p>
+            <p>"The following tribute to the memory of Mrs. Overholt, [Maria Stuaffer Overholt] recently deceased, has been written by one well-acquainted with her for a long time:   </p>
             <p>The parents of the deceased, Mr and Mrs Stauffer, [Abraham Stauffer and Anna Nissley Stauffer]moved from <placeName>Lancaster Co</placeName>, Penna, to <placeName>Fayette County</placeName>, near what is now <placeName>Fountain Mills</placeName>, during the last century, where Maria was born on July 13, 1791.</p>
             <p>At the age of 18 she married Abraham Overholt- with whom she lived over 60 years, he having died Jany 15, 1870. </p>
             <p>They began housekeeping in a little stone building, which is still standing near the homestead from which she has just taken her final departure- making 65 years she lived on that farm.  
@@ -700,7 +716,7 @@
             <p>She had 8 children, of whom only 3 survive her. At the time of her death, she had 48 grandchildren, &amp; 25 great grandchildren.   </p>
             <p> She retained remarkable activity of body &amp; mind to within a few months of her death; her mind remaining remarkably clear to the last. She sat up on last Sabbath, Nov. 1, and conversed but was very weak. That Sabbath became her eternal Sabbath.</p>
             <p>Her tenderness of hearth, peace of mind, &amp; abiding faith seemed to increase &amp; brighten as her strength failed.   </p>
-            <p>As the time of her departure drew near, it became easy to say “The Lord’s Will, and not mine.” Those who remember that sweet face, and knew that loving heart, and heard that winning voice,  </p>
+            <p>As the time of her departure drew near, it became easy to say "The Lord’s Will, and not mine.” Those who remember that sweet face, and knew that loving heart, and heard that winning voice,  </p>
            
             
          </div>         

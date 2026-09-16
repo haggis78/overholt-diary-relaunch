@@ -9,11 +9,13 @@
             <title>Overholt Diary ODD</title>
             <author>Alex Fell</author>
             <author>Garrett Joiner</author>
+            <author>William Campbell</author>
             <author>Elisa Beshero-Bondar</author>
          </titleStmt>
-         <publicationStmt><authority>Prepared in TEI P5 for the Overholt Diary Project team on newtFire.org. GitHub
-            repository: <ref target="https://github.com/alexfell06/Overholt-Diary"/>. Date last worked
-            on: <date when="2018-03-19">19 March 2018</date></authority>
+         <publicationStmt><authority>Prepared in TEI P5 for the Overholt Diary Project team on newtFire.org; 
+               relaunched and updated on GitHub Pages 2026. GitHub
+               repository: <ref target="https://github.com/haggis78/overholt-diary-relaunch"/>. Date last worked
+            on: <date when="2026-09-16">16 September 2026</date></authority>
          <availability>
             <licence><!--Choose and identify a Creative Commons license for sharing your code. Look here: https://creativecommons.org/share-your-work/--></licence>
          </availability>
@@ -33,6 +35,7 @@
             <moduleRef key="namesdates"/>
             <moduleRef key="textstructure"/>
             <moduleRef key="corpus"/>
+            <moduleRef key="figures" include="table row cell"/>
             <!--ebb: For now, we're including all the elements in the above TEI modules complete. We can decide to exclude some later if we want to. -->
             
            <!--2018-04-14 ebb: We shouldn't have to declare this because the pb is supposed to subscribe by default to att.global.facs, an attribute class in which only @facs is a member. 
@@ -46,7 +49,7 @@
             </elementSpec>
             
             <elementSpec ident="persName" module="namesdates" mode="change">
- <attList>
+               <attList>
                   <attDef ident="ref" mode="replace" usage="opt">
                      <datatype>
                         <rng:text/>
