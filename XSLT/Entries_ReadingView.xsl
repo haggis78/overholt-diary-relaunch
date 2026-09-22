@@ -20,6 +20,7 @@
             </head>
             <body>
                 <xsl:comment>#include virtual="SSI-Diarypages.html" </xsl:comment>
+                <!--WHC 2026-09-16: Will need to create and insert new navbar here-->
             <div id="container">  
                 <div id="facsimile">
                     <xsl:apply-templates select="descendant::pb" mode="facsim"/>
@@ -66,8 +67,23 @@
     <xsl:template match="unclear">
         <span class="unclear"><xsl:apply-templates/></span>
     </xsl:template>
-   
     <xsl:template match="date">
         <span class="date"><xsl:apply-templates/></span>
     </xsl:template>
+    
+    <!--WHC 2026-09-16: New additional template rules begin here-->
+    <xsl:template match="table">
+        <table><xsl:apply-templates/></table>
+    </xsl:template>
+    <xsl:template match="row">
+        <tr><xsl:apply-templates/></tr>
+    </xsl:template>
+    <xsl:template match="cell">
+        <td><xsl:apply-templates/></td>
+    </xsl:template>
+    
+    
+    
+    
+    
 </xsl:stylesheet>
