@@ -384,14 +384,36 @@
                   reason="illegible">??</unclear></p>
          </div>
          
-         <!--whc: giving an example of table syntax-->
-         <div type="entry" xml:id="KFO-99-example">
-            <head><pb facs="KFODiary_p099.jpg" n="99"/></head>
-            <!--AR- list of items, cont. from previous page. done with typewriter -->
-               <table>
-               <row><cell>1 Looking Glass</cell><cell></cell><cell>$1.00</cell></row>
-            <row><cell>1 Cupboard and contents</cell> <cell>(Basement Hall)</cell>  <cell>10.00</cell></row>
-            <row><cell>1 Table</cell><cell>"</cell><cell>6.00</cell></row>
+         <!-- AR- image 098, transcription-4 page 8,-->
+         <div type="entry" xml:id="KFO-98">
+            <head><pb facs="KFODiary_p098.jpg" n="98"/></head>        
+            <p>Oath of Appraisers</p>
+            <p>State of Pennsylvania</p>
+            <p>Westmoreland County: ss</p>
+            <p>Before me, William M. Jordan, Notary Public in and for said County, personally came Daniel Shupe and Joseph R. STauffer, who upon their Solemn Affirmation that they would well and truly and without prejudice or partiality, value and appraise the goods, chattels, Rights and Credits were of Abraham Overholt, late of West Overton, decease, and in all respects perform their duties as appraisers to the best of their skill and judgment. </p>
+            <p>Affirmed to and subscribed this 3rd day of February, A.D. 1879, before me, William J. Jordan,</p>
+            <p>Notary Public</p>
+            <p>Daniel Shupe</p>
+            <p>Joseph R. Stauffer.</p>
+            <p>INVENTORY AND APPRAISEMENT</p>
+            <p>Of the Wares adn Chattels, Rights and Credits which were of Abraham Overhold late of {blank space} taken and made in conformity with the above Deposition this {blank space }day of February, A.D. 1870.</p>
+            <p>ITEM OR ARTICLE</p>
+            
+            <table>
+               <row><cell>Kitchen Cooking stove and fixtures</cell><cell></cell><cell>$40.00</cell></row>
+               <row><cell>Tin ware, brass adn copper ladles</cell><cell></cell><cell>10.00</cell></row>
+               <row><cell>Kitchen Cupboard and contents</cell><cell></cell><cell>  30.00</cell></row>
+               <row><cell></cell>"<cell>Table and lamps</cell><cell>    5.00</cell></row>
+               <row><cell></cell>"<cell>Matting</cell><cell> 5.00</cell></row>
+               <row><cell>Dining Room Cupboard</cell><cell></cell><cell>  100.00</cell></row>
+               <row><cell>12 Table Cloths</cell><cell></cell><cell>30.00</cell></row>
+               <row><cell>Dining Table</cell><cell></cell><cell>15.00</cell></row>
+               <row><cell>"</cell><cell>Room Clock</cell><cell>10.00</cell></row>
+               <row><cell>"</cell><cell>Stove</cell><cell>15.00</cell></row>
+               <row><cell>15 Chairs</cell><cell></cell><cell>15.00</cell></row>
+               <row><cell>26 yds Carpet at $1.25</cell><cell>(Dining Room</cell><cell>32.50</cell></row>
+               <row><cell>9 yds. Oil Cloth 75</cell><cell></cell><cell>6.75</cell></row>
+               <row><cell>3 Window Blinds</cell><cell></cell><cell>3.00</cell></row>
             </table>
          </div>
          
@@ -399,125 +421,131 @@
          <div type="entry" xml:id="KFO-99">
             <head><pb facs="KFODiary_p099.jpg" n="99"/></head>
             <!--AR- list of items, cont. from previous page. done with typewriter -->
-            <p>1 Looking Glass					     $1.00</p>
-            <p>1 Cupboard and contents (Basement Hall)		      10.00</p>
-            <p>1 Table				"			        6.00</p>
-            <p>1 Dough Tray			"			        4.00</p>
-            <p>Oil Cloth						        5.00</p>
-            <p>1 Cooking Stove, etc.   (Front Cellar)			      20.00</p>
-            <p>1 Cupboard and contents     "				      15.00</p>
-            <p>1 Corner do. Canned fruit, etc.	"		       10.00</p>
-            <p>Crocks				"			          4.00</p>
-            <p>2 Barrels Vinegar		"			       15.00</p>
-            <p>2     "       do.		(Back Cellar)			        15.00</p>
-            <p>200 # Lard at 15		"			         30.00</p>
-            <p>8 Doz. Canned Fruit		"			         40.00</p>
-            <p>17 Crocks Jams and Pickles "			         20.00</p>
-            <p>1 Table				"			         10.00</p>
-            <p>Sugar, Apples, etc.		"			          20.00</p>
-            <p>1 Piano		(In Parlor)			        350.00</p>
-            <p>1 Sofa				"			         40.00</p>
-            <p>1 Centre Table			"			         40.00</p>
-            <p>1 Rocking Chair		"			         20.00</p>
-            <p>1    "             do.		"			         10.00</p>
-            <p>½ Dozen Chairs		"			          50.00</p>
-            <p>1 Looking Glass		"			          10.00</p>
-            <p>1 Lamp			"				3.00</p>
-            <p>2 Vases			"				3.00</p>
-            <p>Curtains and Upholstering	"			         30.00</p>
-            <p>26 Yds. Carpet		"			          50.00</p>
-            <p>1 Rug				"				6.00</p>
-            <p>1 Bureau and Glass :     	(Front Chamber)	</p><!-- no price given -->
-            <p>1 Bed and Bedstead:		"</p><!-- no price given -->
-            <p>1 Washstand and Ware:	"</p><!-- no price given -->
-            <p>Towel Rack and 4 Chairs:	"				300.00</p>
-            <p>1 Wardrobe			"				  35.00</p>
-            <p>26 Yds. Carpet at $1		"				   26.00</p>
-            <p>2 Rocking Chairs		"				    5.00</p>
-            <p>1 Franklin Stove	Room 2nd Floor			   20.00</p>
-            <p>1 Secretary and Contents	"				   30.00   </p>
-            <p>1 Cupboard and Ward		"				   40.00</p>
-            <p>1 Wardrobe			"				   10.00</p>
-            <p>1 Stand			"				     2.00</p>
-            <p>40 Sheets			"				   40.00</p>
-            <p>7 Table Cloths			"				   17.50</p>
-            <p>9 quilts				"				    90.00</p>
-            <p>5 Coverlets			"				    40.00</p>
-            <p>26 Yds. Carpet and Rug	"				    26.00</p>
-            <p>½ Doz.Cane seat chairs	"				     3.00</p>
-            <p>1 doz. Knives and 1 doz.Forks  "				    32.00</p>
+            <table>
+               <row><cell>1 Looking Glass</cell><cell></cell><cell>$1.00</cell></row>
+               <row><cell>1 Cupboard and contents</cell> <cell>(Basement Hall)</cell>  <cell>10.00</cell></row>
+               <row><cell>1 Table</cell><cell>"</cell><cell>6.00</cell></row>
+               <row><cell>1 Dough Tray</cell><cell>"</cell><cell>4.00</cell></row>
+               <row><cell>Oil Cloth						        5.00</cell></row>
+               <row><cell>1 Cooking Stove, etc</cell><cell>(Front Cellar)</cell><cell>20.00</cell></row>
+               <row><cell>1 Cupboard and contents</cell><cell>"</cell><cell>15.00</cell></row>
+               <row><cell>1 Corner do. Canned fruit, etc.</cell><cell>"</cell><cell>10.00</cell></row>
+               <row><cell>Crocks</cell><cell>"</cell><cell>4.00</cell></row>
+               <row><cell>2 Barrels Vinegar</cell><cell>"</cell><cell>15.00</cell></row>
+               <row><cell>2     "       do.</cell><cell>(Back Cellar)</cell><cell>15.00</cell></row>
+               <row><cell>200 # Lard at 15</cell><cell>"</cell><cell>30.00</cell></row>
+               <row><cell>8 Doz. Canned Fruit</cell><cell>"</cell><cell>40.00</cell></row>
+               <row><cell>17 Crocks Jams and Pickles</cell><cell>"</cell><cell> 20.00</cell></row>
+               <row><cell>1 Table</cell><cell>"</cell><cell>10.00</cell></row>
+               <row><cell>Sugar, Apples, etc.</cell><cell>"</cell><cell>20.00</cell></row>
+               <row><cell>1 Piano</cell><cell>(In Parlor)</cell><cell>350.00</cell></row>
+               <row><cell>1 Sofa</cell><cell>"</cell><cell>40.00</cell></row>
+               <row><cell>1 Centre Table</cell><cell>"</cell><cell>40.00</cell></row>
+               <row><cell>1 Rocking Chair</cell><cell>"</cell><cell>20.00</cell></row>
+               <row><cell>1    "             do.</cell><cell>"</cell><cell>10.00</cell></row>
+               <row><cell>½ Dozen Chairs</cell><cell>"</cell><cell>50.00</cell></row>
+               <row><cell>1 Looking Glass</cell><cell>"</cell><cell>10.00</cell></row>
+               <row><cell>1 Lamp</cell><cell>"</cell><cell>3.00</cell></row>
+               <row><cell>2 Vases</cell><cell>"</cell><cell>3.00</cell></row>
+               <row><cell>Curtains and Upholstering</cell><cell>"</cell><cell>30.00</cell></row>
+               <row><cell>26 Yds. Carpet</cell><cell>"</cell><cell>50.00</cell></row>
+               <row><cell>1 Rug</cell><cell>"</cell><cell>6.00</cell></row>
+               <row><cell>1 Bureau and Glass :</cell><cell>(front Chamber)</cell><cell></cell></row><!-- no price given -->
+               <row><cell>1 Bed and Bedstead:</cell><cell>"</cell><cell></cell></row><!-- no price given -->
+               <row><cell>1 Washstand and Ware:</cell><cell>"</cell><cell></cell></row><!-- no price given -->
+               <row><cell>Towel Rack and 4 Chairs:</cell><cell>"</cell><cell>300.00</cell></row>
+               <row><cell>1 Wardrobe</cell><cell>"</cell><cell>35.00</cell></row>
+               <row><cell>26 Yds. Carpet at $1</cell><cell>"</cell><cell>26.00</cell></row>
+               <row><cell>2 Rocking Chairs</cell><cell>"</cell><cell>5.00</cell></row>
+               <row><cell>1 Franklin Stove</cell><cell>Room 2nd Floor</cell><cell>20.00</cell></row>
+               <row><cell>1 Secretary and Contents</cell><cell>"</cell><cell>30.00   </cell></row>
+               <row><cell>1 Cupboard and Ward</cell><cell>"</cell><cell>40.00</cell></row>
+               <row><cell>1 Wardrobe</cell><cell>"</cell><cell>10.00</cell></row>
+               <row><cell>1 Stand</cell><cell>"</cell><cell>2.00</cell></row>
+               <row><cell>40 Sheets</cell><cell>"</cell><cell>40.00</cell></row>
+               <row><cell>7 Table Cloths</cell><cell>"</cell><cell>17.50</cell></row>
+               <row><cell>9 quilts</cell><cell>"</cell><cell>90.00</cell></row>
+               <row><cell>5 Coverlets</cell><cell>"</cell><cell>40.00</cell></row>
+               <row><cell>26 Yds. Carpet and Rug</cell><cell>"</cell><cell>26.00</cell></row>
+               <row><cell>½ Doz.Cane seat chairs</cell><cell>"</cell><cell>3.00</cell></row>
+               <row><cell>1 doz. Knives and 1 doz.Forks</cell><cell>"</cell><cell>32.00</cell></row>
+            </table>   
          </div>
          
 <!-- AR- image 100, transcription-4 page 10,-->
          <div type="entry" xml:id="KFO-100">
             <head><pb facs="KFODiary_p100.jpg" n="100"/></head>
             <!--AR- list of items, cont. from previous page. done with typewriter -->
-            <p>1 Set Small Knives and Forks- Room 2nd Floor		$12.00</p>
-            <p>2   "       " 	Silver Spoons		"			  12.00</p>
-            <p>2   "	"	Large   do.		"			   18.00</p>
-            <p>2 Beds Complete		(In Bedchamber 2nd Floor)	   40.00</p>
-            <p>1 Washstand adn Ware		"			     3.00</p>
-            <p>1 Mantle Clock			"			     5.00</p>
-            <p>1 Trunk				"			     5.00</p>
-            <p>1 Bureau				"			     5.00</p>
-            <p>20 Yds. Carpet $1			"			    20.00</p>
-            <p>35 Yds. Oilcloth 		(In Upper Hall)			    20.00</p>
-            <p>Stair Carpet, Stair Rods, and Oilcloth			    15.00</p>
-            <p>9 Venetian Blinds $3						     27.00</p>
-            <p>1 Carriage Robe						     20.00</p>
-            <p>2 Beds Complete		(In Bedchamber 3rd Floor)	     50.00</p>
-            <p>1 Table and Cover			"			       4.00</p>
-            <p>1 Washstand and Bowl		"			       5.00</p>
-            <p>1 Looking Glass			"			      2.50</p>
-            <p>26 Yds. Carpet			"			     13.00</p>
-            <p>1 Bed Complete		(In Chamber 3rd Floor)	     30.00</p>
-            <p>1 Washstand and Bowl		"			      10.00</p>
-            <p>1 Looking Glass			"			      2.50</p>
-            <p>1 Sewing Machine			"			50.00</p>
-            <p>1 Stand 				"			1.50</p>
-            <p>1 Stove				"			12.00</p>
-            <p>26 Yds Carpet et $1			"			26.00</p>
-            <p>½ Doz. Large Arm Chairs		"			9.00</p>
-            <p>16 Yds. Hall Carpet 		(3rd Floor)			8.00</p>
-            <p>26 Yds. Carpet at $1. (In Bedchamber 3rd floor)		26.00</p>
-            <p>1 Rug					"			6.00</p>
-            <p>6 Blankets 		(In Small Room  3rd floor)		15.00</p>
-            <p>17 Quilts at 4$				"			68.00</p>
-            <p>12 Comforts at 2$			"			24.00</p>
-            <p>1 Box Sugar and 1 Box Crackers	"			7.80</p>
-            <p>4 Beds Complete		(In Bedchamber 3rd floor)	60.00</p>
-            <p>18 Gallons Apple Butter $1		"			18.00</p>
-            <p>6 Crocks Jellies	$1				  	 6.00</p>
-            <p>1 Pair Fly Nets						  10.00</p>
-            <p>30# Feathers at 40cents					  12.00</p>
-            <p>14 Oil Cloth Blinds @ $1					  14.00</p>
-            <p>Maps and Books						  50.00</p>
-            <p>1 Washing Machine and Wringer				15.00</p>
-            <p>1 Copper Kettle (40 galls)					 15.00</p>
-            <p>1 Iron    do.							   4.00</p>
-            <p>1 Lard Press							  2.00</p>
-            <p>2 Wash Tubs and Buckets					  4.00</p>
-            <p>600 # Bacon (of 4 Hogs)					  80.00</p>
-            <p>1 Churn and Stand						    4.00</p>
+            <table>
+               <row><cell>1 Set Small Knives and Forks- Room 2nd Floor</cell><cell>$12.00</cell></row>
+               <row><cell>2   "       " 	Silver Spoons</cell><cell>"</cell><cell>12.00</cell></row>
+               <row><cell>2   "	"	Large   do.</cell><cell>"</cell><cell>18.00</cell></row>
+               <row><cell>2 Beds Complete		(In Bedchamber 2nd Floor)	   40.00</cell></row>
+               <row><cell>1 Washstand adn Ware</cell><cell>"</cell><cell>3.00</cell></row>
+               <row><cell>1 Mantle Clock</cell><cell>"</cell><cell>5.00</cell></row>
+               <row><cell>1 Trunk</cell><cell>"</cell><cell>5.00</cell></row>
+               <row><cell>1 Bureau</cell><cell>"</cell><cell>5.00</cell></row>
+               <row><cell>20 Yds. Carpet $1</cell><cell>"</cell><cell>20.00</cell></row>
+               <row><cell>35 Yds. Oilcloth</cell><cell>(In Upper Hall)</cell><cell> 20.00</cell></row>
+               <row><cell>Stair Carpet, Stair Rods, and Oilcloth</cell><cell></cell><cell>15.00</cell></row>
+               <row><cell>9 Venetian Blinds $3</cell><cell></cell><cell>27.00</cell></row>
+               <row><cell>1 Carriage Robe</cell><cell></cell><cell>   20.00</cell></row>
+               <row><cell>2 Beds Complete</cell><cell>(In Bedchamber 3rd Floor)</cell><cell>50.00</cell></row>
+               <row><cell>1 Table and Cover</cell><cell>"</cell><cell>4.00</cell></row>
+               <row><cell>1 Washstand and Bowl</cell><cell>"</cell><cell>5.00</cell></row>
+               <row><cell>1 Looking Glass</cell><cell>"</cell><cell> 2.50</cell></row>
+               <row><cell>26 Yds. Carpet</cell><cell>"</cell><cell>13.00</cell></row>
+               <row><cell>1 Bed Complete</cell><cell>(In Chamber 3rd Floor)</cell><cell> 30.00</cell></row>
+               <row><cell>1 Washstand and Bowl</cell><cell>"</cell><cell>10.00</cell></row>
+               <row><cell>1 Looking Glass</cell><cell>"</cell><cell>2.50</cell></row>
+               <row><cell>1 Sewing Machine</cell><cell>"</cell><cell>50.00</cell></row>
+               <row><cell>1 Stand </cell><cell>"</cell><cell>1.50</cell></row>
+               <row><cell>1 Stove</cell><cell>"</cell><cell>12.00</cell></row>
+               <row><cell>26 Yds Carpet et $1</cell><cell>"</cell><cell>26.00</cell></row>
+               <row><cell>½ Doz. Large Arm Chairs</cell><cell>"</cell><cell>9.00</cell></row>
+               <row><cell>16 Yds. Hall Carpet</cell><cell>(3rd Floor Chamber)</cell><cell>8.00</cell></row>
+               <row><cell>26 Yds. Carpet at $1. </cell><cell>(In Bedchamber 3rd floor)</cell><cell>26.00</cell></row>
+               <row><cell>1 Rug</cell><cell>"</cell><cell>6.00</cell></row>
+               <row><cell>6 Blankets</cell><cell>(In Small Room  3rd floor)</cell><cell>15.00</cell></row>
+               <row><cell>17 Quilts at 4$</cell><cell>"</cell><cell>68.00</cell></row>
+               <row><cell>12 Comforts at 2$</cell><cell>"</cell><cell>24.00</cell></row>
+               <row><cell>1 Box Sugar and 1 Box Crackers</cell><cell>"</cell><cell>7.80</cell></row>
+               <row><cell>4 Beds Complete</cell><cell>(In Bedchamber 3rd floor)</cell><cell>60.00</cell></row>
+               <row><cell>18 Gallons Apple Butter $1</cell><cell>"</cell><cell>18.00</cell></row>
+               <row><cell>6 Crocks Jellies	$1</cell><cell></cell><cell>6.00</cell></row>
+               <row><cell>1 Pair Fly Nets</cell><cell></cell><cell>10.00</cell></row>
+               <row><cell>30# Feathers at 40cents</cell><cell>12.00</cell></row>
+               <row><cell>14 Oil Cloth Blinds @ $1</cell><cell>14.00</cell></row>
+               <row><cell>Maps and Books</cell><cell></cell><cell> 50.00</cell></row>
+               <row><cell>1 Washing Machine and Wringer</cell><cell>15.00</cell></row>
+               <row><cell>1 Copper Kettle (40 galls)	</cell><cell>15.00</cell></row>
+               <row><cell>1 Iron    do.</cell><cell>4.00</cell></row>
+               <row><cell>1 Lard Press</cell><cell> 2.00</cell></row>
+               <row><cell>2 Wash Tubs and Bucket</cell><cell>4.00</cell></row>
+               <row><cell>600 # Bacon (of 4 Hogs)</cell><cell>80.00</cell></row>
+               <row><cell>1 Churn and Stand</cell><cell>4.00</cell></row>
+            </table>               
          </div>
          
 <!-- AR- image 101, transcription-4 page 11,-->
          <div type="entry" xml:id="KFO-101">
             <head><pb facs="KFODiary_p101.jpg" n="101"/></head>
             <!--AR- list of items, cont. from previous page. done with typewriter.-->
-            <p>1 Barrel Cider Vinegar					$5.00</p>
-            <p>1 Hand Cart							 4.00</p> 
-            <p>1 New Buggy							250.00</p>
-            <p>1 Old Sleigh							6.00</p> 
-            <p>1 Set Harness							50.00</p>
-            <p>1 set    do. (old)						10.00</p> 
-            <p>3 Old Saddles and Bridles					15.00</p>
-            <p>1 Bay "Horse” 1 Grey Horse "Charlie”			250.00</p> 
-            <p>3 Cows, 1 spotted, 1 Roan, and 1 White Back		185.00</p>
-            <p>4 Steers 2 red, 1 yellow, 1 spotted				200.00</p> 
-            <p>1 Gold Watch and Chain					175.00</p>
-            <p>$3887.05</p> <!-- AR- line above price total in origiinal -->
-            <p>Received February 1870 or H.S. Overholt [Henry S. Overholt], C.S Overholt [Christian S. Overholt] and J.O. Tinstman [Jacob O.Tinstman], executors of the last Will and Testament of Abraham Overholt, deceased, the Articles named in the forgoing Schedule, amounting in the aggregate to the sum of Three Thousand Eight Hundred adn Eighty-seven 05/100
+         <table>
+            <row><cell>1 Barrel Cider Vinegar</cell><cell></cell><cell>$5.00</cell></row>
+            <row><cell>1 Hand Cart</cell><cell></cell><cell>4.00</cell></row>
+            <row><cell>1 New Buggy</cell><cell></cell><cell>250.00</cell></row>
+            <row><cell>1 Old Sleigh</cell><cell></cell><cell>6.00</cell></row>
+            <row><cell>1 Set Harness</cell><cell></cell><cell>50.00</cell></row>
+            <row><cell>1 set    do. (old)</cell><cell></cell><cell>10.00</cell></row>
+            <row><cell>3 Old Saddles and Bridles</cell><cell></cell><cell>15.00</cell></row>
+            <row><cell>1 Bay "Horse” 1 Grey Horse "Charlie”</cell><cell></cell><cell>250.00</cell></row> 
+            <row><cell>3 Cows, 1 spotted, 1 Roan, and 1 White Back</cell><cell></cell><cell>185.00</cell></row>
+            <row><cell>4 Steers 2 red, 1 yellow, 1 spotted</cell><cell></cell><cell>200.00</cell></row>
+            <row><cell>1 Gold Watch and Chain</cell><cell></cell><cell>175.00</cell></row>
+            <row><cell></cell><cell></cell><cell>$3887.05</cell></row> <!-- AR- line between end of list and price total in origiinal -->
+         </table>
+            <p>Received February 1870 or <persName ref="#HSO">H.S. Overholt</persName>, <persName ref="CSO">C.S Overholt</persName> and J.O. Tinstman [Jacob O.Tinstman], executors of the last Will and Testament of Abraham Overholt, deceased, the Articles named in the forgoing Schedule, amounting in the aggregate to the sum of Three Thousand Eight Hundred adn Eighty-seven 05/100
                Dollars ($3887.05) which articles I have elected to take in full under the following clause of the Will of my later Husband dec’d.
             </p> 
             <p>"I also give and bequeath to my said wife my Household and Kitchen Furniture with the Bedsa and Bedding, Horses and Carriages or so much thereof as she may is necessary out of any or all of the property I now have.”
