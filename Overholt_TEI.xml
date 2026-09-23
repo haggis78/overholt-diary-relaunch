@@ -257,10 +257,34 @@
                   <note>Lived in the Overholt homestead with his older brother <persName ref="#RO"
                         >Ralph Overholt</persName></note>
                </person>
+<!-- AR- relaunch additions to personography: -->               
+                  <person>
+                     <person xml:id="#GDMO" sex="f"></person>
+                     <persName>Maria Staufer Overholt</persName>
+                     <birth when=""></birth>
+                     <death when=""></death>
+                  </person>
+               <person>
+                  <person xml:id="#AG" sex="f"></person>
+                  <persName>Anna Gilchrist</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note>Daughter of Jeremiah Gilchrist, stock dealer, East Liberty, Pa.</note>
+               </person>
+               <person>
+                  <person xml:id="#JEF" sex="m"></person>
+                  <persName>J. Edgar Frick</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+               </person>
+               <person>
+                  <person xml:id="#BFO" sex="m"></person>
+                  <persName>B. Frank Overholt</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+               </person>
             </listPerson>
-
          </particDesc>
-
       </profileDesc>
       <!-- AR- diary begins here -->
    </teiHeader>
@@ -384,13 +408,13 @@
                   reason="illegible">??</unclear></p>
          </div>
          
-         <!-- AR- image 098, transcription-4 page 8,-->
+<!-- AR- image 098, transcription-4 page 8,-->
          <div type="entry" xml:id="KFO-98">
             <head><pb facs="KFODiary_p098.jpg" n="98"/></head>        
             <p>Oath of Appraisers</p>
             <p>State of Pennsylvania</p>
             <p>Westmoreland County: ss</p>
-            <p>Before me, William M. Jordan, Notary Public in and for said County, personally came Daniel Shupe and Joseph R. STauffer, who upon their Solemn Affirmation that they would well and truly and without prejudice or partiality, value and appraise the goods, chattels, Rights and Credits were of Abraham Overholt, late of West Overton, decease, and in all respects perform their duties as appraisers to the best of their skill and judgment. </p>
+            <p>Before me, William M. Jordan, Notary Public in and for said County, personally came Daniel Shupe and Joseph R. STauffer, who upon their Solemn Affirmation that they would well and truly and without prejudice or partiality, value and appraise the goods, chattels, Rights and Credits were of<persName ref="AOT"> Abraham Overholt</persName>, late of West Overton, decease, and in all respects perform their duties as appraisers to the best of their skill and judgment. </p>
             <p>Affirmed to and subscribed this 3rd day of February, A.D. 1879, before me, William J. Jordan,</p>
             <p>Notary Public</p>
             <p>Daniel Shupe</p>
@@ -633,45 +657,45 @@
          <div type="entry" xml:id="KFO-108">
             <head><pb facs="KFODiary_p108.jpg" n="108"/></head>
             <p>April 17th, 1872. Noon. "Wednesday”</p>
-            <p>John S.R.O. &amp; Maria O. T 
+            <p><persName ref="#JSRO">John S.R.O.</persName> &amp; Maria O. T 
                Married
-               At Abraham[ O.[verholt] homestead (parker)-
-               By Rev. W. S. Woods of Mt. Pleasant PA. He was the Baptist minister.
+               At <persName ref="#AO">Abraham O.</persName> homestead (parker)-
+               By <persName>Rev. W. S. Woods</persName> of <placeName>Mt. Pleasant</placeName> PA. He was the Baptist minister.
                Attendants:
             </p>
-            <p>Anna Gilchrist (daughter of Jeremiah Gilchrist, stock-dealer, East Liberty, PA)
-               later married 			of near Mt. Pleasant</p> <!-- AR spaces in original -->
-            <p>B. Frank Overholt- cousin</p>
-            <p>About 30 invited. Reception and dinner followed. Mother baked her own wedding cake, pink &amp; white button candies on top. </p>
+            <p><persName ref="#AG">Anna Gilchrist</persName>(daughter of <persName>Jeremiah Gilchrist</persName>, stock-dealer, <placeName>East Liberty</placeName>, PA)
+               later married 			of near <placeName>Mt. Pleasant</placeName></p> <!-- AR spaces in original -->
+            <p><persName ref="#BFO">B. Frank Overholt</persName>- cousin</p>
+            <p>About 30 invited. Reception and dinner followed. <persName ref="#MFO">Mother</persName> baked her own wedding cake, pink &amp; white button candies on top. </p>
             <p>Among those present;-</p>
-            <p>Col. James M Reid of Connellsville) [sic]
-               *sister of Lizzie Gilchrist, later Mrs. Rappe of Greensburg
+            <p><persName>Col. James M Reid</persName> of <placeName>Connellsville</placeName>) [sic]
+               *sister of <persName>Lizzie Gilchrist</persName>, later Mrs. Rappe of <placeName>Greensburg</placeName>
             </p>
             
          </div>   
 <!-- AR- image 109, transcription-4 page 19,-->
          <div type="entry" xml:id="KFO-109">
             <head><pb facs="KFODiary_p109.jpg" n="109"/></head>
-            <p>About 2 P.M. or later, 5 or 6 couples* drove with them to Greensburg, where supper was had at Blacks hotel &amp; later bride &amp; groom, &amp; Annie Gilchrist &amp; B. F. O [B.Frank Overholt], took train to Phila.</p>
+            <p>About 2 P.M. or later, 5 or 6 couples* drove with them to <placeName>Greensburg</placeName>, where supper was had at Blacks hotel &amp; later bride &amp; groom, &amp; <persName ref="#AG">Annie Gilchrist</persName> &amp; <persName ref="#BFO">B.F.O</persName>, took train to<abbr><placeName>Phila</placeName></abbr>.</p>
             
             <p>While there, stopped at Continental Hotel, &amp; party had to change to another hotel in middle of the night as fire broke out in C. Hotel. 
-               Then went to Niagara Falls.
-               "	"	" Cleveland.</p>
+               Then went to <placeName>Niagara Falls</placeName>.
+               "	"	" <placeName>Cleveland</placeName>.</p>
             
-           <p> *Pheobe Fox (daughter of Christian Fox near Alverton) &amp; C.S.R.O. [Christian S.R. Overholt] 
+            <p> <persName>*Pheobe Fox</persName> (daughter of <persName>Christian Fox</persName> near <placeName>Alverton</placeName>) &amp; <persName ref="#CSRO">C.S.R.O.</persName> 
             Kate Fox (" 	"	"	") &amp; H.C. F (no entries in {FC??} books on that day)
             Elizabeth S.O (father’s sister) &amp; – Chambers
-            Aunt Sallie ( "  sister in law) &amp; Uncle Aaron S.R. O[Overholt]
-            Anna Gilchrist &amp; B.F.O (B. Frank Overholt)</p>
+            Aunt Sallie ( "  sister in law) &amp; <persName ref="#ASRO">Uncle Aaron S.R. O</persName>
+               <persName ref="#AG">Anna Gilchrist</persName> &amp; <persName ref="#BFO">B.F.O</persName></p>
         
          </div>   
          
 <!-- AR- image 110, transcription-4 page 20,-->
          <div type="entry" xml:id="KFO-110">
             <head><pb facs="KFODiary_p110.jpg" n="110"/></head>
-            <p>Dect. 1st, 1871</p>
+            <p><date when="December 1, 1871">Dect. 1st, 1871</date></p>
             
-            <p>Mother received payment of her $2000 legacy from Grandfather O[Overholt] and her signature receiptship same is witnessed by father. </p>
+            <p><persName ref="#MFO">mother</persName> received payment of her $2000 legacy from Grandfather O[Overholt] and her signature receiptship same is witnessed by father. </p>
             
          </div>   
          
@@ -680,17 +704,17 @@
             <head><pb facs="KFODiary_p111.jpg" n="111"/></head>
             <p>Wedding Gifts</p> <!--AR- this line is underlined in the original -->
             
-            <p>Silver water pitcher &amp; goblets^ (no tray) from Uncle Clay (Henry Clay Frick)
-               Linens &amp; trouseau[sic] - from Gdm. O [Grandmother Mariah Stauffer Overholt]
-               Silver card receiver- from B.F. O [B. Frank Overholt]
-               Silver stand holding 2 glass pickle jars &amp; forks- from Anna Gilchrist</p>
+            <p>Silver water pitcher &amp; goblets^ (no tray) from <persName ref="#HCF">Uncle Clay</persName>
+               Linens &amp; trouseau[sic] - from <persName ref="#GDMO">Gdm.O.</persName>
+               Silver card receiver- from <persName ref="#BFO">B.F.O</persName>
+               Silver stand holding 2 glass pickle jars &amp; forks- from <persName ref="#AG">Anna Gilchrist</persName></p>
            
          </div>   
          
 <!-- AR- image 112, transcription-4 page 22,-->
          <div type="entry" xml:id="KFO-112">
             <head><pb facs="KFODiary_p112.jpg" n="112"/></head>
-            <p>Wedding reception in May 1872 at Grandmothers</p>
+            <p>Wedding reception in May <date when= "May 1872">1872</date> at  <persName ref="#GDMO">Grandmothers</persName></p>
             
             <p>"Turkeys”</p>
             
@@ -701,29 +725,29 @@
 <!-- AR- image 113, transcription-4 page 23,-->
          <div type="entry" xml:id="KFO-113">
             <head><pb facs="KFODiary_p113.jpg" n="113"/></head>
-            <p>Father who decided to follow milling &amp; mother had in mind going to California to live, &amp; after bridal trip * visit at Overton with Gdm O, [Maria Stauffer Overholt], they started west. 
-               En route they visited Uncle Jacob Frick, August ‘72, and he persuaded father to locate near Wooster, i.e. ten miles west at Shreve, which he did buying a grain elevator with 25,000 bus. Capacity, costing $2500.00, both sold to him by Elijah Montgomery. 
-               They lived at Shreve from Aug.^ 27th ‘72 to April 14</p>
+            <p><persName ref="#JSRO">Father</persName> who decided to follow milling &amp; <persName ref="#MFO">mother</persName> had in mind going to <placeName>California</placeName> to live, &amp; after bridal trip * visit at <placeName>Overton</placeName> with <persName ref="#GDMO">Gdm.O.</persName>, they started west. 
+               En route they visited Uncle Jacob Frick, August <date when="1872">‘72</date>, and he persuaded father to locate near <placeName>Wooster</placeName>, i.e. ten miles west at <placeName>Shreve</placeName>, which he did buying a grain elevator with 25,000 bus. Capacity, costing $2500.00, both sold to him by <persName>Elijah Montgomery</persName>. 
+               They lived at <placeName>Shreve</placeName> from <date when="">Aug.^ 27th ‘72</date> to <date when="">April 14</date></p>
             
-            <p>Oct 25 ‘72 at Shreve {illegible} doctor {illegible} operated
-               Uncle Clay [Henry Clay Frick] worked there in July ‘73
-               Mother had a poor maid there- Mrs. Jones soothing syrup
-               Aunt Sallie (Sallie Frick) visited them in latter part of ‘73.</p>
+            <p><date when="">Oct 25 ‘72</date> at <placeName>Shreve</placeName> {illegible} doctor {illegible} operated
+               <persName ref="#HCF">Uncle Clay</persName> worked there in July <date when="1873">‘73</date>
+               <persName ref="#MFO">Mother</persName> had a poor maid there- Mrs. Jones soothing syrup
+               Aunt Sallie (Sallie Frick) visited them in latter part of <date when="1873">‘73</date>.</p>
             
-            <p>Dr Todd lived in Shreve then, as did his father {farmer] Todd, who {was or has mined or miser}</p>
+            <p>Dr Todd lived in <placeName>Shreve</placeName> then, as did his father {farmer] Todd, who {was or has mined or miser}</p>
             
-            <p>On April 4, 74, Father sold grain elevator for 4500 to Berg. Palmer and about same time sold something {illegible, may be home or else} for 4000 to Ed D. Porock.</p>
+            <p>On April 4, 74, <persName ref="#JSRO">Father</persName>r sold grain elevator for 4500 to Berg. Palmer and about same time sold something {illegible, may be home or else} for 4000 to <persName>Ed D. Porock</persName>.</p>
             
          </div>   
          
 <!-- AR- image 114, transcription-4 page 24,-->
          <div type="entry" xml:id="KFO-114">
             <head><pb facs="KFODiary_p114.jpg" n="114"/></head>
-            <p>4-1-74 Uncle Edgar’s name changed from Peter Sherrick Frick to J Edgar Frick by <persName ref="#HCF">Uncle Clay</persName> who gave him a pearl pen knife. </p>
-            <p>In spring of 1874, F &amp; <persName ref="#MFO">M</persName> left Shreve &amp; moe to <placeName>Wooster</placeName>.</p>
+            <p><date when="">4-1-74</date> <persName ref="#JEF">Uncle Edgar’s</persName> name changed from <persName ref="#JEF">Peter Sherrick Frick</persName> to <persName ref="#JEF">J Edgar Frick</persName> by <persName ref="#HCF">Uncle Clay</persName> who gave him a pearl pen knife. </p>
+            <p>In spring of <date when="1874">1874</date>, F &amp; <persName ref="#MFO">M</persName> left Shreve &amp; moe to <placeName>Wooster</placeName>.</p>
             <p>They lived the first two months at "The American Home” ( Mr. &amp; Mrs. Yocum were boarding them there)</p>
-            <p>In June ‘74 Father [John S.R. Overholt] bought a 1/3rd interest in the Wooster City Mills for $8,000, &amp; in July another 1/3rd, &amp; in August Uncle Jacob Frick bought the remaining third; - then Father [John S.R Overholt] conveyed him a 1/6th interest for $4,000, and on Sept 4, 1874 Uncle Jacob Frick &amp; Father [John S.R. Overholt] became equal partners in the property, each ½ costing $12,000.00 </p>
-            <p><persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> in June or July ‘74 leased the frame dwelling , #27 Spink St, (adjoining my birthplace) &amp; lived there until April 1, 1875, when they moved to the Judge Welker property at corner of Beall Ave &amp; Larwill St.  
+            <p>In June <date when="June, 1874">‘74</date> <persName ref="#JSRO">Father</persName> bought a 1/3rd interest in the Wooster City Mills for $8,000, &amp; in July another 1/3rd, &amp; in August Uncle Jacob Frick bought the remaining third; - then <persName ref="#JSRO">Father</persName> conveyed him a 1/6th interest for $4,000, and on Sept 4, 1874 Uncle Jacob Frick &amp; <persName ref="#JSRO">Father</persName> became equal partners in the property, each ½ costing $12,000.00 </p>
+            <p><persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> in June or July <date when="July, 1874">‘74</date> leased the frame dwelling , #27 Spink St, (adjoining my birthplace) &amp; lived there until <date>April 1, 1875</date>, when they moved to the Judge Welker property at corner of Beall Ave &amp; Larwill St.  
                Cousin Abe C Overholt- then 16-(<persName ref="#JSRO">Father</persName>] was his guardian) lived with <persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> that fall &amp; went to college.</p>
             <p><persName ref="#JSRO">Father</persName> had bought the corner lot, #23 Spink St, for $600. From the Cunninghams, &amp; was building his home there, &amp; the frame was erected on April 1, ‘75, when they moved to the Beall Ave property.</p>
            
@@ -733,16 +757,16 @@
          <div type="entry" xml:id="KFO-115">
             <head><pb facs="KFODiary_p115.jpg" n="115"/></head>
             
-            <p>The following is copy of newspaper clipping: { this is handwritten as is the ‘copy’} </p>
+            <p>The following is copy of newspaper clipping: </p>
             <p> In Memorian  </p>
             
-            <p>"The following tribute to the memory of Mrs. Overholt, [Maria Stuaffer Overholt] recently deceased, has been written by one well-acquainted with her for a long time:   </p>
-            <p>The parents of the deceased, Mr and Mrs Stauffer, [Abraham Stauffer and Anna Nissley Stauffer]moved from <placeName>Lancaster Co</placeName>, Penna, to <placeName>Fayette County</placeName>, near what is now <placeName>Fountain Mills</placeName>, during the last century, where Maria was born on July 13, 1791.</p>
-            <p>At the age of 18 she married Abraham Overholt- with whom she lived over 60 years, he having died Jany 15, 1870. </p>
+            <p>"The following tribute to the memory of <perName ref="#GDMO">Mrs. Overholt</perName>, recently deceased, has been written by one well-acquainted with her for a long time:   </p>
+            <p>The parents of the deceased, Mr and Mrs Stauffer, [Abraham Stauffer and Anna Nissley Stauffer]moved from <placeName>Lancaster Co</placeName>, Penna, to <placeName>Fayette County</placeName>, near what is now <placeName>Fountain Mills</placeName>, during the last century, where  <perName ref="#GDMO">Maria</perName> was born on July 13, 1791.</p>
+            <p>At the age of 18 she married <persName ref="#AO">Abraham Overholt</persName>- with whom she lived over 60 years, he having died Jany 15, 1870. </p>
             <p>They began housekeeping in a little stone building, which is still standing near the homestead from which she has just taken her final departure- making 65 years she lived on that farm.  
                About the time of her marriage, she and her husband united with the Mennonite Church, of which they remained members during life.  </p>
             <p>She had 8 children, of whom only 3 survive her. At the time of her death, she had 48 grandchildren, &amp; 25 great grandchildren.   </p>
-            <p> She retained remarkable activity of body &amp; mind to within a few months of her death; her mind remaining remarkably clear to the last. She sat up on last Sabbath, Nov. 1, and conversed but was very weak. That Sabbath became her eternal Sabbath.</p>
+            <p>She retained remarkable activity of body &amp; mind to within a few months of her death; her mind remaining remarkably clear to the last. She sat up on last Sabbath, Nov. 1, and conversed but was very weak. That Sabbath became her eternal Sabbath.</p>
             <p>Her tenderness of hearth, peace of mind, &amp; abiding faith seemed to increase &amp; brighten as her strength failed.   </p>
             <p>As the time of her departure drew near, it became easy to say "The Lord’s Will, and not mine.” Those who remember that sweet face, and knew that loving heart, and heard that winning voice,  </p>
            
@@ -754,7 +778,7 @@
             <head><pb facs="KFODiary_p116.jpg" n="116"/></head>
             
             <p>Will not wonder that the children and grandchildren feel a sorrow so deep and the loss so irreparable.</p>
-            <p>They carried her in the Mt. Pleasant cemetery,by the side of her loved ones soon to be followed by some of her loved ones, there together to wait our Lord’s return. </p>
+            <p>They carried her in the<placeName>Mt. Pleasant</placeName> cemetery,by the side of her loved ones soon to be followed by some of her loved ones, there together to wait our Lord’s return. </p>
             <p>Blessed are the dead who die in the Lord, from henceforth, yea, saith the Spirit, tht they may rest from their labors &amp; their works do follow them.  </p>
             <p>L.S. </p>
             
@@ -763,7 +787,7 @@
          <div type="entry" xml:id="KFO-117">
             <head><pb facs="KFODiary_p117.jpg" n="117"/></head>
             
-            <p>On Nov. 1874, Gdm.O. [Maria Stauffer Overholt] died from dropsy &amp; old age (83 ⅓ yrs).   
+            <p>On <date>Nov. 1874</date>, <persName ref="#GDMO">Gdm.O.</persName>died from dropsy &amp; old age (83 ⅓ yrs).   
                The acute trouble first appeared in her heal. Her limbs &amp; body became much swollen, and she suffered a great deal, being conscious to the end.  
                <persName ref="#MFO">Mother</persName> also <persName ref="#JSRO">Father</persName> were there for a week prior to the end.  </p>
             
@@ -773,14 +797,14 @@
             <p><persName ref="#MFO">Mother</persName> had always returned to <placeName>West Overton</placeName> twice a year, after marriage to visit her Grmd [Maria Stauffer Overholt] &amp; generally stayed two weeks at a time.</p>
             <p>Seeing <persName ref="#HCF">Clay</persName> there? </p>
                
-            <p>   Nov 19 &amp; 20, 1874, sale at <placeName>West Overton</placeName> of Gdm O’s [Marian Stuaffer Overholt] properties by Martin S. O [Overholt] admin. <persName ref="#HCF">Uncle Clay</persName> present </p>
+            <p>   Nov 19 &amp; 20, 1874, sale at <placeName>West Overton</placeName> of <persName ref="#GDMO">Gdm O's</persName> [Marian Stuaffer Overholt] properties by Martin S. O [Overholt] admin. <persName ref="#HCF">Uncle Clay</persName> present </p>
             
          </div>         
 <!-- AR- image 118, transcription-4 page 28,-->
          <div type="entry" xml:id="KFO-118">
             <head><pb facs="KFODiary_p118.jpg" n="118"/></head>
             
-            <p>In February 1875 </p>
+            <p>In <date>February 1875</date> </p>
             
             <p> <persName ref="#HCF">Uncle Clay</persName> was very ill with rheumatism at <placeName>Broadford</placeName>
                Drs. Phills and Swizer <unclear reason="illegible">?????</unclear> of <placeName>Connellsville</placeName> attended him. 
@@ -794,25 +818,26 @@
          <div type="entry" xml:id="KFO-119">
             <head><pb facs="KFODiary_p119.jpg" n="119"/></head>
             
-            <p>April 17, 1875, Jay [Overholt] was born at the Beall Avenue property. Dr {blank} officiated. </p>
-            <p> {note in margin: see HCF[ Henry Clay Frick] day book page 49} June 19, 1875, -<persName ref="#HCF">Uncle Clay</persName> visited them while at the Beall Ave. property.  
-               Mr Andrew W Mellon was with him. They were there two days.</p>
-            <p>Augus 1875- F &amp; <persName ref="#MFO">M</persName> moved into their new home, #23 Spink Street, which cost $2600.00. The lot cost $775.00, making the total cost $3375.00.  
-               Robert Cameron was the builder.</p>
-            <p>{note in margin: See HCF day book p 89}  December 1875- <persName ref="#HCF">Uncle Clay</persName>  visited [Father-John S.R. Overholt] &amp; <persName ref="#MFO">M</persName> in their new home. </p> 
+            <p><date>April 17, 1875</date>, Jay [Overholt] was born at the Beall Avenue property. Dr {blank} officiated. </p>
+            <p> {note in margin: see HCF[ Henry Clay Frick] day book page 49} <date>June 19, 1875</date>, -<persName ref="#HCF">Uncle Clay</persName> visited them while at the Beall Ave. property.  
+               Mr <persName>Andrew W Mellon</persName> was with him. They were there two days.</p>
+            <p><date>Augus 1875</date>- F &amp; <persName ref="#MFO">M</persName> moved into their new home, #23 Spink Street, which cost $2600.00. The lot cost $775.00, making the total cost $3375.00.  
+            <persName>Robert Cameron</persName> was the builder.</p>
+            <p>{note in margin: See HCF day book p 89}  <date>December 1875</date>- <persName ref="#HCF">Uncle Clay</persName>  visited <persName ref="#JSRO">F</persName> &amp; <persName ref="#MFO">M</persName> in their new home.</p> 
            
          </div>
 <!-- AR- image 120, transcription4 page 30-->           
          <div type="entry" xml:id="KFO-120">
             <head><pb facs="KFODiary_p141.jpg" n="120"/></head>
             
-            <p>In Fall of ‘75, </p>
-            <p><persName ref="#HCF">Uncle Clay</persName> took Uncle Edgar [J Edgar Frick] to the P.W.C. at <placeName>Chester</placeName>, Penna. For a year of schooling. Edgar [J Edgar Frick]had been working for about a year at <placeName>Broadford</placeName>, and after his year at P.W.C, he returned and clerked at <placeName>Valley</placeName>, then <placeName>Dunbar</placeName>, and then again at <placeName>Broadford</placeName>. In spring of 1880 he left Bfd and went to <placeName>Wooster</placeName> with his parents. </p>
-            <p>July 1, 1876- <persName ref="#HCF">Uncle Clay</persName> appointed trustee of Gdm Frick’s [Elizabeth Overholt Frick] share in her father’s estate (Abraham O.) [Abraham Overholt] succeeding CSO [Christian S Overholt]</p>
-            <p>In 1877-  Uncle Aaron O Frick visited <persName ref="#JSRO">F</persName> and <persName ref="#MFO">mother</persName></p> 
+            <p>In Fall of <date when="1875">‘75</date>, </p>
+            <p><persName ref="#HCF">Uncle Clay</persName> took <persName re="#JEF">Uncle Edgar</persName> to the P.W.C. at <placeName>Chester</placeName>, Penna. For a year of schooling. Edgar [J Edgar Frick]had been working for about a year at <placeName>Broadford</placeName>, and after his year at P.W.C, he returned and clerked at <placeName>Valley</placeName>, then <placeName>Dunbar</placeName>, and then again at <placeName>Broadford</placeName>. In spring of 1880 he left Bfd and went to <placeName>Wooster</placeName> with his parents. </p>
+            <p><date>July 1, 1876</date>- <persName ref="#HCF">Uncle Clay</persName> appointed trustee of Gdm Frick’s [Elizabeth Overholt Frick] share in her father’s estate (Abraham O.) [Abraham Overholt] succeeding CSO [Christian S Overholt]</p>
+            <p>In <date when = "1877">1877</date>-  Uncle Aaron O Frick visited <persName ref="#JSRO">F</persName> and <persName ref="#MFO">mother</persName></p> 
             <p> Date of Jays death.</p>
          
          </div>
+<!-- AR- resume original project work -->         
          
          <div type="entry" xml:id="KFO-141">
             <head><pb facs="KFODiary_p141.jpg" n="141"/>My dear <persName ref="#MFO"
