@@ -693,7 +693,7 @@
 <!-- AR- image 110, transcription-4 page 20,-->
          <div type="entry" xml:id="KFO-110">
             <head><pb facs="KFODiary_p110.jpg" n="110"/></head>
-            <p><date when="December 1, 1871">Dect. 1st, 1871</date></p>
+            <p><date when="1871-12-01">Dect. 1st, 1871</date></p>
             
             <p><persName ref="#MFO">mother</persName> received payment of her $2000 legacy from Grandfather O[Overholt] and her signature receiptship same is witnessed by father. </p>
             
@@ -714,7 +714,7 @@
 <!-- AR- image 112, transcription-4 page 22,-->
          <div type="entry" xml:id="KFO-112">
             <head><pb facs="KFODiary_p112.jpg" n="112"/></head>
-            <p>Wedding reception in May <date when= "May 1872">1872</date> at  <persName ref="#GDMO">Grandmothers</persName></p>
+            <p>Wedding reception in May <date when= "1872-05-00">1872</date> at  <persName ref="#GDMO">Grandmothers</persName></p>
             
             <p>"Turkeys”</p>
             
@@ -727,9 +727,9 @@
             <head><pb facs="KFODiary_p113.jpg" n="113"/></head>
             <p><persName ref="#JSRO">Father</persName> who decided to follow milling &amp; <persName ref="#MFO">mother</persName> had in mind going to <placeName>California</placeName> to live, &amp; after bridal trip * visit at <placeName>Overton</placeName> with <persName ref="#GDMO">Gdm.O.</persName>, they started west. 
                En route they visited Uncle Jacob Frick, August <date when="1872">‘72</date>, and he persuaded father to locate near <placeName>Wooster</placeName>, i.e. ten miles west at <placeName>Shreve</placeName>, which he did buying a grain elevator with 25,000 bus. Capacity, costing $2500.00, both sold to him by <persName>Elijah Montgomery</persName>. 
-               They lived at <placeName>Shreve</placeName> from <date when="">Aug.^ 27th ‘72</date> to <date when="">April 14</date></p>
+               They lived at <placeName>Shreve</placeName> from <date when="1872-08-27">Aug.^ 27th ‘72</date> to <date when="1873-04-14">April 14</date></p>
             
-            <p><date when="">Oct 25 ‘72</date> at <placeName>Shreve</placeName> {illegible} doctor {illegible} operated
+            <p><date when="1872-10-25">Oct 25 ‘72</date> at <placeName>Shreve</placeName> {illegible} doctor {illegible} operated
                <persName ref="#HCF">Uncle Clay</persName> worked there in July <date when="1873">‘73</date>
                <persName ref="#MFO">Mother</persName> had a poor maid there- Mrs. Jones soothing syrup
                Aunt Sallie (Sallie Frick) visited them in latter part of <date when="1873">‘73</date>.</p>
@@ -743,13 +743,13 @@
 <!-- AR- image 114, transcription-4 page 24,-->
          <div type="entry" xml:id="KFO-114">
             <head><pb facs="KFODiary_p114.jpg" n="114"/></head>
-            <p><date when="">4-1-74</date> <persName ref="#JEF">Uncle Edgar’s</persName> name changed from <persName ref="#JEF">Peter Sherrick Frick</persName> to <persName ref="#JEF">J Edgar Frick</persName> by <persName ref="#HCF">Uncle Clay</persName> who gave him a pearl pen knife. </p>
+            <p><date when="1874-04-01">4-1-74</date> <persName ref="#JEF">Uncle Edgar’s</persName> name changed from <persName ref="#JEF">Peter Sherrick Frick</persName> to <persName ref="#JEF">J Edgar Frick</persName> by <persName ref="#HCF">Uncle Clay</persName> who gave him a pearl pen knife. </p>
             <p>In spring of <date when="1874">1874</date>, F &amp; <persName ref="#MFO">M</persName> left Shreve &amp; moe to <placeName>Wooster</placeName>.</p>
             <p>They lived the first two months at "The American Home” ( Mr. &amp; Mrs. Yocum were boarding them there)</p>
-            <p>In June <date when="June, 1874">‘74</date> <persName ref="#JSRO">Father</persName> bought a 1/3rd interest in the Wooster City Mills for $8,000, &amp; in July another 1/3rd, &amp; in August Uncle Jacob Frick bought the remaining third; - then <persName ref="#JSRO">Father</persName> conveyed him a 1/6th interest for $4,000, and on <date when="">Sept 4, 1874</date> Uncle Jacob Frick &amp; <persName ref="#JSRO">Father</persName> became equal partners in the property, each ½ costing $12,000.00 </p>
-            <p><persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> in June or July <date when="July, 1874">‘74</date> leased the frame dwelling , #27 Spink St, (adjoining my birthplace) &amp; lived there until <date>April 1, 1875</date>, when they moved to the Judge Welker property at corner of Beall Ave &amp; Larwill St.  
+            <p>In June <date when="1874-06-00">‘74</date> <persName ref="#JSRO">Father</persName> bought a 1/3rd interest in the Wooster City Mills for $8,000, &amp; in July another 1/3rd, &amp; in August Uncle Jacob Frick bought the remaining third; - then <persName ref="#JSRO">Father</persName> conveyed him a 1/6th interest for $4,000, and on <date when="1874-09-04">Sept 4, 1874</date> Uncle Jacob Frick &amp; <persName ref="#JSRO">Father</persName> became equal partners in the property, each ½ costing $12,000.00 </p>
+            <p><persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> in <date when="1874-06-00">June or July ‘74</date> leased the frame dwelling , #27 Spink St, (adjoining my birthplace) &amp; lived there until <date when="1875-04-01">April 1, 1875</date>, when they moved to the Judge Welker property at corner of Beall Ave &amp; Larwill St.  
                Cousin Abe C Overholt- then 16-(<persName ref="#JSRO">Father</persName>] was his guardian) lived with <persName ref="#JSRO">Father</persName> and <persName ref="#MFO">mother</persName> that fall &amp; went to college.</p>
-            <p><persName ref="#JSRO">Father</persName> had bought the corner lot, #23 Spink St, for $600. From the Cunninghams, &amp; was building his home there, &amp; the frame was erected on <date when="">April 1, ‘75</date>, when they moved to the Beall Ave property.</p>
+            <p><persName ref="#JSRO">Father</persName> had bought the corner lot, #23 Spink St, for $600. From the Cunninghams, &amp; was building his home there, &amp; the frame was erected on <date when="1875-04-01">April 1, ‘75</date>, when they moved to the Beall Ave property.</p>
            
          </div>   
          
@@ -787,7 +787,7 @@
          <div type="entry" xml:id="KFO-117">
             <head><pb facs="KFODiary_p117.jpg" n="117"/></head>
             
-            <p>On <date>Nov. 1874</date>, <persName ref="#GDMO">Gdm.O.</persName>died from dropsy &amp; old age (83 ⅓ yrs).   
+            <p>On <date when="1874-11-00">Nov. 1874</date>, <persName ref="#GDMO">Gdm.O.</persName>died from dropsy &amp; old age (83 ⅓ yrs).   
                The acute trouble first appeared in her heal. Her limbs &amp; body became much swollen, and she suffered a great deal, being conscious to the end.  
                <persName ref="#MFO">Mother</persName> also <persName ref="#JSRO">Father</persName> were there for a week prior to the end.  </p>
             
@@ -804,7 +804,7 @@
          <div type="entry" xml:id="KFO-118">
             <head><pb facs="KFODiary_p118.jpg" n="118"/></head>
             
-            <p>In <date>February 1875</date> </p>
+            <p>In <date when="1875-02-00">February 1875</date> </p>
             
             <p> <persName ref="#HCF">Uncle Clay</persName> was very ill with rheumatism at <placeName>Broadford</placeName>
                Drs. Phills and Swizer <unclear reason="illegible">?????</unclear> of <placeName>Connellsville</placeName> attended him. 
@@ -818,12 +818,12 @@
          <div type="entry" xml:id="KFO-119">
             <head><pb facs="KFODiary_p119.jpg" n="119"/></head>
             
-            <p><date>April 17, 1875</date>, Jay [Overholt] was born at the Beall Avenue property. Dr {blank} officiated. </p>
-            <p> {note in margin: see HCF[ Henry Clay Frick] day book page 49} <date>June 19, 1875</date>, -<persName ref="#HCF">Uncle Clay</persName> visited them while at the Beall Ave. property.  
+            <p><date when="1875-04-17">April 17, 1875</date>, Jay [Overholt] was born at the Beall Avenue property. Dr {blank} officiated. </p>
+            <p> {note in margin: see HCF[ Henry Clay Frick] day book page 49} <date when="1875-06-19">June 19, 1875</date>, -<persName ref="#HCF">Uncle Clay</persName> visited them while at the Beall Ave. property.  
                Mr <persName>Andrew W Mellon</persName> was with him. They were there two days.</p>
-            <p><date>Augus 1875</date>- F &amp; <persName ref="#MFO">M</persName> moved into their new home, #23 Spink Street, which cost $2600.00. The lot cost $775.00, making the total cost $3375.00.  
+            <p><date when="1875-08-00">Augus 1875</date>- F &amp; <persName ref="#MFO">M</persName> moved into their new home, #23 Spink Street, which cost $2600.00. The lot cost $775.00, making the total cost $3375.00.  
             <persName>Robert Cameron</persName> was the builder.</p>
-            <p>{note in margin: See HCF day book p 89}  <date>December 1875</date>- <persName ref="#HCF">Uncle Clay</persName>  visited <persName ref="#JSRO">F</persName> &amp; <persName ref="#MFO">M</persName> in their new home.</p> 
+            <p>{note in margin: See HCF day book p 89}  <date when ="1875-12-00">December 1875</date>- <persName ref="#HCF">Uncle Clay</persName>  visited <persName ref="#JSRO">F</persName> &amp; <persName ref="#MFO">M</persName> in their new home.</p> 
            
          </div>
 <!-- AR- image 120, transcription4 page 30-->           
@@ -832,7 +832,7 @@
             
             <p>In Fall of <date when="1875">‘75</date>, </p>
             <p><persName ref="#HCF">Uncle Clay</persName> took <persName re="#JEF">Uncle Edgar</persName> to the P.W.C. at <placeName>Chester</placeName>, Penna. For a year of schooling. <persName re="#JEF">Edgar</persName>]had been working for about a year at <placeName>Broadford</placeName>, and after his year at P.W.C, he returned and clerked at <placeName>Valley</placeName>, then <placeName>Dunbar</placeName>, and then again at <placeName>Broadford</placeName>. In spring of 1880 he left Bfd and went to <placeName>Wooster</placeName> with his parents. </p>
-            <p><date>July 1, 1876</date>- <persName ref="#HCF">Uncle Clay</persName> appointed trustee of Gdm Frick’s [Elizabeth Overholt Frick] share in her father’s estate <persName re="#AO">(Abraham O.)</persName> succeeding <persName re="#CSO">CSO</persName></p>
+            <p><date when ="1876-07-01">July 1, 1876</date>- <persName ref="#HCF">Uncle Clay</persName> appointed trustee of Gdm Frick’s [Elizabeth Overholt Frick] share in her father’s estate <persName re="#AO">(Abraham O.)</persName> succeeding <persName re="#CSO">CSO</persName></p>
             <p>In <date when = "1877">1877</date>-  Uncle Aaron O Frick visited <persName ref="#JSRO">F</persName> and <persName ref="#MFO">mother</persName></p> 
             <p> Date of Jays death.</p>
          
