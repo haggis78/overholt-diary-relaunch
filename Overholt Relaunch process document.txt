@@ -1,0 +1,15 @@
+Overholt Relaunch process document/notes Fall 2026
+
+Working with transcription by Cynthia (Cindy) Barber; TEI XML markup done by Andrew Raith
+
+Need to do:
+-Run the XSLT to see how the output looks so far.
+-rewrite About page: Andrew to draft a longer description/discussion of the document, which can contain links to particular entries on the site
+-Add Andrew, Cindy, myself, Elisa to About page's discussion of contributors
+-Make navbar more intuitive. Instead of Diary Images link, have just a Diary link, with two dropdowns, Images and Transcriptions. Need to write an XSLT to generate the Transcriptions page, which would be a TOC with links to each entry.
+-Replace SSI lines in XSLT so all generated pages get navbar pulled from index.html.
+-Go through all XML, XSLT, ODD files; figure out what it actually being used; move all dormant files into an "archive" folder in repo so they don't create confusion.
+
+Ideas:
+-To deal with house floor plans, divide image up into sections; treat it as a table, with text in cells corresponding to locations on page. Have border around whole table to imitate rectangular shape of building plan but do not have borders on all the cells. If there is a desire to draw a border on certain cells (say, to outline a room on the plan), use an attribute value on that one cell (will need to be embedded in the TEI) to outline that one particular cell.
+-Need to figure out how to do family trees. Possibly use family-tree software or a flowchart program to create one, and have it dropped in as an image rather than as HTML text. Could use image mapping to make each person's name into a link that goes to their personography entry.
