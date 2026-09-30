@@ -319,6 +319,41 @@
                   <note>son of <persName ref="AO">Abraham Overholt</persName></note>
                </person>
                
+               <person xml:id="#JWF" sex="m">
+                  <persName>John Wilson Frick</persName>
+                  <birth when="1822">1822</birth> <!-- AR- approximate date of birth extrapolated from age at marraige, KFO diary page 85. -->
+                  <death when=""></death>
+                  <note>paternal grandfather of <persName ref="KFO">Karl Frick Overholt</persName></note>
+               </person>
+               
+               <person xml:id="#EOF" sex="f">
+                  <persName>Elizabeth Overholt Frick</persName>
+                  <birth when="1819">1819</birth> <!-- AR- approximate date of birth extrapolated from age at marraige, KFO diary page 85. -->
+                  <death when=""></death>
+                  <note>grandmother of <persName ref="KFO">Karl Frick Overholt</persName> Daughter of <persName ref="#AO">Abraham Overholt</persName></note>
+               </person>
+               
+               <person xml:id="#DF" sex="m">
+                  <persName>Daniel Frick</persName>
+                  <birth when=""></birth>
+                  <death when="1855-09-20">September 20, 1855</death>
+                  <note>paternal great grandfather of <persName ref="KFO">Karl Frick Overholt</persName>, father of <persName>John Wilson Frick</persName>.</note>
+               </person>
+               
+               <person xml:id="#AF" sex="m">
+                  <persName>Aaron Frick</persName>
+                  <birth when=""></birth>
+                  <death when="1855-04-07">April 20, 1855</death>
+                  <note>paternal great grandfather of <persName ref="KFO">Karl Frick Overholt</persName>, father of <persName>John Wilson Frick</persName>.</note>
+               </person>
+               
+               <person xml:id="#AF" sex="f">
+                  <persName>Anna Frick</persName>
+                  <birth when="1852-05-00">May 1852</birth>
+                  <death when=""></death>
+                  <note>daughter (and third child) of <persName>Elizabeth Overholt Frick</persName> and <persName>John Wilson Frick</persName></note>
+               </person>
+               
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -356,6 +391,71 @@
                   Leighty</persName> .</p>
 
          </div>
+         
+<!-- AR- image 083, transcription-3 page 23,-->         
+         <div type="entry" xml:id="KFO-83">
+            <head><pb facs="KFODiary_p083.jpg" n="83"/></head>
+            <p>About <date when="1851">1851</date>, <persName ref="#JWF">Gf</persName> &amp; <persName ref="#JWF">Grm F.</persName> moved to <palceName>Pleasant Unity</palceName> with the two children.</p>
+            <p>Aunt <persName ref="AFR">Anna</persName>, the third child, was born there <date when ="1852-05-00">May 1852</date>.</p>
+            <p>When <persName ref="#AO">Gt.Gf O.</persName> a <persName ref="#MO">Gt Gm O.</persName> came to see the new baby,- <persName ref="#MFO">Mother</persName> and <persName ref="#HCF">Uncle Clay</persName> were playing &amp; <persName ref="#MFO">Mother</persName>let the wagon shaft fall on <persName ref="#HCF">Uncle Clay's</persName> hand &amp; cut it. He always retained the scar. <persName ref="#AO">Gt Gf</persName> and <persName ref="#MO">Gdm O.</persName> took <persName ref="#MFO">Mother</persName> home with them to <placeName>West Overton</placeName>. She was a little over 4 years of age, - and she lived with them thereafter until her marriage at 24 years of age. </p>
+         </div>
+
+         
+<!-- AR- image 084, transcription-3 page 24,-->         
+         <div type="entry" xml:id="KFO-84">
+            <head><pb facs="KFODiary_p084.jpg" n="84"/></head>
+            <p>In <date when="1855">1855</date> <persName ref="#JWF">Gf.F.</persName> took <persName ref="#HCF">Uncle Clay</persName> a little over 5, with him to <placeName>Van Buren</placeName>,O, to see his father <persName ref="DF">Daniel Frick</persName>. </p>
+            <p><persName ref="#HCF">Uncle Clay</persName> became ill with fever, and he &amp; <persName ref="#JWF">Gf.F.</persName> were away two months.</p>
+            <p>During their absence, <persName ref="#EOF">Gm Frick</persName> lived with her father <persName ref="#AO">A.O</persName>, at <placeName>West Overton</placeName>, and <persName ref="AF">Uncle Aaron</persName> was born there <date when ="1855-04-07">4/7/55</date>.</p>
+            <p><date ref="1855-09-20">Sept 20, ‘55</date>, <persName ref="DF">Gt Gf Daniel Frick</persName> died at <placeName>Van Buren</placeName>.</p>
+            <p>Ind <date when="1856">1856</date>, <persName ref="#JWF">Gf</persName> &amp; <persName ref="#EOF">Gm F.</persName> moved to a farm just west of <placeName>Mt. Pleasant</placeName>, known as the <persName ref="#JSO">Jacob S. Overholt</persName> farm.</p>
+            <p>In <date when="1857">1857</date> &amp; <date when="1858">1858</date> they lived at the Bixler farm, opposite Old Independent School. Here <persName ref="#HCF">Uncle Clay</persName> attended school 2 semesters.</p>
+         </div>
+         
+<!-- AR- image 085, transcription-3 page 25,-->         
+         <div type="entry" xml:id="KFO-85">
+            <head><pb facs="KFODiary_p085.jpg" n="85"/></head>
+            <p><persName ref="#JWF">Gf.F</persName>, aged 25 ½ years,</p>
+            <p>&amp;</p>
+            <p><persName ref="#EOF">Gm F.</persName>, aged 28 ⅓ years,</p>
+            <p>Married</p>  
+            <p><date when ="1847-10-19">Oct 19, 1847</date>.</p>
+            <p><persName ref="#JWF">Gf.F</persName> employed by <persName ref="#AO">A.O</persName> prior, in the mill at <placeName>West Overton</placeName>. They lived with <persName ref="#AO">A.O</persName> &amp; <persName ref="#MO">M.O</persName>until spring of <date when="1852">1852</date></p>.
+           
+         </div>
+         
+<!-- AR- image 086, transcription-3 page 26,-->         
+         <div type="entry" xml:id="KFO-86">
+            <head><pb facs="KFODiary_p086.jpg" n="86"/></head>
+            <p><persName ref="#MFO">Mother</persName> born <date when ="1848-02-09">Feby 9th, 1848</date> at <persName ref="#AO">Abraham Overholt</persName> homestead in <placeName>West Overton</placeName>, Pa. </p>
+            <p>2nd floor S.W. room</p>
+            <p><persName>Dr. James McConaughey</persName> officiated</p>
+            <p><persName ref="#HCF">Uncle Clay</persName> born <date when ="1849-12-19">Dec. 19th, 1849</date> at cottage, <persName ref="#AO">Abraham Overholt</persName> homestead in <placeName>West Overton</placeName>, Pa. </p>
+            <p><persName>Miss Kate Sherrick</persName> related how her grandmother, <persName>Mrs. Joseph Sherrick</persName> was in the smoke-house on her own place, one late afternoon when <persName ref="#AO">“Grandpap O”</persName> rode by on his horse, on his way to fetch <persName>Dr. James McCanaughy</persName> [sic].</p>
+            <p>He stopped at the smoke house &amp; leaning from his horse tapped on the window to tell <persName>Mrs. Sherrick</persName>, who dropped everything and hurried over. </p>
+           
+         </div>
+
+            
+            
+            
+         
+<!-- AR- image 087, transcription-3 page 27,-->         
+         <div type="entry" xml:id="KFO-87">
+            <head><pb facs="KFODiary_p087.jpg" n="87"/></head>
+            <p>After putting the dishes in order in the evening, <persName ref="#MFO">Mother</persName> would “hare” to get out her quilt patches and sew. She remembered a friend of <persName ref="#MO">Gt Gdm O.</persName> who visited Gt Gdm &amp; gave her a new pattern for a quilt!</p>
+            <p><persName ref="#MFO">Mother</persName> used to crochet and liked it.</p>
+            <p>She didn’t like to knit &amp; would hide her knitting. Hard to keep knitting straight.</p>
+         </div>
+         
+<!-- AR- image 088, transcription-3 page 28,-->         
+         <div type="entry" xml:id="KFO-88">
+            <head><pb facs="KFODiary_p088.jpg" n="88"/></head>
+            <p>When a little girl, <persName ref="#MFO">Mother</persName> wore a straw colored bonnet with ribbon ties. <persName ref="#MO">GrGdm O</persName> finally permitted her to wear a hat, after much ???ing{ word begins with “e” or “c” and definitely ends in ‘ing’} by <persName ref="#ALT">Anna Leighty</persName>.</p>
+            <p><persName ref="#MFO">Mother</persName> remembers a white straw bonnet, with red ribbon trimming around the edge, and a bow of the same, and also red ribbon ties; there was a skirt to the bonnet, which was has also red ribbon.</p>
+            <p><persName ref="#MFO">Mother’s</persName> dresses, when a little girl, were sometimes plain colors &amp; sometimes of flowered materials; her stockings white; her shoes mostly black, though she had a pair of red shoes once!</p>
+         </div>
+         
          <div type="entry" xml:id="KFO-89">
             <head><pb facs="KFODiary_p089.jpg" n="89"/><persName ref="#MFO">Mothers</persName>
                duties, when a little girl,+ later</head>
@@ -456,16 +556,16 @@
          <div type="entry" xml:id="KFO-94">
             <head><pb facs="KFODiary_p094.jpg" n="94"/></head>
             <p>Remain in the hands of my son <persName ref="#HSO">Henry S. Overholt</persName> and remain in the <placeName>Overton Farm</placeName> to whom I have sold the undivided one-half, he paying the interest on the sum thus left in in hands to my Executors for the bequest aforesaid, etc. </p>
-            <p>ITEM: My partnership property in Overton with my son, <persName ref="#HSO">Henry S. Overholt</persName>, I direct my Executors to take my place and carry on the Partnership Business in the same manner it is now carried on until the deceise of my beloved <persName ref="#MO">Wife</persName>, and at her death, I order and direct my executors or my survivors of them to either carry on my partnership business or sell the interest I hold in the real and personal property of the same. I leave this matter entirely discretionary with them, they acting to promote the best interest of my Estate, and when disposed of together with the twenty thousand dollars left in the <placeName>Overton Farm</placeName> for my said <persName ref="#MO">wife</persName>, I give and bequeath unto my sons <persName ref="#HSO">Henry S. Overholt</persName>, <persName ref="#JSO">Jacob S. Overholt</persName> heirs, <persName ref="#MSO">Martin S. Overholt</persName>, <persName ref="#CSO">Christian S. Overholt</persName>, and to my daughters, <persName ref="#ALT">Anna Tinstman</persName> and <persName>Elizabeth Frick</persName>(or to their heirs in case of the parents death) share and share alike. </p>
-            <p>I also direct that all my property, Real and Personal, wherever it may be situated, not connected with my partnership property, shall be sold as soon after my decease as my Executors think proper, they always managing my Estate to the best interest for my heirs, and I hereby devise all my real estate to my executors, hereinafter named for the said purpose, and I do hereby empower them to make such sale and to make and Execute such deeds to the Purchaser or Purchasers thereof, and I direct my Executors that the proceeds arising from the sale of all my real and personal estate aforesaid, after training in their hands a sufficient fund for carrying on my Partnership Property if they shall so determine, The balance, whatever it may be, after first deducting the several bequests as hereinafter made, Together with all and every part of my Estate not disposed of I give and bequeath to my said sons, <persName ref="#HSO">H.S. Overholt</persName>, <persName ref="#JSO">J.S. Overholt</persName> heirs, <persName ref="#MSO">M.S. Overholt</persName>, <persName ref="#CSO">C.S. Overholt</persName>, and to my daughters <persName ref="#ALT">Anna Tinstman</persName> and <persName>Elizabeth Frick</persName> (or their heirs in case of parents death0 share and share alike with all monies</p>
+            <p>ITEM: My partnership property in Overton with my son, <persName ref="#HSO">Henry S. Overholt</persName>, I direct my Executors to take my place and carry on the Partnership Business in the same manner it is now carried on until the deceise of my beloved <persName ref="#MO">Wife</persName>, and at her death, I order and direct my executors or my survivors of them to either carry on my partnership business or sell the interest I hold in the real and personal property of the same. I leave this matter entirely discretionary with them, they acting to promote the best interest of my Estate, and when disposed of together with the twenty thousand dollars left in the <placeName>Overton Farm</placeName> for my said <persName ref="#MO">wife</persName>, I give and bequeath unto my sons <persName ref="#HSO">Henry S. Overholt</persName>, <persName ref="#JSO">Jacob S. Overholt</persName> heirs, <persName ref="#MSO">Martin S. Overholt</persName>, <persName ref="#CSO">Christian S. Overholt</persName>, and to my daughters, <persName ref="#ALT">Anna Tinstman</persName> and <persName ref="#EOF">Elizabeth Frick</persName>(or to their heirs in case of the parents death) share and share alike. </p>
+            <p>I also direct that all my property, Real and Personal, wherever it may be situated, not connected with my partnership property, shall be sold as soon after my decease as my Executors think proper, they always managing my Estate to the best interest for my heirs, and I hereby devise all my real estate to my executors, hereinafter named for the said purpose, and I do hereby empower them to make such sale and to make and Execute such deeds to the Purchaser or Purchasers thereof, and I direct my Executors that the proceeds arising from the sale of all my real and personal estate aforesaid, after training in their hands a sufficient fund for carrying on my Partnership Property if they shall so determine, The balance, whatever it may be, after first deducting the several bequests as hereinafter made, Together with all and every part of my Estate not disposed of I give and bequeath to my said sons, <persName ref="#HSO">H.S. Overholt</persName>, <persName ref="#JSO">J.S. Overholt</persName> heirs, <persName ref="#MSO">M.S. Overholt</persName>, <persName ref="#CSO">C.S. Overholt</persName>, and to my daughters <persName ref="#ALT">Anna Tinstman</persName> and <persName ref="#EOF">Elizabeth Frick</persName> (or their heirs in case of parents death0 share and share alike with all monies</p>
          </div>
          
 <!-- AR- image 095, transcription-4 page 5,-->
          <div type="entry" xml:id="KFO-95">
             <head><pb facs="KFODiary_p095.jpg" n="95"/></head>  
             <p>Monies made in my partnership business, this letter item to be annually distributed amongst the above named heirs or Legatees, share and share alike.</p>
-            <p>I also direct that it is my will that the share as bequeathed to my daughter, <persName ref="#ESO">Elizabeth</persName>, shall be and remain in the hands of my son <persName ref="#HSO">H.S. Overholt</persName>, paying the annual interest thereof into the hands of my Executors, of the survivors of them, whom I direct to pay her the said annual interest thereof, only or such part thereof as they may deem proper from time to time during her natural life time, and at her deceise pay her share in my Estate to her children, share and share alike, to be paid them at the discretion of my Executors.</p>
-            <p>I hereby appoint my Executors, Trustees of my said Daughter’s <persName ref="#ESO">Elizabeth</persName>/ share of my Estate they managing the same for her and her children so as to promote their best interests at all times, etc.etc.</p>
+            <p>I also direct that it is my will that the share as bequeathed to my daughter, <persName ref="#EOF">Elizabeth</persName>, shall be and remain in the hands of my son <persName ref="#HSO">H.S. Overholt</persName>, paying the annual interest thereof into the hands of my Executors, of the survivors of them, whom I direct to pay her the said annual interest thereof, only or such part thereof as they may deem proper from time to time during her natural life time, and at her deceise pay her share in my Estate to her children, share and share alike, to be paid them at the discretion of my Executors.</p>
+            <p>I hereby appoint my Executors, Trustees of my said Daughter’s <persName ref="#EOF">Elizabeth</persName>/ share of my Estate they managing the same for her and her children so as to promote their best interests at all times, etc.etc.</p>
             <p>I also give and bequeath to my three grandsons, children of my son <persName ref="#ASO">Abraham S. Overhold</persName>, deceased, to wit; to <persName ref="#GO">George Overholt</persName>, Five hundred dollars, to <persName>John Overholt</persName>, One hundred dollars, and to <persName>Norman Overholt</persName>, Five hundred dollars, which is to be in full of their shares of my whole Estate, both as respects the real and personal estate, and to be paid them at the discretion of my Executors.</p>
             <p>I also give and bequeath to <persName ref="#ALT">Anna Tinstman</persName>, wife of <persName ref="#JOT">Jacob O. Tinstman</persName>, Two hundred dollars, and to my grandson, Abraham, of my son <persName ref="#HSO">H.S Overholt</persName>, One hundred dollars, and to my grand daughter, <persName ref="#MFO">Maria O. Frick</persName>, the sum of two thousand dollars which said bequests I allow my Executors to pay them out of any part of my Estate, as they may deem proper. </p>
             <p>I also give and bequeath my eight day clock in the parlor to my son <persName ref="#CSO">C.S. Overholt</persName>, to come into his possession at <persName ref="#MO">his mother’s</persName> deceise.</p>
@@ -918,7 +1018,7 @@
             
             <p>In Fall of <date when="1875">‘75</date>, </p>
             <p><persName ref="#HCF">Uncle Clay</persName> took <persName re="#JEF">Uncle Edgar</persName> to the P.W.C. at <placeName>Chester</placeName>, Penna. For a year of schooling. <persName re="#JEF">Edgar</persName>]had been working for about a year at <placeName>Broadford</placeName>, and after his year at P.W.C, he returned and clerked at <placeName>Valley</placeName>, then <placeName>Dunbar</placeName>, and then again at <placeName>Broadford</placeName>. In spring of 1880 he left Bfd and went to <placeName>Wooster</placeName> with his parents. </p>
-            <p><date when ="1876-07-01">July 1, 1876</date>- <persName ref="#HCF">Uncle Clay</persName> appointed trustee of Gdm Frick’s [Elizabeth Overholt Frick] share in her father’s estate <persName re="#AO">(Abraham O.)</persName> succeeding <persName re="#CSO">CSO</persName></p>
+            <p><date when ="1876-07-01">July 1, 1876</date>- <persName ref="#HCF">Uncle Clay</persName> appointed trustee of <persName ref="#EOF">Gdm Frick’s</persName> share in her father’s estate <persName re="#AO">(Abraham O.)</persName> succeeding <persName re="#CSO">CSO</persName></p>
             <p>In <date when = "1877">1877</date>-  Uncle Aaron O Frick visited <persName ref="#JSRO">F</persName> and <persName ref="#MFO">mother</persName></p> 
             <p> Date of Jays death.</p>
          
