@@ -347,7 +347,7 @@
                   <note>paternal great grandfather of <persName ref="KFO">Karl Frick Overholt</persName>, father of <persName>John Wilson Frick</persName>.</note>
                </person>
                
-               <person xml:id="#AF" sex="f">
+               <person xml:id="#AFR" sex="f">
                   <persName>Anna Frick</persName>
                   <birth when="1852-05-00">May 1852</birth>
                   <death when=""></death>
@@ -389,6 +389,43 @@
             <p>When little, mother was afraid of him. Ide was so big + <unclear reason="illegible"
                   >gruff</unclear>. She would stick close to <persName ref="#ALT">Anna
                   Leighty</persName> .</p>
+         </div>
+         
+<!-- AR- image 079, transcription-3 page 19,-->         
+         <div type="entry" xml:id="KFO-79">
+            <head><pb facs="KFODiary_p079.jpg" n="79"/></head>
+            <p>In August- after a few days in the <abbr><placeName>Mt P</placeName></abbr> store of O&amp;S- he went to <placeName>Broadford</placeName> &amp; started work there 
+               In <date when="1868-10-10">October, 10th, 1868</date> he joined the Baptist church in <abbr><placeName>Mt P</placeName></abbr> by letter from the first Baptist Church of <abbr><placeName>Pgh</placeName></abbr>.
+            </p>
+         </div>
+         
+<!-- AR- image 080, transcription-3 page 20,-->         
+         <div type="entry" xml:id="KFO-80">
+            <head><pb facs="KFODiary_p080.jpg" n="80"/></head>
+            <p><date when="1869-01-06">Jany 6th 1869</date></p>
+            <p><persName ref="#ASRO">Uncle Aaron S.R.O.</persName> and <persName ref="#SAO">Aunt Sallie A.O.</persName> married
+               At <persName ref="#HSO">Harry S. Overholt</persName> homestead- <placeName>West Overton</placeName>               
+               By Rev. Woodburn of <placeName>Mt. Pleasant</placeName>, Baptist Minister
+            </p>
+            <p>Evening wedding. Champagne. Left on following day on bridal trip to <abbr><placeName>NY</placeName></abbr> &amp; <placeName>Washington</placeName>
+               <persName ref="#JSRO">Father</persName> and <persName ref="#MFO">Mother</persName> accompanied them.
+            </p>
+         </div>
+         
+<!-- AR- image 081, transcription-3 page 21,-->         
+         <div type="entry" xml:id="KFO-81">
+            <head><pb facs="KFODiary_p081.jpg" n="81"/></head>
+            <p><persName ref="#HCF">Clay</persName> was “standing in a sore” }*</p>
+         </div>
+         
+<!-- AR- image 082, transcription-3 page 22,-->         
+         <div type="entry" xml:id="KFO-82">
+            <head><pb facs="KFODiary_p082.jpg" n="82"/></head>
+            <p>After <persName ref="#AO">Gf O’s</persName> death, <persName ref="#MO">Gdm</persName> had <persName ref="#MFO">Mother</persName> change her room from 3rd floor N.E. to 2nd floor North adjoining her.
+               Sarah Fox- sister in law of Jacob S.O., also came to live there a while. 
+            </p>
+            <p><persName ref="#CSRO">C.S.R.O</persName> was night man at will.
+            </p>
          </div>
          
 <!-- AR- image 083, transcription-3 page 23,-->         
