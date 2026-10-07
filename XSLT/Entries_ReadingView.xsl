@@ -11,7 +11,7 @@
     <xsl:template match="/">
         <xsl:for-each-group select="//div[@type='entry']" group-starting-with="div[@type='entry']">
             
-            <xsl:result-document href="../Web/{@xml:id}.html" method="xhtml" indent="yes">
+            <xsl:result-document href="../docs/{@xml:id}.html" method="xhtml" indent="yes">
                 <html>
                 <head><title>K. F. Overholt Diary: Entry <xsl:value-of select="@n"/></title>
                
