@@ -7,6 +7,7 @@
     
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
+    <xsl:variable name="navbar" select="../docs/SSI-Diarypages.html"/>
     
     <xsl:template match="/">
         <xsl:for-each-group select="//div[@type='entry']" group-starting-with="div[@type='entry']">
@@ -19,8 +20,11 @@
             
             </head>
             <body>
+                <xsl:apply-templates select="$navbar"/>
+                    <!--WHC: need to do further work to tell it to import whole content of this document here-->
+                
                 <xsl:comment>#include virtual="SSI-Diarypages.html" </xsl:comment>
-                <!--WHC 2026-09-16: Will need to create and insert new navbar here-->
+              
             <div id="container">  
                 <div id="facsimile">
                     <xsl:apply-templates select="descendant::pb" mode="facsim"/>
