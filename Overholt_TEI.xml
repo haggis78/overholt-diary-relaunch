@@ -344,23 +344,144 @@
                   <persName>Aaron Frick</persName>
                   <birth when=""></birth>
                   <death when="1855-04-07">April 20, 1855</death>
-                  <note>paternal great grandfather of <persName ref="KFO">Karl Frick Overholt</persName>, father of <persName>John Wilson Frick</persName>.</note>
+                  <note>paternal great grandfather of <persName ref="#KFO">Karl Frick Overholt</persName>, father of <persName ref="#JWF">John Wilson Frick</persName>.</note>
                </person>
                
                <person xml:id="#AFR" sex="f">
                   <persName>Anna Frick</persName>
                   <birth when="1852-05-00">May 1852</birth>
                   <death when=""></death>
-                  <note>daughter (and third child) of <persName>Elizabeth Overholt Frick</persName> and <persName>John Wilson Frick</persName></note>
+                  <note>daughter (and third child) of <persName ref="#EOF">Elizabeth Overholt Frick</persName> and <persName ref="JWF">John Wilson Frick</persName></note>
+               </person>
+               
+               <person xml:id="#MCO" sex="f">
+                  <persName>Maria C. Overholt</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
+               <person xml:id="#ASAO" sex="f">
+                  <persName>Sallie A. Overholt</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
+               <person xml:id="#AS" sex="f">
+                  <persName>Anna Stauffer</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
+               <person xml:id="#CMO" sex="f">
+                  <persName>Mollie Overholt</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
                </person>
                
             </listPerson>
          </particDesc>
       </profileDesc>
-      <!-- AR- diary begins here -->
+<!-- AR- diary begins here -->
    </teiHeader>
    <text>
       <body>
+         
+<!-- AR- image 064, transcription-3 page 4,-->  
+         <div type="entry" xml:id="KFO-64">
+            <head><pb facs="KFODiary_p065.jpg" n="64"/>Memo:</head>
+            <p><persName>Mrs George Parmalee</persName>, nee <persName>Mattie Smith</persName> of <placeName>Avalon</placeName>, Pa, is <abbr>secy</abbr> of the Steubenville Seminary Alumnie Assn.</p>
+            <p><persName>Mrs. W. R. Donaldson</persName>, nee <persName>Meldie Jenkins</persName> is the Prest.[sic]</p>
+            <p><persName>Mrs. Parmalee</persName> says she was raised by Dr. &amp; Mrs Reed (head of seminary) &amp; attended seminary in 69 &amp; 70. She was married in <date when ="1879">1879</date>.</p>
+            <p></p>
+         </div>
+         
+<!-- AR- image 065, transcription-3 page 5,-->  
+         <div type="entry" xml:id="KFO-65">
+            <head><pb facs="KFODiary_p065.jpg" n="65"/></head>
+            <p>When <persName ref="#MFO">Mother</persName> was 16 17, she and her cousin <persName ref="#ASAO">Sallie A. Overholt</persName> visited <placeName>Mt. Joy</placeName>, near <placeName>Lancaster</placeName>, &amp; in <abbr><placeName>Phila.</placeName></abbr></p>
+            <p>In <placeName>Mt. Joy</placeName>, ^ at <placeName>Forin</placeName>, 1 ½ m. from <placeName>Mt. Joy</placeName> They visited Mrs Jacob Nissley, who had visited <persName ref="#MO">Gt Gm O</persName> and <persName ref="EOF">Gd M O</persName>  in <placeName>Overton</placeName>. She had a son about 20 (afterwards a hotel man **)  They drove Mrs. N’s horse &amp; buggy into Lancaster one day to see some friends &amp; the town. Horse almost ran a way ^ had high steppers</p>
+            <p>In <abbr><placeName>Phila</placeName></abbr> they visited Mrs Bronbright (a sister of Floyd Shallenberger) whose husband was a retail dry goods merchant. Their home was a brick house in a row, characteristic of the city. <persName ref="#ASAO">Sallie</persName> swallowed a fish bone while there!</p>
+            <p><date when ="1922-05-25">5/25/22</date> from H NN to <persName ref="#KFO">KFO</persName></p>
+            <p>**Having a restaurant and hotel across from Station at <placeName>Lancaster</placeName>. His name is Simon Nissly &amp; he is still living near <placeName>Mt Joy</placeName>, aged 77 or so.</p>
+            <p>Simon visited <persName ref="#AO">A.O.</persName> later</p>
+            <p>Jacob N. died early, &amp; was a brother of Peter Nissly( W.N. McNair’s ancestor) &amp; John Nissly (H.N Nissley’s ancestor), the common father being Martin Nissley Jr, who was a brother of Anna Nissly, mother of <persName ref="#MO">Maria Stauffer</persName>, w. To <persName ref="#AO">A.O</persName>, we call <persName ref="#MO">Gt Gm O</persName></p>
+         </div>
+         
+<!-- AR- image 066, transcription-3 page 6,-->  
+         <div type="entry" xml:id="KFO-66">
+            <head><pb facs="KFODiary_p066.jpg" n="66"/></head>
+            <p><persName ref="#MFO">Mother's</persName> ridinghorse was called “Stockings.”</p>
+            <p>He was a grey, and <persName ref="#MFO">Mother</persName> rode him to <placeName>Mt. Pleasant</placeName> to do her shopping. </p>
+            <p>She rode a great deal, and still has her saddle.</p>
+            <p>She and a number of girls rode to <placeName> Greensburg</placeName>- 18 miles- and took part in a street parade during a presidential campaign dressed in white &amp; on ^the white (grey) horse.</p>
+            <p>The boys &amp; girls wold have riding parties, the boys carrying on their arms picnic lunch baskets.</p>
+         
+<!-- AR- image 067, transcription-3 page 7,-->  
+            <head><pb facs="KFODiary_p067.jpg" n="67"/></head>
+            <p>After Cousin <persName ref="#CMO">Mollie Overholt</persName> married Capt. Cassius Marklel in <date when="1865">1865</date>, &amp; went to <placeName>West Newton</placeName> to live, her sister Maria T. O of <placeName>Mt Pleasant</placeName> (then of <placeName>Broadford</placeName>) &amp; mother would ride horseback to West Newton to visit. </p>
+            <p>“Stockings” - a bay mare, saddles only, was one of two horses (bought by <persName ref="#JSRO">JSRO</persName> at <placeName>Frankport</placeName>, Ky for 250$ &amp; was sold to <persName ref="#AO">Gf A.O.</persName> for 500$ who gave her to his granddaughter <persName ref="#MFO">M. O. F></persName></p>
+            <p>She was a beauty and gentle, but John Lowstettler, a feeble boy who tended the horses, abused her and she became nervous &amp; wild. Once <persName ref="#MFO">Mother</persName> was coming home from shopping in <abbr><placeName>Mt. P</placeName></abbr>, &amp; <persName>Sue Felgar</persName> was along &amp; made her horse go, using tongue movement; that excited Stockings &amp; <persName ref="#MFO">Mother</persName> had to run her into a corner &amp; quiet her down. She never rode her after that. </p>
+            <p><persName ref="#JSRO">Father</persName> &amp; <persName ref="#MFO">Mo</persName> Claim on that of <placeName> Broadford</placeName> ) &amp; <persName ref="#MFO">Mother</persName> would ride horseback to <placeName> West Newton</placeName> to visit. </p>
+            <p>“Stockings” - a bay mare, saddles only, was one of two horses (bought by <persName ref="#JSRO">JSRO</persName> at  trip bought another horse, Roger, which he sold to <persName ref="#CSRO">CSRO</persName> for 250$.</p>
+            <p></p>
+            <p></p>
+         </div>
+         
+<!-- AR- image 068, transcription-3 page 8,-->  
+         <div type="entry" xml:id="KFO-68">
+            <head><pb facs="KFODiary_p068.jpg" n="68"/></head>
+            <p><persName ref="#AO">Grandfather O</persName> gave <persName ref="#MFO">Mother</persName> a beautiful rose-wood square piano, very large &amp; heavy in those days.- which stood in the parlor.</p>
+            <p>A piano teacher, Mr. Springer, came from <placeName>Greensburg</placeName> to instruct her. </p>
+            <p>The piano was exchanged by <persName ref="#MFO">Mother</persName> in <date when="1890">1890</date> for an upright one. She still has her two music books, beautifully bound in dark leather with red leather corners &amp; inscription label M.O. F</p>
+         </div>
+         
+<!-- AR- image 069, transcription-3 page 9,-->  
+         <div type="entry" xml:id="KFO-69">
+            <head><pb facs="KFODiary_p069.jpg" n="69"/></head>
+            <p>One year Cousin <persName ref="#MFFO">Mary Overholt</persName> lived at <persName ref="#AO">Grandfather Overholts</persName> and also took piano instruction from Mr. Springer.</p>
+            <p><persName ref="#MFO">Mother</persName> took many walks with <persName ref="#AO">Grandfather O.</persName> through the woods and countryside.</p>
+            <p>When <persName ref="#AS">Mrs. Anna Stauffer</persName> of near <palceName>Alverton</palceName> visited <persName ref="#GDMO">Gm.O</persName>, <persName ref="#MFO">mother</persName> would bake a flat cake.</p>
+         </div>
+         
+<!-- AR- image 070, transcription-3 page 10,-->  
+         <div type="entry" xml:id="KFO-70">
+            <head><pb facs="KFODiary_p070.jpg" n="70"/></head>
+            <p>In the fall of <date when="1866">1866</date>,<persName ref="#MFO">Mother</persName> 18 ½ and <persName ref="#HCF">Uncle Clay</persName> 17 w, also their cousins, Sallie 19 ¾  &amp; <persName ref="#BFO">B. Frank O.</persName> (Children of their Uncle <persName ref="#HSO">Henry S. Overholt</persName>) attended Otterbein University (a United Brethren School) at <placeName>Westerville, Ohio</placeName>, 12 miles north of <placeName>Columbus</placeName>. (would go by hack from <placeName>Columbus</placeName> as no RR built then)</p>
+            <p><persName ref="#MFO">Mother</persName> and <persName ref="ASAO">Cousin Sallie</persName> roomed together and attended one full term of 5 months. </p>
+            <p><persName ref="#HCF">Uncle Clay</persName>,<persName ref="#BFO">B. Frank O</persName>&amp; <persName>George Kester</persName> roomed together. </p>
+            <p>They with <persName>Will Bowen</persName> had a group photo taken, which <persName ref="#HCF">Uncle Clay</persName> send to <persName ref="#CSO">CSO</persName></p>
+            <p><persName>John Sherrick</persName> was attending also &amp; says that <persName ref="#HCF">Uncle Clay</persName> and <persName ref="#BFO">Cousin BFO</persName> stayed 10 weeks, the first half of the term</p>
+            
+<!-- AR- image 071, transcription-3 page 11,-->         
+            <head><pb facs="KFODiary_p071.jpg" n="71"/></head>
+            <p><persName ref="#HCF">Uncle Clay</persName> liked Abijah Kemp, who, by the way, paid some attention to <persName ref="#MFO">Mother</persName></p>
+            <p>In the evenings the boys would play authors. <persName ref="#HCF">Uncle Clay</persName> being keen for it. One of his favorite declarations was from Walter Scott’s “Lay of the Last Minstrel”-</p>
+            <p>“Breathe there the man, with soul so dead, who never to himself hath said, This is my own, my native land!”</p>
+            <p>He belonged to the “Philo-phronean” Literary Society there. </p>
+         
+<!-- AR- image 072, transcription-3 page 12,-->  
+            <head><pb facs="KFODiary_p072.jpg" n="72"/>Otterbein Catablog 66-67 contains the following under English Preparatory Course</head>
+            <p><persName ref="#HCF">H. Clay Frick</persName>- <placeName>Mt Pleasant</placeName> Penna</p>
+            <p><persName ref="#BFO">B. Frank Overholt</persName>- <placeName>West Overton</placeName>, Penna</p>
+            <p><persName ref="#MFO">Maria O Frick</persName> - <placeName>West Overton</placeName>, Penna</p>
+            <p><persName ref="#MCO">Maria C. Overholt</persName>   “ ”      ”          , “ ”</p>
+            <p><persName ref="#ASAO">Sallie A. Overolt</persName>      “  ”                ‘’ “</p>
+         
+<!-- AR- image 073, transcription-3 page 13,-->         
+        
+            <head><pb facs="KFODiary_p073.jpg" n="73"/></head>
+            <p><persName ref="#MFO">Mother’s</persName> room was on second floor front (but roof covered) of the girls dormitory.</p>
+            <p>Their school duties embraced the following:</p>
+            <p>Sweeping the hallway of their floor in the dormitory</p>
+            <p>Taking care of their own room</p>
+            <p>Dining room</p>
+            <p>Kitchen</p>
+         </div>
+            
          <div type="entry" xml:id="KFO-74">
             <head><pb facs="KFODiary_p074.jpg" n="74"/>Christmas at West Overton.</head>
             <p>On the night before <persName ref="#MFO">mother</persName> + J.F.O. would place
@@ -391,6 +512,21 @@
                   Leighty</persName> .</p>
          </div>
          
+<!-- AR- image 077, transcription-3 page 17,-->         
+         <div type="entry" xml:id="KFO-77">
+            <head><pb facs="KFODiary_p077.jpg" n="77"/></head>
+            <p>When did <persName ref="#ALT">Aunt Anna</persName> go to <placeName>Bucknell</placeName> (for 6 mos)?</p>
+         </div>
+         
+<!-- AR- image 078, transcription-3 page 18,-->         
+         <div type="entry" xml:id="KFO-78">
+            <head><pb facs="KFODiary_p078.jpg" n="78"/>June 1868</head>
+            <p><persName ref="#HCF">Uncle Clay</persName> - who had clerked ^ 1st at Eatons for $6.00 a week, 2 at Macrum &amp; Carlisle’s  for 8.00 a week, located on 5th st. now 219 Fifth Ave in <abbr><placeName>Pgh</placeName></abbr>- came home ill with intermittent fever, &amp; occupied the N.E. corner room looking toward Mt P (which <persName ref="#MFO">Mother</persName> later used as her room)</p>
+            <p>He had several sets of sugar coated pills brought home from <abbr><placeName>Pgh.</placeName></abbr> Dr. J. McConaughy of <abbr><placeName>Mt Pl-</placeName></abbr> father of <persName>Rober M McConaughy</persName> attended him, and he was ill a couple of months.</p>
+            <p><persName ref="#MFO">Mother</persName> acted as nurse, brining him water from the spring, reading the New Testament to him as he wished. Sermon on Mount.</p>
+            <p>She gave him <persName ref="#MO">GdM’s</persName> as he cared so much for them.</p>
+         </div>
+         
 <!-- AR- image 079, transcription-3 page 19,-->         
          <div type="entry" xml:id="KFO-79">
             <head><pb facs="KFODiary_p079.jpg" n="79"/></head>
@@ -403,7 +539,7 @@
          <div type="entry" xml:id="KFO-80">
             <head><pb facs="KFODiary_p080.jpg" n="80"/></head>
             <p><date when="1869-01-06">Jany 6th 1869</date></p>
-            <p><persName ref="#ASRO">Uncle Aaron S.R.O.</persName> and <persName ref="#SAO">Aunt Sallie A.O.</persName> married
+            <p><persName ref="#ASRO">Uncle Aaron S.R.O.</persName> and <persName ref="#ASAO">Aunt Sallie A.O.</persName> married
                At <persName ref="#HSO">Harry S. Overholt</persName> homestead- <placeName>West Overton</placeName>               
                By Rev. Woodburn of <placeName>Mt. Pleasant</placeName>, Baptist Minister
             </p>
