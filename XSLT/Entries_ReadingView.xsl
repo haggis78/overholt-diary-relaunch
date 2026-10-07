@@ -40,7 +40,7 @@
         </xsl:for-each-group>
     </xsl:template>
     <xsl:template match="pb" mode="facsim">
-        <img src="KFODiary_Web/{@facs}" alt="page {@n} image in the Overholt Diary"/>
+        <img src="KFODiary_h800_color/{@facs}" alt="page {@n} image in the Overholt Diary"/><!--WHC: changed file path-->
     </xsl:template>
     
     <xsl:template match="head" mode="transcript">
