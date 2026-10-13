@@ -154,7 +154,7 @@
                         <persName ref="#MFFO">Mary F. Fox Overholt</persName>. Son of <persName
                         ref="#AO">Abraham Overholt</persName> and brother of <persName ref="#CSO"
                         >Christian Stauffer Overholt</persName> and <persName ref="#HSO">Henry
-                        Stauffer Overholt</persName>.</note>
+                        Stauffer Overholt</persName>.Father of <persName ref="#MAO">Mary A. Overholt</persName></note>
                </person>
                <person xml:id="MFFO" sex="f">
                   <persName>Mary F. Fox Overholt</persName>
@@ -382,6 +382,20 @@
                   <note></note>
                </person>
                
+               <person xml:id="#CM" sex="m">
+                  <persName>Cassius Markle</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note>Husband of <persName ref="#MAO">Mary A. Overholt.</persName></note>
+               </person>
+               
+               <person xml:id="#MAO" sex="f">
+                  <persName>Cassius Markle</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note>Wife of <persName ref="#MAO">Cassius Markle</persName> and daughter of Mollie Overholt and Jacob S. Overholt</note>
+               </person>
+               
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -390,13 +404,60 @@
    <text>
       <body>
          
+<!-- AR- image 058, transcription-2 page 28,-->  
+         <div type="entry" xml:id="KFO-58">
+            <head><pb facs="KFODiary_p058.jpg" n="58"/></head>
+            <p><date when="1864-04-00">April 1864</date> Record at W.O. Distillery 5,586 ½ gallons of whiskey distilled</p>
+            <p>Ingredients:</p>
+            <p>Malt 1/20</p>
+            <p>Rye ¼</p>
+            <p>Corn- nearly ¾</p>
+         </div>
+         
+<!-- AR- image 059, transcription-2 page 29,-->  
+      <div type="entry" xml:id="KFO-59">
+         <head><pb facs="KFODiary_p059.jpg" n="59"/></head>
+         <p>Late in <date when="1863">1863</date> and early in <date when="1864">1864</date>, at age of 16, <persName ref="#MFO">Mother</persName> attended the Seminary at <placeName>Steubenville</placeName>, Ohio.</p>
+         <p>Her cousin, <persName ref="#CMO">Mollie Overholt</persName> (now Mrs. <persName ref="#MAO">Mary a. Markle</persName> of West Newton) attended the Seminary also.</p>
+         <p>It was a Presbyterian school, <persName>Dr. Beatty</persName> (retired head) and wife were there; <persName>Dr Reed</persName>, with his wife, was in charge.</p>
+         <p>The school was in a long brick building, built to the street line in the “downtown’ section, and at the rear of the grounds was the P.R.R beyond a high brick wall enclosure.</p>
+         <p><persName ref="#MFO">Mother</persName> roomed with while there.</p>
+         
+<!-- AR- image 060, transcription-2 page 30,-->  
+         <head><pb facs="KFODiary_p060.jpg" n="60"/></head>
+         <p>Some of the students there were:</p>
+         <p><persName>Mattie Braden</persName> of <placeName>Mt Pleasant</placeName></p>
+         <p>   Braden,   “  “       “   , a sister</p> <!-- AR- the spaces between the dito marks are tabs instead of regular spaces hopefully that represents the space correctly in the website -->
+         <p><persName>Maggie Nichols</persName>,   “      “      “</p>
+         <p>Martha     “   “  “  , a sister</p>
+         <p><persName>Mary Travelli</persName> of <placeName>Sewickley</placeName>, (later married Rev. Joseph T Glenn, <placeName>Wooster</placeName>)</p>
+         <p>Cousin <persName ref="CMO">Mary Overholt</persName>- of <placeName>Broadford</placeName></p>
+         
+<!-- AR- image 061, transcription-3 page 1,-->  
+         <head><pb facs="KFODiary_p061.jpg" n="61"/></head>
+         <p>She was taken to the home of <persName ref="#PO">Aunt Polly Overholt</persName> (widow of <persName ref="#JSO">Jacob S. Overholt</persName> &amp; mother of her cousin <persName ref="#MAO">Mary Overholt</persName> who was at <placeName>Steubenville</placeName>). 
+            (She lived in the old stone house which was razed in the building of the Henry Clay coke ovens in 1872). </p>
+         <p>Dr. Nichols of Connellsville attended her there.</p>
+         <p>When better, <persName ref="#AO">Grandfather O</persName> had her cousin, <persName ref="#JOT">Jacob O. Tinstman</persName>, bring her home to <placeName>West Overton</placeName></p>
+         <p><persName ref="#MO">Grandmother O</persName> told <persName ref="#MFO">Mother</persName> that she had not expected to see her home except in her coffin.</p>
+         
+<!-- AR- image 062, transcription-3 page 2,-->  
+            <head><pb facs="KFODiary_p062.jpg" n="62"/></head>
+            <p>After recovering, on <date when="1864-06-08">June 8 1864</date>, <persName ref="#AO">Grandfather O</persName> had <persName ref="#ASO">Abramham S. Overholt</persName>- a cousin &amp; brother of <perName ref="#MAO">Mary A. O</perName> at <placeName>Steubenville</placeName>, to take <persName ref="#MFO">Mother</persName> back to the seminary.</p>
+            <p>Cousin <perName ref="#MAO">Mary A. O.</perName> was very happy at her return, &amp; so wrote to <persName ref="#CM">Cassius Markle</persName> (whom she afterwards married).</p>
+            <p>Unfortunately <persName ref="#MFO">mother’s</persName> eyes weakened soon^ only a few weeks after her return, she could not see to read even letters from home, and so she was compelled to give up her schooling and return to <placeName>Overton</placeName>.</p>
+         
+ <!-- AR- image 063, transcription-3 page 3,-->  
+            <head><pb facs="KFODiary_p063.jpg" n="63"/></head>
+            <p>On her second return home, <perName ref="#AO">Grandfather O</perName> gave her a beautiful grey silk apron, with pointed flap and trimmed in blue braid and said: “I will not let you go back again. We have missed you, and want you to be with us at home.”</p>
+         </div>
+         
 <!-- AR- image 064, transcription-3 page 4,-->  
          <div type="entry" xml:id="KFO-64">
-            <head><pb facs="KFODiary_p065.jpg" n="64"/>Memo:</head>
+            <head><pb facs="KFODiary_p064.jpg" n="64"/>Memo:</head>
             <p><persName>Mrs George Parmalee</persName>, nee <persName>Mattie Smith</persName> of <placeName>Avalon</placeName>, Pa, is <abbr>secy</abbr> of the Steubenville Seminary Alumnie Assn.</p>
             <p><persName>Mrs. W. R. Donaldson</persName>, nee <persName>Meldie Jenkins</persName> is the Prest.[sic]</p>
             <p><persName>Mrs. Parmalee</persName> says she was raised by Dr. &amp; Mrs Reed (head of seminary) &amp; attended seminary in 69 &amp; 70. She was married in <date when ="1879">1879</date>.</p>
-            <p></p>
          </div>
          
 <!-- AR- image 065, transcription-3 page 5,-->  
@@ -422,7 +483,7 @@
          
 <!-- AR- image 067, transcription-3 page 7,-->  
             <head><pb facs="KFODiary_p067.jpg" n="67"/></head>
-            <p>After Cousin <persName ref="#CMO">Mollie Overholt</persName> married Capt. Cassius Marklel in <date when="1865">1865</date>, &amp; went to <placeName>West Newton</placeName> to live, her sister Maria T. O of <placeName>Mt Pleasant</placeName> (then of <placeName>Broadford</placeName>) &amp; mother would ride horseback to West Newton to visit. </p>
+            <p>After Cousin <persName ref="#CMO">Mollie Overholt</persName> married Capt. <persName ref="#CM">Cassius Markle</persName> in <date when="1865">1865</date>, &amp; went to <placeName>West Newton</placeName> to live, her sister Maria T. O of <placeName>Mt Pleasant</placeName> (then of <placeName>Broadford</placeName>) &amp; mother would ride horseback to West Newton to visit. </p>
             <p>“Stockings” - a bay mare, saddles only, was one of two horses (bought by <persName ref="#JSRO">JSRO</persName> at <placeName>Frankport</placeName>, Ky for 250$ &amp; was sold to <persName ref="#AO">Gf A.O.</persName> for 500$ who gave her to his granddaughter <persName ref="#MFO">M. O. F></persName></p>
             <p>She was a beauty and gentle, but John Lowstettler, a feeble boy who tended the horses, abused her and she became nervous &amp; wild. Once <persName ref="#MFO">Mother</persName> was coming home from shopping in <abbr><placeName>Mt. P</placeName></abbr>, &amp; <persName>Sue Felgar</persName> was along &amp; made her horse go, using tongue movement; that excited Stockings &amp; <persName ref="#MFO">Mother</persName> had to run her into a corner &amp; quiet her down. She never rode her after that. </p>
             <p><persName ref="#JSRO">Father</persName> &amp; <persName ref="#MFO">Mo</persName> Claim on that of <placeName> Broadford</placeName> ) &amp; <persName ref="#MFO">Mother</persName> would ride horseback to <placeName> West Newton</placeName> to visit. </p>
