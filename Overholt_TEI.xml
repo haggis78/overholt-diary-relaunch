@@ -258,12 +258,6 @@
                         >Ralph Overholt</persName></note>
                </person>
 <!-- AR- relaunch additions to personography: -->               
-               <person>
-                  <person xml:id="#GDMO" sex="f"></person>
-                  <persName>Maria Staufer Overholt</persName>
-                  <birth when=""></birth>
-                  <death when=""></death>
-               </person>
                
                <person xml:id="#AG" sex="f">
                   <persName>Anna Gilchrist</persName>
@@ -274,8 +268,9 @@
                
                <person xml:id="#JEF" sex="m">
                   <persName>J. Edgar Frick</persName>
-                  <birth when=""></birth>
+                  <birth when="1859">1859</birth>
                   <death when=""></death>
+                  <note>Born Peter Sherrick, name changed in 1874 to J. Edgar Frick in 1874.</note>
                </person>
               
                <person xml:id="#BFO" sex="m">
@@ -301,7 +296,7 @@
                <person xml:id="#MO" sex="F">
                   <persName>Maria Overholt</persName>
                   <birth when=""></birth>
-                  <death when=""></death>
+                  <death when="1874-11-00">November 1874</death>
                   <note>wife of <persName ref="AO">Abraham Overholt</persName></note>
                </person>
                
@@ -347,7 +342,7 @@
                   <note>paternal great grandfather of <persName ref="#KFO">Karl Frick Overholt</persName>, father of <persName ref="#JWF">John Wilson Frick</persName>.</note>
                </person>
                
-               <person xml:id="#AFR" sex="f">
+               <person xml:id="#AOF" sex="f">
                   <persName>Anna Frick</persName>
                   <birth when="1852-05-00">May 1852</birth>
                   <death when=""></death>
@@ -390,12 +385,41 @@
                </person>
                
                <person xml:id="#MAO" sex="f">
-                  <persName>Cassius Markle</persName>
+                  <persName>Mary A. Overholt</persName>
                   <birth when=""></birth>
                   <death when=""></death>
                   <note>Wife of <persName ref="#MAO">Cassius Markle</persName> and daughter of Mollie Overholt and Jacob S. Overholt</note>
                </person>
                
+               <person xml:id="#ANOT" sex="f">
+                  <persName>Anna Overholt Tintsman</persName>
+                  <birth when=""></birth>
+                  <death when="1866-03-29">March 29, 1866</death>
+                  <note>sister of <persName ref="#EOF">Elizabth Overholt Frick</persName></note>
+               </person>
+               
+               <person xml:id="#SF" sex="f">
+                  <persName>Sallie Frick</persName>
+                  <birth when="1862">1862</birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
+               <person xml:id="#ABLT" sex="m">
+                  <persName>Abraham L Tintsman</persName>
+                  <birth when="1860-10-26">October 26, 1860</birth>
+                  <death when=""></death>
+                  <note><persName ref="#JOT">Son of Jacob O. Tintsman</persName> and <persName ref="#ALT">Anna Leighty Tintsman</persName></note>
+               </person>
+               
+               <person xml:id="#MMT" sex="f">
+                  <persName>Maria May Tintsman</persName>
+                  <birth when="1865-05-17">May 17, 1865</birth>
+                  <death when=""></death>
+                  <note><persName ref="#JOT">Daughter of Jacob O. Tintsman</persName> and <persName ref="#ALT">Anna Leighty Tintsman</persName></note>
+               </person>
+               
+  
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -403,6 +427,84 @@
    </teiHeader>
    <text>
       <body>
+         
+<!-- AR- image 051, transcription-2 page 21,-->  
+         <div type="entry" xml:id="KFO-51">
+            <head><pb facs="KFODiary_p051.jpg" n="51"/></head>
+           
+           <!-- AR- drawing of floor plan -->
+           <!-- AR- text at bottom of page -->
+            <p>Memo: (as to room SW opposite)</p>
+            <p>Later <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#MFO">Mother</persName>] had he brown room, 2nd floor N.W after <persName ref="#AO">GFO</persName>death, room 2nd floor SW occupied by <persName>Sarah Fox</persName>, <persName>Margaret McKelvy</persName> &amp; <persName>Katie Hunker</persName></p>
+         </div>
+         
+         
+<!-- AR- image 051, transcription-2 page 21,-->  
+         <div type="entry" xml:id="KFO-51">
+            <head><pb facs="KFODiary_p051.jpg" n="51"/></head>
+            <p>When <persName ref="#MFO">Mother</persName> was about 12, <persName ref="#ALT">Anna Leighty</persName> was married to <persName ref="#JOT">Jacob O. Tinstman</persName> (grandson of <persName ref="#AO">A.O.</persName> ) I.E. on <date when="1859-12-29">Dec. 29th, 1859</date></p>
+            <p>When told of her coming marriage, mother cried and cried!</p>
+            <p>Mother used to sit in <persName ref="#ALT">Anna Leighty’s</persName> lap &amp; when too big she sat on the edge of her dress!
+               After marriage, <persName ref="#JOT">Jacob O.T.</persName> &amp; wife lived at <persName ref="#AO">GT Gf O’s</persName> until <date when="1869-05-00">May 1869</date>, when they moved to the store bought from <persName ref="#CSO">Uncle Cris</persName>.</p>
+            <p><persName ref="#ABLT">Abraham L. Tinstman</persName> was born at the homestead Oct 26, 1860; as was also <persName ref="#MMT">Maria May Tinstman</persName> on May 17, 1865.</p>
+            <p></p>
+         </div>
+         
+<!-- AR- image 052, transcription-2 page 22,-->  
+         <div type="entry" xml:id="KFO-52">
+            <head><pb facs="KFODiary_p052.jpg" n="52"/>About <date when="1861">1861</date> or 2,</head>
+            <p><persName ref="#AO">Gf O</persName> fell, in walking along Liberty Street in <placeName>Pittsburgh</placeName> in going to his ^warehouse &amp; office there, - into a cellar, as the trap door on the sidewalk had been left open and &amp; unguarded. </p>
+            <p>He broke his collar-bone, but never sued.</p>
+            <p>He was seldom sick, and never had a physician except that time.</p>
+         </div>
+         
+<!-- AR- image 053, transcription-2 page 23,-->  
+         <div type="entry" xml:id="KFO-53">
+            <head><pb facs="KFODiary_p053.jpg" n="53"/></head>
+            <p>In <placeName>West Overton</placeName> School year, 61-62, </p>
+            <p><persName ref="#MFO">Mother</persName>^ aged 13 had an autograph album.</p>
+            <p>From <date when="1862-06-18">April 1 to June 18th</date>, many autographs place in it, including <persName>Harry D. Overholt</persName>- teacher.</p>
+            <p>Then in <date when="1862-06-00">June 1862</date>, <persName ref="#MFO">Mother</persName> attended <placeName>Mt. Pleasant</placeName> Institute and girls there also wrote in her album.</p>
+         </div>
+         
+<!-- AR- image 054, transcription-2 page 24,-->  
+         <div type="entry" xml:id="KFO-54">
+            <head><pb facs="KFODiary_p054.jpg" n="54"/></head>
+            <p>1n 1862-63, <persName ref="#MFO">Mother</persName> and her cousin <persName ref="#SAO">Sallie A. Overholt</persName> attended the Mt Pleasant Classical and Scientific Institute.</p>
+            <p>They spent the week-ends at their homes in <placeName>West Overton</placeName>. </p>
+            <p>Every Monday morning they were taken into school &amp; every Friday evening were brought home.</p>
+            <p>While at school in <placeName>Mt. Pleasant</placeName> they roomed together at Mrs. Jordan’s residence on Main Street, called “The Ark”. </p>
+            <p>Once cousin <persName ref="#SAO">Sallie</persName> fell out of bed!</p>
+         
+<!-- AR- image 055, transcription-2 page 25,-->  
+            <head><pb facs="KFODiary_p055.jpg" n="55"/></head>
+            <p>Cousin <persName ref="#MAO">Mary A Overholt</persName> ^afterwards <persName ref="#CMO">Mrs Cyrus P Markle</persName> - (Mollie) and <persName>Lydia Armel</persName> (or Dillinger?)  ^afterwards <persName ref="#HOT">Mrs. Harry O Tinstman</persName> attended the Institute there, rooming together.
+               Mrs. Miller was dean of the girls.</p>
+            <p>These were strenuous days in the Civil War. The girls voted to go without bread at times, so that the soldiers, passing through enroute to the front, might be well fed.</p>
+            <P></P>
+            <p></p>
+         </div>
+         
+<!-- AR- image 056, transcription-2 page 26,-->  
+         <div type="entry" xml:id="KFO-56">
+            <head><pb facs="KFODiary_p056.jpg" n="56"/></head>
+            <p>On <date when="1863-07-03">July 1,2, &amp; 3, ^’63</date> at <placeName>Gettysburg</placeName>, the cannonade could be heard at <placeName>Overton</placeName>.</p>
+            <p>In this year, <date when="1863">1863</date>, the draft law went into effect. </p>
+            <p>Uncle <persName ref="#CSO">Cris S.O</persName> sent as ?ubstitute his nephew by marriage, <persName>Judson Newmeyer</persName>, and promised him three years of college after the war. </p>
+            <p>J.U thereafter went to Bucknell College (Baptist School) at <placeName>Lewsiburg</placeName>.</p>
+            <p></p>
+         </div>
+         
+<!-- AR- image 057, transcription-2 page 27,-->  
+         <div type="entry" xml:id="KFO-57">
+            <head><pb facs="KFODiary_p057.jpg" n="57"/></head>
+            <p>In 1863, <persName ref="#JWF">Gf Frick</persName> was quarrying stone for <persName>Henry Durstine</persName> &amp; living  in tenant house on the Durstine place &amp; boarding with Durstines. 
+               One of the Durstine boys at dinner, once said;- let me have some meat before John Frick eats it all.</p>
+            <p><persName ref="#HCF">Uncle Clay</persName> was living with <perName ref="#AO">Gf O.</perName> at time &amp; clerking in <abbr><placeName>W.O</placeName></abbr> store.</p>
+            <p>Aunt <persName ref="#AOF">Anna</persName>had scarlet fever at the Durstine tenant house &amp; <persName ref="#MFO">Mother</persName> was forbidden to go to see her.</p>
+            <p>While at Dursine place, <persName ref="#JWF">GF Frick</persName> bought <persName ref="#JEF">Edgar</persName> red top boots, buying them from WO [West Overton] store where <persName ref="#HCF">Uncle Clay</persName> was clerking.</p>
+            <p><persName ref="#EOF">Gm Frick’s</persName> sister, <persName ref="#ANOT">Anna O Tinstman</persName>, died <date when="1866-03-29">Mch 29, 1866</date>, on the farm between <placeName>Scottdale</placeName> &amp; <placeName>Broadford</placeName>. <persName ref="#JWF">Gf</persName> &amp; <persName ref="#EOF">Gm Frick</persName> went to the funeral, leaving the children at home. They were living at <persName ref="#JEF">Peter Sherrick</persName> place below Overton school.- <persName ref="#SF">Aunt Sallie</persName> ^ 4 years old went for a drink^ fto the well or spring ^&amp; fell in . Aunt <persName ref="#AOF">Anna</persName> pulled her out. <persName ref="#JEF">Edgar</persName> ^7 years old present.</p>
+         </div>
          
 <!-- AR- image 058, transcription-2 page 28,-->  
          <div type="entry" xml:id="KFO-58">
@@ -505,7 +607,7 @@
             <head><pb facs="KFODiary_p069.jpg" n="69"/></head>
             <p>One year Cousin <persName ref="#MFFO">Mary Overholt</persName> lived at <persName ref="#AO">Grandfather Overholts</persName> and also took piano instruction from Mr. Springer.</p>
             <p><persName ref="#MFO">Mother</persName> took many walks with <persName ref="#AO">Grandfather O.</persName> through the woods and countryside.</p>
-            <p>When <persName ref="#AS">Mrs. Anna Stauffer</persName> of near <palceName>Alverton</palceName> visited <persName ref="#GDMO">Gm.O</persName>, <persName ref="#MFO">mother</persName> would bake a flat cake.</p>
+            <p>When <persName ref="#AS">Mrs. Anna Stauffer</persName> of near <palceName>Alverton</palceName> visited <persName ref="#MO">Gm.O</persName>, <persName ref="#MFO">mother</persName> would bake a flat cake.</p>
          </div>
          
 <!-- AR- image 070, transcription-3 page 10,-->  
@@ -629,7 +731,7 @@
          <div type="entry" xml:id="KFO-83">
             <head><pb facs="KFODiary_p083.jpg" n="83"/></head>
             <p>About <date when="1851">1851</date>, <persName ref="#JWF">Gf</persName> &amp; <persName ref="#JWF">Grm F.</persName> moved to <palceName>Pleasant Unity</palceName> with the two children.</p>
-            <p>Aunt <persName ref="AFR">Anna</persName>, the third child, was born there <date when ="1852-05-00">May 1852</date>.</p>
+            <p>Aunt <persName ref="AOF">Anna</persName>, the third child, was born there <date when ="1852-05-00">May 1852</date>.</p>
             <p>When <persName ref="#AO">Gt.Gf O.</persName> a <persName ref="#MO">Gt Gm O.</persName> came to see the new baby,- <persName ref="#MFO">Mother</persName> and <persName ref="#HCF">Uncle Clay</persName> were playing &amp; <persName ref="#MFO">Mother</persName>let the wagon shaft fall on <persName ref="#HCF">Uncle Clay's</persName> hand &amp; cut it. He always retained the scar. <persName ref="#AO">Gt Gf</persName> and <persName ref="#MO">Gdm O.</persName> took <persName ref="#MFO">Mother</persName> home with them to <placeName>West Overton</placeName>. She was a little over 4 years of age, - and she lived with them thereafter until her marriage at 24 years of age. </p>
          </div>
 
@@ -1113,7 +1215,7 @@
             <p>Wedding Gifts</p> <!--AR- this line is underlined in the original -->
             
             <p>Silver water pitcher &amp; goblets^ (no tray) from <persName ref="#HCF">Uncle Clay</persName>
-               Linens &amp; trouseau[sic] - from <persName ref="#GDMO">Gdm.O.</persName>
+               Linens &amp; trouseau[sic] - from <persName ref="#MO">Gdm.O.</persName>
                Silver card receiver- from <persName ref="#BFO">B.F.O</persName>
                Silver stand holding 2 glass pickle jars &amp; forks- from <persName ref="#AG">Anna Gilchrist</persName></p>
            
@@ -1122,7 +1224,7 @@
 <!-- AR- image 112, transcription-4 page 22,-->
          <div type="entry" xml:id="KFO-112">
             <head><pb facs="KFODiary_p112.jpg" n="112"/></head>
-            <p>Wedding reception in May <date when= "1872-05-00">1872</date> at  <persName ref="#GDMO">Grandmothers</persName></p>
+            <p>Wedding reception in May <date when= "1872-05-00">1872</date> at  <persName ref="#MO">Grandmothers</persName></p>
             
             <p>"Turkeys”</p>
             
@@ -1133,7 +1235,7 @@
 <!-- AR- image 113, transcription-4 page 23,-->
          <div type="entry" xml:id="KFO-113">
             <head><pb facs="KFODiary_p113.jpg" n="113"/></head>
-            <p><persName ref="#JSRO">Father</persName> who decided to follow milling &amp; <persName ref="#MFO">mother</persName> had in mind going to <placeName>California</placeName> to live, &amp; after bridal trip * visit at <placeName>Overton</placeName> with <persName ref="#GDMO">Gdm.O.</persName>, they started west. 
+            <p><persName ref="#JSRO">Father</persName> who decided to follow milling &amp; <persName ref="#MFO">mother</persName> had in mind going to <placeName>California</placeName> to live, &amp; after bridal trip * visit at <placeName>Overton</placeName> with <persName ref="#MO">Gdm.O.</persName>, they started west. 
                En route they visited Uncle Jacob Frick, August <date when="1872">‘72</date>, and he persuaded father to locate near <placeName>Wooster</placeName>, i.e. ten miles west at <placeName>Shreve</placeName>, which he did buying a grain elevator with 25,000 bus. Capacity, costing $2500.00, both sold to him by <persName>Elijah Montgomery</persName>. 
                They lived at <placeName>Shreve</placeName> from <date when="1872-08-27">Aug.^ 27th ‘72</date> to <date when="1873-04-14">April 14</date></p>
             
@@ -1168,8 +1270,8 @@
             <p>The following is copy of newspaper clipping: </p>
             <p> In Memorian  </p>
             
-            <p>"The following tribute to the memory of <perName ref="#GDMO">Mrs. Overholt</perName>, recently deceased, has been written by one well-acquainted with her for a long time:   </p>
-            <p>The parents of the deceased, Mr and Mrs Stauffer, [Abraham Stauffer and Anna Nissley Stauffer]moved from <placeName>Lancaster Co</placeName>, Penna, to <placeName>Fayette County</placeName>, near what is now <placeName>Fountain Mills</placeName>, during the last century, where  <perName ref="#GDMO">Maria</perName> was born on July 13, 1791.</p>
+            <p>"The following tribute to the memory of <perName ref="#MO">Mrs. Overholt</perName>, recently deceased, has been written by one well-acquainted with her for a long time:   </p>
+            <p>The parents of the deceased, Mr and Mrs Stauffer, [Abraham Stauffer and Anna Nissley Stauffer]moved from <placeName>Lancaster Co</placeName>, Penna, to <placeName>Fayette County</placeName>, near what is now <placeName>Fountain Mills</placeName>, during the last century, where  <perName ref="#MO">Maria</perName> was born on July 13, 1791.</p>
             <p>At the age of 18 she married <persName ref="#AO">Abraham Overholt</persName>- with whom she lived over 60 years, he having died Jany 15, 1870. </p>
             <p>They began housekeeping in a little stone building, which is still standing near the homestead from which she has just taken her final departure- making 65 years she lived on that farm.  
                About the time of her marriage, she and her husband united with the Mennonite Church, of which they remained members during life.  </p>
@@ -1191,7 +1293,7 @@
          <div type="entry" xml:id="KFO-117">
             <head><pb facs="KFODiary_p117.jpg" n="117"/></head>
             
-            <p>On <date when="1874-11-00">Nov. 1874</date>, <persName ref="#GDMO">Gdm.O.</persName>died from dropsy &amp; old age (83 ⅓ yrs).   
+            <p>On <date when="1874-11-00">Nov. 1874</date>, <persName ref="#MO">Gdm.O.</persName>died from dropsy &amp; old age (83 ⅓ yrs).   
                The acute trouble first appeared in her heal. Her limbs &amp; body became much swollen, and she suffered a great deal, being conscious to the end.  
                <persName ref="#MFO">Mother</persName> also <persName ref="#JSRO">Father</persName> were there for a week prior to the end.  </p>
             
@@ -1201,7 +1303,7 @@
             <p><persName ref="#MFO">Mother</persName> had always returned to <placeName>West Overton</placeName> twice a year, after marriage to visit her <persName ref="#MO">Grmd</persName> &amp; generally stayed two weeks at a time.</p>
             <p>Seeing <persName ref="#HCF">Clay</persName> there? </p>
                
-            <p>   Nov 19 &amp; 20, 1874, sale at <placeName>West Overton</placeName> of <persName ref="#GDMO">Gdm O's</persName> properties by <persName ref="#MSO">Martin S. O </persName>admin. <persName ref="#HCF">Uncle Clay</persName> present </p>
+            <p>   Nov 19 &amp; 20, 1874, sale at <placeName>West Overton</placeName> of <persName ref="#MO">Gdm O's</persName> properties by <persName ref="#MSO">Martin S. O </persName>admin. <persName ref="#HCF">Uncle Clay</persName> present </p>
             
          </div>         
 <!-- AR- image 118, transcription-4 page 28,-->
