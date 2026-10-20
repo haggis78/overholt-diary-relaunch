@@ -317,8 +317,8 @@
                <person xml:id="#JWF" sex="m">
                   <persName>John Wilson Frick</persName>
                   <birth when="1822">1822</birth> <!-- AR- approximate date of birth extrapolated from age at marraige, KFO diary page 85. -->
-                  <death when=""></death>
-                  <note>paternal grandfather of <persName ref="KFO">Karl Frick Overholt</persName></note>
+                  <death when="1905-10-01">October 1, 1905</death>
+                  <note>paternal grandfather of <persName ref="KFO">Karl Frick Overholt, Husband of <persName ref="#EOF">Elizabeth Overholt Frick</persName></persName></note>
                </person>
                
                <person xml:id="#EOF" sex="f">
@@ -330,7 +330,7 @@
                
                <person xml:id="#DF" sex="m">
                   <persName>Daniel Frick</persName>
-                  <birth when=""></birth>
+                  <birth when="1796">1796</birth>
                   <death when="1855-09-20">September 20, 1855</death>
                   <note>paternal great grandfather of <persName ref="KFO">Karl Frick Overholt</persName>, father of <persName>John Wilson Frick</persName>.</note>
                </person>
@@ -428,9 +428,32 @@
    <text>
       <body>
          
-<!-- AR- image 051, transcription-2 page 21,-->  
-         <div type="entry" xml:id="KFO-51">
-            <head><pb facs="KFODiary_p051.jpg" n="51"/></head>
+<!-- AR- image 002, transcription-1 page 002,-->  
+         <div type="entry" xml:id="KFO-2">
+            <head><pb facs="KFODiary_p002.jpg" n="2"/></head>
+            <table>
+               <row><cell></cell><cell></cell><cell><persName>Matin O.</persName></cell><cell></cell><cell><lb/> —Born <date when ="1709">1709</date> 30 mi from F. on M.<lb/>Settled <date when ="1725">1725</date> <placeName>Bedminster Twp</placeName>, Bucks Co, Penna.<lb/>Married <date when ="1736-11-02">1736, Nov. 2</date>, to Agnes….(5 children)<lb/>Died <date when ="1744-04-05">1744, Apr. 5</date>, &amp; buried Mennonite graveyard, <placeName>Deep Run</placeName>, Bucks Co, Pa.</cell></row>
+               <row><cell></cell><cell></cell><cell><persName>Henry O.</persName></cell><cell></cell><cell><lb/>----born <date when ="1739-02-05">1739, Feb.5</date>, <placeName>Bucks Co</placeName>, Pa.<lb/>Married to <persName>Anna Beitler</persName> (12 children)<lb/>Sold <date when ="1800">1800</date> his 175 a farm Bucks Co, and moved to <placeName>West Overton</placeName>, Wmld. Co.<lb/>Died <date when ="1813-03-05">1813, Mar 5</date>- &amp; buried Men. Cem.  <placeName>Alverton</placeName>, Wmld. Co.</cell></row>
+               <row><cell> <persName>Jacob O.</persName> (vet surgeon and farmer) <lb/>Born <date when ="1768-10-15">1768 (10/15)</date>, Bucks Co.<lb/>Married <persName>Elizabeth Detwiler</persName><lb/>Died <date when ="1847-05-10">1847 (5/10)</date> &amp; buried <placeName>Alverton</placeName>, Wmld. Co.</cell><cell>Jacob O.</cell><cell></cell><cell><persName ref="#AO">Abraham O.</persName> <lb/>distiller</cell><cell>Born <date when ="1784-04-19">1784 (4/19)</date> Bucks C.<lb/>Married <date when ="1809-04-20">1809 (4/20)</date> <persName ref="#MO">Maria Stauffer</persName> (8 children)<lb/>Died <date when ="1870-01-15">1870 (1/15)</date> &amp; buried first <placeName>Alverton</placeName> then at <placeName>Mt. Pleasant</placeName></cell></row>
+               <row><cell><lb/>Born <date when ="1795-04-19">1795 (4/19)</date> Bucks Co. <lb/>Married <persName>Elizabeth Stuaffer</persName><lb/>Died <date when ="1878-08-28">1878 (8/28)</date> &amp; buried <placeName>Alverton</placeName></cell><cell><persName ref="#JDO">John D. O.</persName></cell><cell></cell><cell><persName ref="EOF">Elizabeth Overholt</persName> </cell><cell>born <date when ="1819-06-02">1819 (6/2)</date><lb/>Married <date when ="1847">1847</date> <persName ref="#JWF">John W. Frick</persName> (6 children)<lb/>Died <date when ="1905-10-01">1905 (10/1)</date> &amp; buried at <placeName>Wooster</placeName></cell></row>
+            </table>
+         </div>
+            
+<!-- AR- image 003, transcription-1 page 003,-->  
+         <div type="entry" xml:id="KFO-3">
+            <head><pb facs="KFODiary_p003.jpg" n="3"/></head>
+            <table>
+               <row><cell></cell><cell><persName>John Nicolas Frick</persName> </cell><cell>Born in Switzerland<lb/>Landed in <abbr><placeName>Phila</placeName></abbr> <date when ="1767-10-06">1767 (10/6)</date><lb/>Married<lb/>Died <date when ="1786-05-22">1786 (5/22)</date> Wmld Co.<lb/>Buried</cell></row>
+               <row><cell></cell><cell><persName>George Frick</persName></cell><cell>Born<lb/>Married Christina (9 children)<lb/>Occupa- Blacksmith, distiller, &amp; farmer<lb/>Residence <placeName>Port Royal</placeName>, Wmld Co.<lb/>Died at <placeName>New Orleans</placeName> prior to <date when ="1804-10-19">Oct. 19, 1804</date><lb/>Buried there.</cell></row>
+               <row><cell></cell><cell><persName ref="#DF">Daniel Frick</persName></cell><cell>Born <date when ="1796-10-18">1796 (10/18)</date><lb/>Married <date when ="1818">1818</date> to <persName>Catherine Miller</persName> (9 children)<lb/>* Lived 1821-22 at <placeName>Adamsburg</placeName>, Hempfield Twp,<lb/>where <persName ref="#JWF">John W. Frick</persName> was born.<lb/>Lived 1823-49 at <placeName>Port Royal</placeName>, near <placeName>Smithton</placeName>,<lb/>Lived 1849-55 near <placeName>Irwin</placeName><lb/>Moved to <placeName>Van Buren</placeName> Ohio 1855-<lb/>Died <date when ="1855-09-20">1855 Sept 20</date>- &amp; first buried in <placeName>Van Buren</placeName>, about <date when ="1895">1895</date> moved to <placeName>Wooster</placeName> Cemetery <lb/>*Catherine, first wife, died died about <date when ="1836">1836</date> &amp; buried <placeName>Smithton</placeName> <lb/>Married, second time, to <persName>Matilda J. Martin</persName> (9 children)</cell></row>
+               <row><cell>Born <date when ="1822-02-23">Feb. 23, 1822</date> at <placeName>Adamsburg</placeName><lb/>Married <persName ref="#EOF">Eliz Overholt</persName><lb/>Moved July <date when ="1880">1880</date> to <placeName>Wooster</placeName> O<lb/>Died <date when ="1888-08-31">Aug. 31, 1888</date> at <placeName>Wooster</placeName> O</cell><cell><persName ref="#JWF">John W. Frick</persName></cell><cell></cell></row>
+            </table>
+         </div>
+               
+         
+<!-- AR- image 050, transcription-2 page 20,-->  
+         <div type="entry" xml:id="KFO-50">
+            <head><pb facs="KFODiary_p050.jpg" n="50"/></head>
            
            <!-- AR- drawing of floor plan -->
            <!-- AR- text at bottom of page -->
@@ -446,7 +469,7 @@
             <p>When told of her coming marriage, mother cried and cried!</p>
             <p>Mother used to sit in <persName ref="#ALT">Anna Leighty’s</persName> lap &amp; when too big she sat on the edge of her dress!
                After marriage, <persName ref="#JOT">Jacob O.T.</persName> &amp; wife lived at <persName ref="#AO">GT Gf O’s</persName> until <date when="1869-05-00">May 1869</date>, when they moved to the store bought from <persName ref="#CSO">Uncle Cris</persName>.</p>
-            <p><persName ref="#ABLT">Abraham L. Tinstman</persName> was born at the homestead Oct 26, 1860; as was also <persName ref="#MMT">Maria May Tinstman</persName> on May 17, 1865.</p>
+            <p><persName ref="#ABLT">Abraham L. Tinstman</persName> was born at the homestead <date when="1860-10-26">Oct 26, 1860</date>; as was also <persName ref="#MMT">Maria May Tinstman</persName> on <date when="1865-05-17">May 17, 1865</date>.</p>
             <p></p>
          </div>
          
