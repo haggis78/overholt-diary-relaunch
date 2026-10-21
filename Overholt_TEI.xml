@@ -419,6 +419,13 @@
                   <note><persName ref="#JOT">Daughter of Jacob O. Tintsman</persName> and <persName ref="#ALT">Anna Leighty Tintsman</persName></note>
                </person>
                
+               <person xml:id="#HECF" sex="f">
+                  <persName>Helen Clay Frick</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
   
             </listPerson>
          </particDesc>
@@ -480,6 +487,80 @@
             <p>Circular stone in north gable of house.</p>
          </div>
        
+<!-- AR- image 007, transcription-1 page 007,-->  
+         <div type="entry" xml:id="KFO-7">
+            <head><pb facs="KFODiary_p007.jpg" n="7"/></head>
+            <p><span>{floor plan for spring house, two rooms with one to east and one to west} N and E labeled on compass rose</span></p>
+            <p>Location of bed <span>{shown against inside wall in room on western side}</span></p>
+            <p>Staircase up <span>{outside wall eastern room}</span></p>
+            <p>Fireplace <span>{outside wall eastern room}</span></p>
+            <p>Little house (spring house underneath) in which <persName ref="#JWF">Gf</persName> and <persName ref="#EOF">Gm</persName> lived and <persName ref="#HCF">Uncle Clay</persName> was born.</p>
+            <p>After they moved to <placeName>Pleasant Unity</placeName>, the house was used as a harness room and shop. A beautiful saddle was made there for <persName ref="#MFO">mother</persName>.</p>
+            <p>Basement always used as springhouse.</p>
+         </div>
+         
+<!-- AR- image 008, transcription-1 page 008,-->  
+         <div type="entry" xml:id="KFO-8">
+            <head><pb facs="KFODiary_p008.jpg" n="8"/></head>
+            <p>Center hallway <span>at top of page with front of house facing to the left of pageDoorway to room from hallway on top left of paper. Exterior of house on left side of paper</span></p>
+            <p><span>{partial compass rose at bottom of page has north pointing down and east to the left}</span></p>
+            <p>Oil cloth- yellow and brown design<span>inside center hallway, right side of paper</span></p>
+            <p>Wash Stand<span>inside doorway from central hall left side of paper</span></p>
+            <p>Four Post Mhgy [Mahogany] Double Bed (no canopy but valences below)<span>inside doorway from center hall, on right side of paper</span></p>
+            <p>Writing desk, doors below and chair<span>on exterior wall close to wash stand</span>on opposite side of wall is note crossed out with “X”: W.D[writing desk] bought by ?. Egan? </p>
+            <p><span>Notes centered in room</span><lb/>3 ply Brussels<lb/>Maple Leaf design (leaf green on one side yellow on other)<lb/>Furniture upholstered in red.<lb/>Woodwork- white </p>
+            <p>Venetian blinds (green) slats on incline but stationary. Couldn’t see out or in. Could raise up or down<span>first window from top</span></p>
+            <p> Mhgy mirror, &amp; cherry table wooden top. Mirror bought by <persName ref="#CSRO">CSRO</persName> &amp; given to <persName ref="#KFO">KFO</persName>; wicker basket with ???? <span>center exterior wall between windows. Note about ownership of table/mirror outisde wall on left side.</span></p>
+            <p>8 da. Clock, <persName ref="#AOT">AOT</persName> Estate<span>bottom left corner of image</span></p>
+            <p>Straight back chair, walnut wooden table, 1 drawer, marble top<span>near bottom of drawing on left side</span><span>with arrow drawn to:</span><persName ref="#SF">Sallie</persName> has table, Mrs. McC has bible</p>
+            <p>Fireplace mantel<span>text upside down near at bottom of room</span>, Brown tin box for loaf sugar.</p>
+            <p> Gen Geo Washington, full length, hat right hand extended, gilt frame. ?.F.O has it.<span>outisde room near bottom of page</span></p>
+            <p>Does not now exist. (did it?) prior to <persName ref="HECF">Helen Clay F's</persName> instalation of firebox<span>at right of page, arrow poinitng to door, written in blue ink.</span></p>
+         </div>
+         
+<!-- AR- image 009, transcription-1 page 009,-->  
+         <div type="entry" xml:id="KFO-9">
+            <head><pb facs="KFODiary_p009.jpg" n="9"/></head>
+            <p>Up<span>staircase going up, top of page</span></p>
+            <p>door<span>top left of drawing</span></p>
+            <p>kitchen<span>center of drawing</span></p>
+            <p>coal bin, range, door window<span>left to right across bottom wall of room</span></p>
+            <p>brick walk<span>outisde room at bottom of page</span></p>
+            <p>cupboard<span>in top right corner of room</span></p>
+            <p>table<span>along right wall</span></p>
+            <p>inventory lost this cupboard in Dining Room ($150)<span>right of page, outside room, (written in blue ink)</span></p>
+         </div>
+         
+<!-- AR- image 010, transcription-1 page 010,-->  
+         <div type="entry" xml:id="KFO-10">
+            <head><pb facs="KFODiary_p010.jpg" n="10"/></head>
+            <p><span>compass in top left indicating south is up and east is left</span></p>
+            <p>Milk Cellar<span>center of top room</span></p>
+            <p>W (window), W (window)first then made into door, W (window)<span>along left wall of room</span></p>
+            <p>Door<span>doorway on right side of paper</span></p>
+            <p>Center Hall<span>across middle of page</span></p>
+            <p>rack for coats, etc<span>in center hall on bottom side</span></p>
+            <p>Dining Room<span>room partially drawn below</span></p>
+         </div>
+            
+<!-- AR- image 011, transcription-1 page 011,-->  
+         <div type="entry" xml:id="KFO-11">
+            <head><pb facs="KFODiary_p011.jpg" n="11"/></head>
+            <p><span>compass in top left indicating south is up and east is left</span></p>
+            <p>Center Hall<span>across top of page</span></p>
+            <p>rack for coats, etc<span>in center hall on bottom side</span></p>
+            <p>Door<span>top left into Center Hall</span></p>
+            <p>Door<span>top left in Dining room</span></p>
+            <p>W. (window), W (window)<span>going down left wall</span></p>
+            <p>8 da. clock<span>top left corner of dining room</span></p>
+            <p><persName ref="#JDO">GFO</persName>, <persName ref="#ESO">GMO</persName><span>at top of table, right ot left</span></p>
+            <p><persName ref="#JOT">Jacob O. T.</persName>, <persName>Cyrus Shallenberger</persName> <span>right side of table, top to bottom</span></p>
+            <p><persName ref="#MFO">Mother</persName>, <persName ref="#MAO">Mary O. (Mrs. Markle)</persName>, <persName ref="#ALT">Anna Leighty (Mrs. Tintsman)</persName><span>left side of table going down</span></p>
+            <p>base burner stove<span>bottom right of room</span></p>
+            <p><lb/>U.B.. <lb/>No bench at foot of table <lb/>No decanter on table<lb/>Only water pitcher and glasses<lb/><persName ref="#JDO">GfO</persName> would send <persName ref="#ESO">GmO</persName> to kitchen if <persName ref="#ESO">gm</persName> coughed during meals<lb/>If he wished anything on table, he would point, not ask.<lb/>Was fond of hot mush and milk,  &amp; rivel soup on coming home from <placeName>Broad Ford</placeName>.<span>written in paragraph at bottom of page</span></p>
+         </div>
+         
+        
 <!-- AR- image 050, transcription-2 page 20,-->  
          <div type="entry" xml:id="KFO-50">
             <head><pb facs="KFODiary_p050.jpg" n="50"/></head>
@@ -487,7 +568,7 @@
            <!-- AR- drawing of floor plan -->
            <!-- AR- text at bottom of page -->
             <p>Memo: (as to room SW opposite)</p>
-            <p>Later <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#MFO">Mother</persName>] had he brown room, 2nd floor N.W after <persName ref="#AO">GFO</persName>death, room 2nd floor SW occupied by <persName>Sarah Fox</persName>, <persName>Margaret McKelvy</persName> &amp; <persName>Katie Hunker</persName></p>
+            <p>Later <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#AO">GFO</persName>death, room 2nd floor SW occupied by <persName>Sarah Fox</persName>, <persName>Margaret McKelvy</persName> &amp; <persName>Katie Hunker</persName></p>
          </div>
          
          
