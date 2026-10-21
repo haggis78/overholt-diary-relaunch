@@ -85,7 +85,9 @@
     <xsl:template match="cell">
         <td><xsl:apply-templates/></td>
     </xsl:template>
-    
+    <xsl:template match="lb">
+        <br/>
+    </xsl:template>
     
     
     
