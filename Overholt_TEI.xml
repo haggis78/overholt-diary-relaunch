@@ -428,6 +428,16 @@
    <text>
       <body>
          
+<!-- AR- image 001, transcription-1 page 001,-->  
+         <div type="entry" xml:id="KFO-1">
+            <head><pb facs="KFODiary_p001.jpg" n="1"/></head>
+            <p>Of gt gt gt grandparents (32) </p>
+            <p>I know full names of half, part of 3# none of 11</p>
+            <p>(1 of which is ?[3 or 5] times same)</p>
+            <p>Of gt gt grandparents (16) </p>
+            <p>I know full names of 11, but part names ?3 ??? ?2</p>
+         </div>
+            
 <!-- AR- image 002, transcription-1 page 002,-->  
          <div type="entry" xml:id="KFO-2">
             <head><pb facs="KFODiary_p002.jpg" n="2"/></head>
@@ -450,7 +460,26 @@
             </table>
          </div>
                
-         
+<!-- AR- image 004, transcription-1 page 004,-->  
+         <div type="entry" xml:id="KFO-4">
+            <head><pb facs="KFODiary_p004.jpg" n="4"/></head>
+            <p><persName>Catherine Miller</persName>, wife of <persName ref="#DF">Daniel Frick</persName>, died at 36. She came from Ireland &amp; had red hair.</p>
+            <p>Aunt <persName>Polly Anderson</persName> (Daniel Frick oldest daughter) died in <placeNmae>Toledo</placeNmae> at 85. She lived in <placeNmae>Van Buren</placeNmae> then <placeNmae>Toledo</placeNmae>. </p>
+            <p>She smoked a pipe!</p>
+         </div>
+       
+<!-- AR- image 005, transcription-1 page 005,-->  
+         <div type="entry" xml:id="KFO-5">
+            <head><pb facs="KFODiary_p005.jpg" n="5"/></head>
+            <p>Present Mill and Distillery built in 1839</p>
+            <p>(being third building on that site)</p>
+        
+<!-- AR- image 006, transcription-1 page 006,-->  
+            <head><pb facs="KFODiary_p005.jpg" n="5"/></head>
+            <p><span>Drawn image shaped as half-circle with flat side down. Inside: </span>A.Overholt  M.O.H. 1838</p>
+            <p>Circular stone in north gable of house.</p>
+         </div>
+       
 <!-- AR- image 050, transcription-2 page 20,-->  
          <div type="entry" xml:id="KFO-50">
             <head><pb facs="KFODiary_p050.jpg" n="50"/></head>
