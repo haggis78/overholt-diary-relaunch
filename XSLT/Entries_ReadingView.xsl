@@ -7,9 +7,38 @@
     
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
-    <xsl:variable name="navbar" select="../docs/SSI-Diarypages.html"/>
     
     <xsl:template match="/">
+        
+        <!--whc: First creating a single page with links to all document pages-->
+        <xsl:result-document href="../docs/Transcription.html">
+            <html>
+                <head><title>K. F. Overholt Diary</title>
+                <link rel="stylesheet" type="text/css" href="CSS/OVERHOLT.css"/></head>
+                <body>
+                    <h1>Overholt Diary</h1>
+                    <div class="header">
+                        <strong><a href="index.html">HOME</a>
+                            <a href="AboutPage.html">ABOUT</a>
+                            <a href="Transcription.html">READING VIEW</a>
+                            <a href="Personography.html">PERSONS</a>
+                            <a href="Timeline.html">TIMELINE</a></strong>
+                        
+                    </div>
+                    <h2>Click on an entry number to view.</h2>
+            <ul>
+                <xsl:for-each select="//div[@type='entry']">
+            <li><a href="{@xml:id}.html">Page 
+                    <xsl:apply-templates select="@xml:id!translate(., 'KFO-', '')"/>
+                <xsl:if test="count(head) >1">
+                    (<xsl:apply-templates select="count(./head)"/> pages)
+                </xsl:if></a>
+            </li>
+            </xsl:for-each></ul>
+                </body>
+            </html>
+        </xsl:result-document>
+        
         <xsl:for-each-group select="//div[@type='entry']" group-starting-with="div[@type='entry']">
             
             <xsl:result-document href="../docs/{@xml:id}.html" method="xhtml" indent="yes">
@@ -20,10 +49,15 @@
             
             </head>
             <body>
-                <xsl:apply-templates select="$navbar"/>
-                    <!--WHC: need to do further work to tell it to import whole content of this document here-->
-                
-                <xsl:comment>#include virtual="SSI-Diarypages.html" </xsl:comment>
+                <h1>Overholt Diary</h1>
+                <div class="header">
+                    <strong><a href="index.html">HOME</a>
+                        <a href="AboutPage.html">ABOUT</a>
+                        <a href="Transcription.html">READING VIEW</a>
+                        <a href="Personography.html">PERSONS</a>
+                        <a href="Timeline.html">TIMELINE</a></strong>
+                    
+                </div>
               
             <div id="container">  
                 <div id="facsimile">
