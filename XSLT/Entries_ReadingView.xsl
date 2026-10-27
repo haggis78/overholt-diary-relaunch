@@ -67,12 +67,15 @@
                 </div>
                 <div id="transcript">
                <!--whc: The original code, as follows in next comment, had the problem of putting all the page numbers at the top of the html page when there was a multi-page entry, and all the text below without indicating a page break. The for-each is my solution to that. Note that this means there is some modal XSLT in lower template rules that currently isn't being used. -->
-                    <!--<xsl:apply-templates select="head" mode="transcript"/>
-                    <xsl:apply-templates/>-->
+                    <!--<xsl:apply-templates select="head" mode="transcript"/><xsl:apply-templates/>-->
                     
                     <xsl:for-each select="( head | p | table )">
                         <xsl:choose>
-                            <xsl:when test="pb"><h2>[Page <xsl:value-of select=".//@n"/>]</h2></xsl:when>
+                            <xsl:when test="pb"><h2>[Page <xsl:value-of select=".//@n"/>]</h2>
+                            <xsl:if test="string-length()>0"> <!--whc: This part is to output any text in the head element-->
+                                <h3><xsl:apply-templates/></h3>
+                            </xsl:if>
+                            </xsl:when>
                         <xsl:when test="row"><table><xsl:apply-templates/></table></xsl:when>
                         <xsl:otherwise><p><xsl:apply-templates/></p></xsl:otherwise>
                         </xsl:choose>
