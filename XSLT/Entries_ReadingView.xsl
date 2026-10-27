@@ -39,6 +39,8 @@
             </html>
         </xsl:result-document>
         
+        <!--whc: now creating a separate HTML page for each entry. -->
+        
         <xsl:for-each-group select="//div[@type='entry']" group-starting-with="div[@type='entry']">
             
             <xsl:result-document href="../docs/{@xml:id}.html" method="xhtml" indent="yes">
