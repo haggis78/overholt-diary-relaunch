@@ -70,9 +70,12 @@
                     <!--<xsl:apply-templates select="head" mode="transcript"/>
                     <xsl:apply-templates/>-->
                     
-                    <xsl:for-each select="( head | p )">
-                        <xsl:if test="pb"><h2>[Page <xsl:value-of select=".//@n"/>]</h2></xsl:if>
-                        <xsl:if test=".//text()"><p> <xsl:apply-templates/></p></xsl:if>
+                    <xsl:for-each select="( head | p | table )">
+                        <xsl:choose>
+                            <xsl:when test="pb"><h2>[Page <xsl:value-of select=".//@n"/>]</h2></xsl:when>
+                        <xsl:when test="row"><table><xsl:apply-templates/></table></xsl:when>
+                        <xsl:otherwise><p><xsl:apply-templates/></p></xsl:otherwise>
+                        </xsl:choose>
                         
                     </xsl:for-each>
                     
@@ -86,6 +89,7 @@
         </html></xsl:result-document>
         </xsl:for-each-group>
     </xsl:template>
+    
     <xsl:template match="pb" mode="facsim">
         <img src="KFODiary_h800_color/{@facs}" alt="page {@n} image in the Overholt Diary"/><!--WHC: changed file path-->
     </xsl:template>
@@ -93,15 +97,19 @@
     <xsl:template match="head" mode="transcript">
         <h1><xsl:apply-templates select="node()[not(./name() = 'pb')]"/></h1><xsl:text> </xsl:text><xsl:apply-templates select="pb" mode="transcript"/>
     </xsl:template>
+    
     <xsl:template match="head//pb" mode="transcript">
         <span class="pagenum"><xsl:value-of select="@n"/></span>
     </xsl:template>
+    
     <xsl:template match="pb[not(ancestor::head)]">
         <span class="pagenum"><xsl:value-of select="@n"/></span>
     </xsl:template>
+    
 <xsl:template match="p">
     <p><xsl:apply-templates/></p>
 </xsl:template>
+    
     <xsl:template match="persName">
         <span class="persName"><xsl:apply-templates/></span>
     </xsl:template>
