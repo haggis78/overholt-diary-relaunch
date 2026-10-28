@@ -426,6 +426,13 @@
                   <note></note>
                </person>
                
+               <person xml:id="#SHF" sex="f">
+                  <persName>Sarah Fox</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note>sister-in-law of <persName ref="#JSO">Jacob S. Overholt</persName></note>
+               </person>
+               
   
             </listPerson>
          </particDesc>
@@ -565,18 +572,86 @@
             <head><pb facs="KFODiary_p012.jpg" n="12"/></head>
             <p><span>Top left is compass indicating south is up and east is left</span></p>
             <p><span>Porch runs along eastern side of house</span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
-            <p><span></span></p>
+            <p><span>One window on south/top wall, two on east/left wall. Windows are noted to have green Venetian blinds</span></p>
+            <p>8 da. Clock, Mrs. McCain <lb/>Orig. <persName ref="#JOT">Jacob O's</persName>, brother of <persName ref="#AOT">A.O.</persName><span>top left corner</span></p>
+            <p>Long Gilt Mirror, Mrs McCain<span>center left wall</span></p>
+            <p>Round Mhg stand Maria May T. Lint<span>in front of mirror</span></p>
+            <p>ROT ?let 2 ??illegible wife Mrs. Maria May T. Lint<span>faded note below mirror</span></p>
+            <p>center hall<span>across bottom middle of page</span></p>
+            <p>Fireplace and mantel,<span>top right wall</span></p>
+            <p>cupboard<span>to right corner</span></p>
+            <p>chroma lithogrpah Carravaggio Magdalena<span>top right written outside of room with arrow point down</span></p>
+            <p>Brussels Carpet<span>center of room</span></p>
+            <p>Woodwork- white enamel<span>center of room</span></p>
+            <p>Mhgy furniture upholstered in bl mohair<span>center of room</span></p>
+            <p>Mhgy [mahogany] &amp; bl[ack] mohair davenport<span>right wall center</span></p>
+            <p>door not used<span>center of right wall</span></p>
+            <p>Rosewood Chickering Piano<span></span></p>
+            <p><persName ref="#AO">A.O</persName> gift to <persName ref="#MOF">M.O.F.</persName> Springer music teacher, c???? T???each<span></span></p>
+            <p>U. B</p>
+            <p>In parlor,Portraits of Presidents were hung around the room, high on the walls. These were taken down about 1870 and <persName ref="#MOF">mother</persName> thinks they were stored in the attic.</p>
          </div>
         
+<!-- AR- image 013, transcription-1 page 013,-->  
+         <div type="entry" xml:id="KFO-13">
+            <head><pb facs="KFODiary_p013.jpg" n="13"/></head>
+            <p><span>partial compass rose pointing right as West at top right</span></p>
+            <p>Fireplace<span>top/south wall</span></p>
+            <p><persName ref="#MOF">M.O.F</persName> bed<span> top right corner</span></p>
+            <p>washstand<span>right wall, center</span></p>
+            <p><persName ref="#MAO">Mary O</persName> bed<span>bottom right of room</span></p>
+            <p><persName ref="#ALT">Anna Leighty</persName> bed<span>center left of room</span></p>
+            <p>stairs<span>bottom of drawing outside of room, up to right</span></p>
+            <p>Memo: (as to Mom, SW opposite)</p>
+            <p>Later Mother had her own room, being 3rd floor N.E.</p>
+            <p>After <persName ref="#JWF">Gf</persName> death, had her own room, 2nd floor, N.W<span></span></p>
+            <p>After <persName ref="#AO">GfO</persName> death room 2nd floor SW occupied by <persName ref="SHF">Sarah Fox</persName>, <persName>Margaret McKelvey</persName>, and <persName>Katie Hunker.</persName><span></span></p>
+         </div>
+        
+<!-- AR- image 014, transcription-1 page 014,-->  
+         <div type="entry" xml:id="KFO-14">
+            <head><pb facs="KFODiary_p014.jpg" n="14"/></head>
+            <p><span>top center of page, stairs up to right</span></p>
+            <p>porch<span>top right of page</span></p>
+            <p>door<span>top center</span></p>
+            <p>Four Post Mhgy [mahogany] or Cherry Double Bed (Canopy and Valances)<span>left of door</span></p>
+            <p>Mgny Cupboard glass doors <span>right side of door, in corner</span></p>
+            <p>Guest room at times- After <persName ref="#AO">Gf.O’s</persName> death, <persName ref="#MFO">mother’s</persName> room till marriage. <persName ref="#ALT">Anna Leighty Tintsman</persName> ill with quinzy here.<span>written in center</span></p>
+            <p>Large Clothes Cupboard, 2 large doors. 2 doors below. Bought by <persName ref="#HCF">Uncle Clay</persName><span>bottom left of room</span></p>
+            <p>(a) Bottle of whiskey, &amp; round water crackers, &amp; blue dishes here. Chelsea china cups &amp; saucers. Linens kept in lower part of cupboard!<span>bottom of page</span></p>
+            <p>(b)	Underneath bed was kept a trunk in which <persName ref="#EFO">Gm.O.</persName> had personal effects of her youngest child {carrot, line above reads:} brown hair cloth covered “Johnnie” who died of typhoid fever at 20. His books were there, also an old fashioned pocketbook which had greenbacks in it. <span></span></p>
+            <p><persName ref="#EFO">Gm.O.</persName> had many things, but was very saving of everything.<span></span></p>
+         </div>
+        
+<!-- AR- image 015, transcription-1 page 015,-->  
+         <div type="entry" xml:id="KFO-15">
+            <head><pb facs="KFODiary_p015.jpg" n="15"/></head>
+            <p><span>partial compass rose with south to top of page and west to right of page</span></p>
+            <p>cupboard, fireplace<span>top left</span></p>
+            <p>Guest Room<span>center of top room</span></p>
+            <p>to Attic, down<span>at button of room, staircase drawn with arrows indicating up</span></p>
+         </div>
+         
+<!-- AR- image 016, transcription-1 page 016,-->  
+         <div type="entry" xml:id="KFO-16">
+            <head><pb facs="KFODiary_p016.jpg" n="16"/></head>
+            <p><span>compass rose top left of page, South points to top, east to left and west to right</span></p>
+            <p>Guest Room<span>center of top room</span></p>
+            <p>Fireplace &amp; Mantel, Cupboard<span>top right</span></p>
+            <p><persName ref="#HCF">Uncle Clay’s</persName> room<span>center left</span></p>
+            <p>Center Hall<span>center right</span></p>
+         </div>
+            
+<!-- AR- image 017, transcription-1 page 017,-->  
+      <div type="entry" xml:id="KFO-17">
+            <head><pb facs="KFODiary_p017.jpg" n="17"/></head>
+            <p>center hall<span>top of page</span></p>
+            <p>to attic<span>top right</span></p>
+            <p>Employees’ Room. <span>center of page</span></p>
+            <p>U.B..-</p>
+            <p><persName ref="#CSRO">C.S.R.O.</persName> and <persName>John Hostetter</persName>occupied this room. Probably others also.<span>at bottom of page</span></p>
+       </div>
+         
 <!-- AR- image 050, transcription-2 page 20,-->  
          <div type="entry" xml:id="KFO-50">
             <head><pb facs="KFODiary_p050.jpg" n="50"/></head>
@@ -584,7 +659,7 @@
            <!-- AR- drawing of floor plan -->
            <!-- AR- text at bottom of page -->
             <p>Memo: (as to room SW opposite)</p>
-            <p>Later <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#AO">GFO</persName>death, room 2nd floor SW occupied by <persName>Sarah Fox</persName>, <persName>Margaret McKelvy</persName> &amp; <persName>Katie Hunker</persName></p>
+            <p>Later <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#AO">GFO</persName>death, room 2nd floor SW occupied by <persName ref="#SHF">Sarah Fox</persName>, <persName>Margaret McKelvy</persName> &amp; <persName>Katie Hunker</persName></p>
          </div>
          
          
@@ -869,7 +944,7 @@
          <div type="entry" xml:id="KFO-82">
             <head><pb facs="KFODiary_p082.jpg" n="82"/></head>
             <p>After <persName ref="#AO">Gf O’s</persName> death, <persName ref="#MO">Gdm</persName> had <persName ref="#MFO">Mother</persName> change her room from 3rd floor N.E. to 2nd floor North adjoining her.
-               Sarah Fox- sister in law of Jacob S.O., also came to live there a while. 
+               <persName ref="#SHF">Sarah Fox</persName>- sister in law of Jacob S.O., also came to live there a while. 
             </p>
             <p><persName ref="#CSRO">C.S.R.O</persName> was night man at will.
             </p>
