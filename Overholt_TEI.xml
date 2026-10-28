@@ -471,7 +471,7 @@
          <div type="entry" xml:id="KFO-4">
             <head><pb facs="KFODiary_p004.jpg" n="4"/></head>
             <p><persName>Catherine Miller</persName>, wife of <persName ref="#DF">Daniel Frick</persName>, died at 36. She came from Ireland &amp; had red hair.</p>
-            <p>Aunt <persName>Polly Anderson</persName> (Daniel Frick oldest daughter) died in <placeNmae>Toledo</placeNmae> at 85. She lived in <placeNmae>Van Buren</placeNmae> then <placeNmae>Toledo</placeNmae>. </p>
+            <p>Aunt <persName>Polly Anderson</persName> (Daniel Frick oldest daughter) died in <placeName>Toledo</placeName> at 85. She lived in <placeName>Van Buren</placeName> then <placeName>Toledo</placeName>. </p>
             <p>She smoked a pipe!</p>
          </div>
        
@@ -482,7 +482,7 @@
             <p>(being third building on that site)</p>
         
 <!-- AR- image 006, transcription-1 page 006,-->  
-            <head><pb facs="KFODiary_p005.jpg" n="5"/></head>
+            <head><pb facs="KFODiary_p006.jpg" n="6"/></head>
             <p><span>Drawn image shaped as half-circle with flat side down. Inside: </span>A.Overholt  M.O.H. 1838</p>
             <p>Circular stone in north gable of house.</p>
          </div>
@@ -525,7 +525,7 @@
             <p>door<span>top left of drawing</span></p>
             <p>kitchen<span>center of drawing</span></p>
             <p>coal bin, range, door window<span>left to right across bottom wall of room</span></p>
-            <p>brick walk<span>outisde room at bottom of page</span></p>
+            <p>brick walk<span>outside room at bottom of page</span></p>
             <p>cupboard<span>in top right corner of room</span></p>
             <p>table<span>along right wall</span></p>
             <p>inventory lost this cupboard in Dining Room ($150)<span>right of page, outside room, (written in blue ink)</span></p>
@@ -1066,7 +1066,7 @@
             <head><pb facs="KFODiary_p097.jpg" n="97"/></head>  
             <p>Letters Testamentary</p>
             <p>Westmoreland County, ss:</p>
-            <p>By the tenor of these presents, I, <persName>Clark F. Warden</persName>, Esquire, Register for the probate of the Wills and granting letters of Administration in and for the County of Westmoreland in the Commonwealth of Pennsylvania; Do make known unto all men that on the <date when ="1870-01-26">26th day of January</date> at Greensburg in the County of Westmoreland before me was proved and approved the last Will and Testament of Abraham Overholt late of <placeNmae>East Huntingdon Township</placeNmae>, Westmoreland County, Penna., deceased (a true copy whereof is to these presents annexed having whilst he lived and at the time of his death, divers goods, chattels rights and credits within the said Commonwealth, by reason whereof the approbation and insinuation in the said last Will and Testament, and the committing the administration of all and singular the goods chattels, rights and credits, which were of the deceased; and also the auditing the accounts, calculations and reckonings of the said administration, and a final dismission from the same to me are manifestly known to belong; and that the administration of all and singular the goods, chattels, rights and credits of the said deceased, andy way concerning his last Will and Testament was committed to <persName ref="#MSO">MARTIN S. OVERHOLT</persName>,, <persName ref="#CSO">CHRISTIAN S. OVERHOLT</persName> and <persName ref="#JOT">JACOB O. TINSTMAN</persName> in the same Testament named they having first been duly affirmed well and truly administer the goods, chattels, rights and credits, of the said deceased, and make true and perfect inventory thereof, and exhibit into the Register’s Office at <placeName>Greensburg</placeName>, in the County of Westmoreland on or before the <date when="1871-02-26">26th day of February next</date>, and to render a true and just account, calculation and reckoning of their said administration on or before the <date when="1871-02-26">26th day of January in the ear of our Lord one thousand eight hundred and seventy one</date>, or when thereunto lawfully required.
+            <p>By the tenor of these presents, I, <persName>Clark F. Warden</persName>, Esquire, Register for the probate of the Wills and granting letters of Administration in and for the County of Westmoreland in the Commonwealth of Pennsylvania; Do make known unto all men that on the <date when ="1870-01-26">26th day of January</date> at Greensburg in the County of Westmoreland before me was proved and approved the last Will and Testament of Abraham Overholt late of <placeName>East Huntingdon Township</placeName>, Westmoreland County, Penna., deceased (a true copy whereof is to these presents annexed having whilst he lived and at the time of his death, divers goods, chattels rights and credits within the said Commonwealth, by reason whereof the approbation and insinuation in the said last Will and Testament, and the committing the administration of all and singular the goods chattels, rights and credits, which were of the deceased; and also the auditing the accounts, calculations and reckonings of the said administration, and a final dismission from the same to me are manifestly known to belong; and that the administration of all and singular the goods, chattels, rights and credits of the said deceased, andy way concerning his last Will and Testament was committed to <persName ref="#MSO">MARTIN S. OVERHOLT</persName>,, <persName ref="#CSO">CHRISTIAN S. OVERHOLT</persName> and <persName ref="#JOT">JACOB O. TINSTMAN</persName> in the same Testament named they having first been duly affirmed well and truly administer the goods, chattels, rights and credits, of the said deceased, and make true and perfect inventory thereof, and exhibit into the Register’s Office at <placeName>Greensburg</placeName>, in the County of Westmoreland on or before the <date when="1871-02-26">26th day of February next</date>, and to render a true and just account, calculation and reckoning of their said administration on or before the <date when="1871-02-26">26th day of January in the ear of our Lord one thousand eight hundred and seventy one</date>, or when thereunto lawfully required.
                In testimony whereof, I have hereunto set my hand and seal of the Office at <placeName>Greensburg</placeName> in the County of Westmoreland, the <date when="1870-01-26">26th day of January, in the year of our Lord, one thousand eight hundred and seventy</date>.
             </p>
             <p><persName>Clark F. Warden</persName>, </p>
@@ -1419,7 +1419,7 @@
             <p> In Memorian  </p>
             
             <p>"The following tribute to the memory of <perName ref="#MO">Mrs. Overholt</perName>, recently deceased, has been written by one well-acquainted with her for a long time:   </p>
-            <p>The parents of the deceased, Mr and Mrs Stauffer, [Abraham Stauffer and Anna Nissley Stauffer]moved from <placeName>Lancaster Co</placeName>, Penna, to <placeName>Fayette County</placeName>, near what is now <placeName>Fountain Mills</placeName>, during the last century, where  <perName ref="#MO">Maria</perName> was born on July 13, 1791.</p>
+            <p>The parents of the deceased, Mr and Mrs Stauffer, [Abraham Stauffer and Anna Nissley Stauffer] moved from <placeName>Lancaster Co</placeName>, Penna, to <placeName>Fayette County</placeName>, near what is now <placeName>Fountain Mills</placeName>, during the last century, where  <perName ref="#MO">Maria</perName> was born on July 13, 1791.</p>
             <p>At the age of 18 she married <persName ref="#AO">Abraham Overholt</persName>- with whom she lived over 60 years, he having died Jany 15, 1870. </p>
             <p>They began housekeeping in a little stone building, which is still standing near the homestead from which she has just taken her final departure- making 65 years she lived on that farm.  
                About the time of her marriage, she and her husband united with the Mennonite Church, of which they remained members during life.  </p>
