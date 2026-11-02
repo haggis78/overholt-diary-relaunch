@@ -70,9 +70,7 @@
                     <xsl:apply-templates select="descendant::pb" mode="facsim"/>
                 </div>
                 <div id="transcript">
-               <!--whc: The original code, as follows in next comment, had the problem of putting all the page numbers at the top of the html page when there was a multi-page entry, and all the text below without indicating a page break. The for-each is my solution to that. Note that this means there is some modal XSLT in lower template rules that currently isn't being used. -->
-                    <!--<xsl:apply-templates select="head" mode="transcript"/><xsl:apply-templates/>-->
-                    
+                   
                     <xsl:for-each select="( head | p | table )">
                         <xsl:choose>
                             <xsl:when test="pb"><h2>[Page <xsl:value-of select=".//@n"/>]</h2>
@@ -86,11 +84,13 @@
                         
                     </xsl:for-each>
                     
-                  <div class="nav">  
-                      <xsl:if test="preceding-sibling::div[@type='entry']"><a class="nav" id="previous" href="{preceding-sibling::div[@type='entry'][1]/@xml:id}.html">Previous available entry</a></xsl:if>
-                      <xsl:if test="following-sibling::div[@type='entry']"> <a class="nav" id="next" href="{following-sibling::div[@type='entry'][1]/@xml:id}.html">Next available entry</a></xsl:if>
-                  </div>
-                </div>
+
+                <xsl:if test="count(.//pb) > 1">
+                        <div class="nav">
+                            <a class="nav" id="top" href="#">Top of page</a></div>
+                    </xsl:if>
+                
+                </div>         
             </div> 
             </body>
         </html></xsl:result-document>
