@@ -677,7 +677,7 @@
 <!-- AR- image 052, transcription-2 page 22,-->  
          <div type="entry" xml:id="KFO-52">
             <head><pb facs="KFODiary_p052.jpg" n="52"/>About <date when="1861">1861</date> or 2,</head>
-            <p><persName ref="#AO">Gf O</persName> fell, in walking along Liberty Street in <placeName>Pittsburgh</placeName> in going to his ^warehouse &amp; office there, - into a cellar, as the trap door on the sidewalk had been left open and &amp; unguarded. </p>
+            <p><persName ref="#AO">Gf O</persName> fell, in walking along Liberty Street in <placeName>Pittsburgh</placeName> in going to his <add place="above">warehouse &amp; office there</add>, - into a cellar, as the trap door on the sidewalk had been left open and &amp; unguarded. </p>
             <p>He broke his collar-bone, but never sued.</p>
             <p>He was seldom sick, and never had a physician except that time.</p>
          </div>
@@ -686,7 +686,7 @@
          <div type="entry" xml:id="KFO-53">
             <head><pb facs="KFODiary_p053.jpg" n="53"/></head>
             <p>In <placeName>West Overton</placeName> School year, 61-62, </p>
-            <p><persName ref="#MFO">Mother</persName>^ aged 13 had an autograph album.</p>
+            <p><persName ref="#MFO">Mother</persName><add place="above">aged 13</add> had an autograph album.</p>
             <p>From <date when="1862-06-18">April 1 to June 18th</date>, many autographs place in it, including <persName>Harry D. Overholt</persName>- teacher.</p>
             <p>Then in <date when="1862-06-00">June 1862</date>, <persName ref="#MFO">Mother</persName> attended <placeName>Mt. Pleasant</placeName> Institute and girls there also wrote in her album.</p>
          </div>
@@ -702,7 +702,7 @@
          
 <!-- AR- image 055, transcription-2 page 25,-->  
             <head><pb facs="KFODiary_p055.jpg" n="55"/></head>
-            <p>Cousin <persName ref="#MAO">Mary A Overholt</persName> ^afterwards <persName ref="#CMO">Mrs Cyrus P Markle</persName> - (Mollie) and <persName>Lydia Armel</persName> (or Dillinger?)  ^afterwards <persName ref="#HOT">Mrs. Harry O Tinstman</persName> attended the Institute there, rooming together.
+            <p>Cousin <persName ref="#MAO">Mary A Overholt</persName> <add place="above">afterwards <persName ref="#CMO">Mrs Cyrus P Markle</persName></add> - (Mollie) and <persName>Lydia Armel</persName> (or Dillinger?)  <add place="above">afterwards <persName ref="#HOT">Mrs. Harry O Tinstman</persName></add> attended the Institute there, rooming together.
                Mrs. Miller was dean of the girls.</p>
             <p>These were strenuous days in the Civil War. The girls voted to go without bread at times, so that the soldiers, passing through enroute to the front, might be well fed.</p>
             <P></P>
@@ -712,7 +712,7 @@
 <!-- AR- image 056, transcription-2 page 26,-->  
          <div type="entry" xml:id="KFO-56">
             <head><pb facs="KFODiary_p056.jpg" n="56"/></head>
-            <p>On <date when="1863-07-03">July 1,2, &amp; 3, ^’63</date> at <placeName>Gettysburg</placeName>, the cannonade could be heard at <placeName>Overton</placeName>.</p>
+            <p>On <date when="1863-07-03">July 1,2, &amp; 3, <add place="above">’63</add></date> at <placeName>Gettysburg</placeName>, the cannonade could be heard at <placeName>Overton</placeName>.</p>
             <p>In this year, <date when="1863">1863</date>, the draft law went into effect. </p>
             <p>Uncle <persName ref="#CSO">Cris S.O</persName> sent as ?ubstitute his nephew by marriage, <persName>Judson Newmeyer</persName>, and promised him three years of college after the war. </p>
             <p>J.U thereafter went to Bucknell College (Baptist School) at <placeName>Lewsiburg</placeName>.</p>
@@ -727,7 +727,7 @@
             <p><persName ref="#HCF">Uncle Clay</persName> was living with <perName ref="#AO">Gf O.</perName> at time &amp; clerking in <abbr><placeName>W.O</placeName></abbr> store.</p>
             <p>Aunt <persName ref="#AOF">Anna</persName>had scarlet fever at the Durstine tenant house &amp; <persName ref="#MFO">Mother</persName> was forbidden to go to see her.</p>
             <p>While at Dursine place, <persName ref="#JWF">GF Frick</persName> bought <persName ref="#JEF">Edgar</persName> red top boots, buying them from WO [West Overton] store where <persName ref="#HCF">Uncle Clay</persName> was clerking.</p>
-            <p><persName ref="#EOF">Gm Frick’s</persName> sister, <persName ref="#ANOT">Anna O Tinstman</persName>, died <date when="1866-03-29">Mch 29, 1866</date>, on the farm between <placeName>Scottdale</placeName> &amp; <placeName>Broadford</placeName>. <persName ref="#JWF">Gf</persName> &amp; <persName ref="#EOF">Gm Frick</persName> went to the funeral, leaving the children at home. They were living at <persName ref="#JEF">Peter Sherrick</persName> place below Overton school.- <persName ref="#SF">Aunt Sallie</persName> ^ 4 years old went for a drink^ fto the well or spring ^&amp; fell in . Aunt <persName ref="#AOF">Anna</persName> pulled her out. <persName ref="#JEF">Edgar</persName> ^7 years old present.</p>
+            <p><persName ref="#EOF">Gm Frick’s</persName> sister, <persName ref="#ANOT">Anna O Tinstman</persName>, died <date when="1866-03-29">Mch 29, 1866</date>, on the farm between <placeName>Scottdale</placeName> &amp; <placeName>Broadford</placeName>. <persName ref="#JWF">Gf</persName> &amp; <persName ref="#EOF">Gm Frick</persName> went to the funeral, leaving the children at home. They were living at <persName ref="#JEF">Peter Sherrick</persName> place below Overton school.- <persName ref="#SF">Aunt Sallie</persName> <add place="above"> 4 years old went for a drink</add> fto the well or spring <add place="above">&amp; fell in </add>. Aunt <persName ref="#AOF">Anna</persName> <add place="above">12 yrs. old</add>pulled her out. <persName ref="#JEF">Edgar</persName> <add place="above">7 years old</add> present.</p>
          </div>
          
 <!-- AR- image 058, transcription-2 page 28,-->  
@@ -771,7 +771,7 @@
             <head><pb facs="KFODiary_p062.jpg" n="62"/></head>
             <p>After recovering, on <date when="1864-06-08">June 8 1864</date>, <persName ref="#AO">Grandfather O</persName> had <persName ref="#ASO">Abramham S. Overholt</persName>- a cousin &amp; brother of <perName ref="#MAO">Mary A. O</perName> at <placeName>Steubenville</placeName>, to take <persName ref="#MFO">Mother</persName> back to the seminary.</p>
             <p>Cousin <perName ref="#MAO">Mary A. O.</perName> was very happy at her return, &amp; so wrote to <persName ref="#CM">Cassius Markle</persName> (whom she afterwards married).</p>
-            <p>Unfortunately <persName ref="#MFO">mother’s</persName> eyes weakened soon^ only a few weeks after her return, she could not see to read even letters from home, and so she was compelled to give up her schooling and return to <placeName>Overton</placeName>.</p>
+         <p>Unfortunately <persName ref="#MFO">mother’s</persName> eyes weakened soon <add place="above">only a few weeks</add> after her return, she could not see to read even letters from home, and so she was compelled to give up her schooling and return to <placeName>Overton</placeName>.</p>
          
  <!-- AR- image 063, transcription-3 page 3,-->  
             <head><pb facs="KFODiary_p063.jpg" n="63"/></head>
@@ -790,7 +790,7 @@
          <div type="entry" xml:id="KFO-65">
             <head><pb facs="KFODiary_p065.jpg" n="65"/></head>
             <p>When <persName ref="#MFO">Mother</persName> was 16 17, she and her cousin <persName ref="#ASAO">Sallie A. Overholt</persName> visited <placeName>Mt. Joy</placeName>, near <placeName>Lancaster</placeName>, &amp; in <abbr><placeName>Phila.</placeName></abbr></p>
-            <p>In <placeName>Mt. Joy</placeName>, ^ at <placeName>Forin</placeName>, 1 ½ m. from <placeName>Mt. Joy</placeName> They visited Mrs Jacob Nissley, who had visited <persName ref="#MO">Gt Gm O</persName> and <persName ref="EOF">Gd M O</persName>  in <placeName>Overton</placeName>. She had a son about 20 (afterwards a hotel man **)  They drove Mrs. N’s horse &amp; buggy into Lancaster one day to see some friends &amp; the town. Horse almost ran a way ^ had high steppers</p>
+            <p>In <placeName>Mt. Joy</placeName>, <add place="above"> at <placeName>Forin</placeName>, 1 ½ m. from <placeName>Mt. Joy</placeName></add> They visited Mrs Jacob Nissley, who had visited <persName ref="#MO">Gt Gm O</persName> and <persName ref="EOF">Gd M O</persName>  in <placeName>Overton</placeName>. She had a son about 20 (afterwards a hotel man **)  They drove Mrs. N’s horse &amp; buggy into Lancaster one day to see some friends &amp; the town. Horse almost ran a way <add place="above"> had high steppers</add></p>
             <p>In <abbr><placeName>Phila</placeName></abbr> they visited Mrs Bronbright (a sister of Floyd Shallenberger) whose husband was a retail dry goods merchant. Their home was a brick house in a row, characteristic of the city. <persName ref="#ASAO">Sallie</persName> swallowed a fish bone while there!</p>
             <p><date when ="1922-05-25">5/25/22</date> from H NN to <persName ref="#KFO">KFO</persName></p>
             <p>**Having a restaurant and hotel across from Station at <placeName>Lancaster</placeName>. His name is Simon Nissly &amp; he is still living near <placeName>Mt Joy</placeName>, aged 77 or so.</p>
@@ -803,7 +803,7 @@
             <head><pb facs="KFODiary_p066.jpg" n="66"/><persName ref="#MFO">Mother's</persName> ridinghorse was called “Stockings.”</head>
             <p>He was a grey, and <persName ref="#MFO">Mother</persName> rode him to <placeName>Mt. Pleasant</placeName> to do her shopping. </p>
             <p>She rode a great deal, and still has her saddle.</p>
-            <p>She and a number of girls rode to <placeName> Greensburg</placeName>- 18 miles- and took part in a street parade during a presidential campaign dressed in white &amp; on ^the white (grey) horse.</p>
+            <p>She and a number of girls rode to <placeName> Greensburg</placeName>- 18 miles- and took part in a street parade during a presidential campaign dressed in white &amp; on <add place="above">the white (grey)</add> horse.</p>
             <p>The boys &amp; girls wold have riding parties, the boys carrying on their arms picnic lunch baskets.</p>
          
 <!-- AR- image 067, transcription-3 page 7,-->  
@@ -907,7 +907,7 @@
 <!-- AR- image 078, transcription-3 page 18,-->         
          <div type="entry" xml:id="KFO-78">
             <head><pb facs="KFODiary_p078.jpg" n="78"/>June 1868</head>
-            <p><persName ref="#HCF">Uncle Clay</persName> - who had clerked ^ 1st at Eatons for $6.00 a week, 2 at Macrum &amp; Carlisle’s  for 8.00 a week, located on 5th st. now 219 Fifth Ave in <abbr><placeName>Pgh</placeName></abbr>- came home ill with intermittent fever, &amp; occupied the N.E. corner room looking toward Mt P (which <persName ref="#MFO">Mother</persName> later used as her room)</p>
+            <p><persName ref="#HCF">Uncle Clay</persName> - who had clerked <add place="above"> 1st at Eatons for $6.00 a week</add>, 2 at Macrum &amp; Carlisle’s  <add place="above">for 8.00 a week, located on 5th st. now 219 Fifth Ave</add> in <abbr><placeName>Pgh</placeName></abbr>- came home ill with intermittent fever, &amp; occupied the N.E. corner room looking toward Mt P (which <persName ref="#MFO">Mother</persName> later used as her room)</p>
             <p>He had several sets of sugar coated pills brought home from <abbr><placeName>Pgh.</placeName></abbr> Dr. J. McConaughy of <abbr><placeName>Mt Pl-</placeName></abbr> father of <persName>Rober M McConaughy</persName> attended him, and he was ill a couple of months.</p>
             <p><persName ref="#MFO">Mother</persName> acted as nurse, brining him water from the spring, reading the New Testament to him as he wished. Sermon on Mount.</p>
             <p>She gave him <persName ref="#MO">GdM’s</persName> as he cared so much for them.</p>
@@ -1437,7 +1437,7 @@
             <head><pb facs="KFODiary_p111.jpg" n="111"/></head>
             <p>Wedding Gifts</p> <!--AR- this line is underlined in the original -->
             
-            <p>Silver water pitcher &amp; goblets^ (no tray) from <persName ref="#HCF">Uncle Clay</persName>
+            <p>Silver water pitcher &amp; goblets <add place="above">(no tray)</add> from <persName ref="#HCF">Uncle Clay</persName>
                Linens &amp; trouseau[sic] - from <persName ref="#MO">Gdm.O.</persName>
                Silver card receiver- from <persName ref="#BFO">B.F.O</persName>
                Silver stand holding 2 glass pickle jars &amp; forks- from <persName ref="#AG">Anna Gilchrist</persName></p>
@@ -1460,7 +1460,7 @@
             <head><pb facs="KFODiary_p113.jpg" n="113"/></head>
             <p><persName ref="#JSRO">Father</persName> who decided to follow milling &amp; <persName ref="#MFO">mother</persName> had in mind going to <placeName>California</placeName> to live, &amp; after bridal trip * visit at <placeName>Overton</placeName> with <persName ref="#MO">Gdm.O.</persName>, they started west. 
                En route they visited Uncle Jacob Frick, August <date when="1872">‘72</date>, and he persuaded father to locate near <placeName>Wooster</placeName>, i.e. ten miles west at <placeName>Shreve</placeName>, which he did buying a grain elevator with 25,000 bus. Capacity, costing $2500.00, both sold to him by <persName>Elijah Montgomery</persName>. 
-               They lived at <placeName>Shreve</placeName> from <date when="1872-08-27">Aug.^ 27th ‘72</date> to <date when="1873-04-14">April 14</date></p>
+               They lived at <placeName>Shreve</placeName> from <date when="1872-08-27">Aug. 27th ‘72</date> to <date when="1873-04-14">April 14</date></p>
             
             <p><date when="1872-10-25">Oct 25 ‘72</date> at <placeName>Shreve</placeName> {illegible} doctor {illegible} operated
                <persName ref="#HCF">Uncle Clay</persName> worked there in July <date when="1873">‘73</date>
