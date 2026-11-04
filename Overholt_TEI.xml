@@ -778,7 +778,7 @@
                <row><cell>1 doz forks</cell><cell>17.50</cell><cell>|</cell><cell></cell><cell></cell></row>
                <row><cell>1 clock parlor (<persName ref="#JSO">Jacob O</persName>)</cell><cell>5.00</cell><cell>|</cell><cell></cell><cell></cell></row>
                <row><cell>1 silver sugar bowl</cell><cell>10.00</cell><cell>|</cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell>|</cell><cell></cell><cell></cell></row> <!-- spacer row -->
+               <row><cell></cell><cell></cell><cell>|</cell><cell></cell><cell></cell></row>
                <row><cell></cell><persName ref="#BFO">B.F.O.</persName><cell></cell><cell>|</cell><cell><persName ref="#MSO">M.S.O</persName></cell><cell></cell></row>
                <row><cell>1 copper kettle + ring</cell><cell>21.00</cell><cell>|</cell><cell>1 horse</cell><cell>30.00</cell></row>
                <row><cell>1 sleigh</cell><cell>2.00</cell><cell>|</cell><cell></cell><cell></cell></row>
@@ -788,6 +788,25 @@
             </table>
          </div>
                
+         <!-- AR- image 024, transcription-1 page 024,-->  
+         <div type="entry" xml:id="KFO-24">
+            <head><pb facs="KFODiary_p024.jpg" n="24"/>A.O. and W.“O.H” Furniture etc.</head>
+            <table>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell></cell><cell></cell><cell></cell></row>
+            </table>
+         </div>
             
 <!-- AR- image 050, transcription-2 page 20,-->  
          <div type="entry" xml:id="KFO-50">
