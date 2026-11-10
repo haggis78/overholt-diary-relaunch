@@ -433,7 +433,13 @@
                   <note>sister-in-law of <persName ref="#JSO">Jacob S. Overholt</persName></note>
                </person>
                
-  
+               <person xml:id="#IFO" sex="m">
+                  <persName>Issac Frick Overholt</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -786,28 +792,72 @@
                <row><cell>7 rocking chairs</cell><cell>13.00</cell><cell>|</cell><cell></cell><cell></cell></row>
                <row><cell>1 doz knives &amp; forks</cell><cell>29.00</cell><cell>|</cell><cell></cell><cell></cell></row>
             </table>
-         </div>
                
-         <!-- AR- image 025, transcription-1 page 025,-->  
-         <div type="entry" xml:id="KFO-25">
+<!-- AR- image 025, transcription-1 page 025,-->  
+         
             <head><pb facs="KFODiary_p025.jpg" n="25"/></head>
             <table>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
-               <row><cell></cell><cell></cell><cell></cell></row>
+               <row><cell><persName ref="#CSRO">C.S.R.O.</persName></cell><cell>-</cell><cell>2 glass candle sticks</cell></row>
+               <row><cell></cell><cell>-</cell><cell>mirror</cell></row>
+               <row><cell><persName ref="#ALT">Anna Tintsman</persName></cell><cell>-</cell><cell>Round mhgy (mahogany) table in parlor (now <persName ref="#MMT">Maria May Tintsman</persName>)</cell></row>
+               <row><cell><persName ref="#AOT">A.O. Tintsman</persName></cell><cell>-</cell><cell>8 da. Clock in Sitting Room  $12.00</cell></row>
+               <row><cell><persName ref="#JSRO">Jacob S.R.O.</persName></cell><cell>-</cell><cell>Several quilts</cell></row>
+               <row><cell>C.S.O</cell><cell>-</cell><cell>Pair Brass Candlesticks</cell></row>
+               <row><cell></cell><cell>-</cell><cell>8 da. Clock in parlor, formerly belonged to <persName>Jacob O</persName>, brother of <persName ref="#AO">A.O</persName>, (my gt gf [great grandfather])</cell></row>
+               <row><cell></cell><cell>=</cell><cell>[illegible} cups and saucers, washstand, pitcher + bowl</cell></row>
+               <row><cell>also</cell><cell>Tin box for loaf sugar Gf's<lb/>Wicker basket for fruit <persName ref="#EFO">Gdm</persName> <lb/>Gf rocking chair<lb/>Several pieces, blue china<lb/>Silver spoons<lb/></cell><cell>now <persName ref="#MMT">Maria May Tintsman</persName></cell></row>
+               <row><cell><persName ref="#AOT">A.O.T</persName></cell><cell>3 rocking chairs</cell><cell>14.25</cell></row>
+               <row><cell></cell><cell>1 chromo</cell><cell>20.25</cell></row>
+               <row><cell></cell><cell>1 8 da. Clock, sitting room</cell><cell>20.00</cell></row>
+               <row><cell></cell><cell>11 silver tea spoons</cell><cell>11.50</cell></row>
+               <row><cell><persName ref="#IFO">Isaac F. O.</persName> </cell><cell>1 rocking chair</cell><cell>22.50</cell></row>
+               <row><cell></cell><cell>2 pictures-</cell><cell></cell></row>
+               <row><cell></cell><cell>Washington taking command at Valley Forge</cell><cell></cell></row>
+               <row><cell></cell><cell>Washington Monument ink caption- facimile</cell><cell></cell></row>
+            </table>
+            
+<!-- AR- image 026, transcription-1 page 026,-->  
+            <head><pb facs="KFODiary_p026.jpg" n="26"/></head>
+            <p><persName>Geo. W. Boyd</persName></p>
+            <p>1 coverlet</p>
+            <p>1 blanket</p>
+            <p>1 quilt</p>
+            <p>3 lamp mats</p>
+            <p>1 potato hook</p>
+            <p>2 hoes</p>
+            <p>1 pr linen sheets</p>
+            <p>2 sheets</p>
+         
+            
+<!-- AR- image 027, transcription-1 page 27,-->  
+            <head><pb facs="KFODiary_p027.jpg" n="27"/></head>
+            <table>
+               <row><cell><persName ref="#JWF">J.W.F.</persName></cell><cell></cell><cell> </cell><cell><persName ref="#HCF">H.C.F</persName></cell><cell></cell></row>
+               <row><cell>1 bridle</cell><cell>.25</cell><cell> </cell><cell>1 clothes horse</cell><cell>1.50</cell></row>
+               <row><cell>3 cow chains</cell><cell></cell><cell> </cell><cell>1 spotted cow</cell><cell>41.00</cell></row>
+               <row><cell>2 pictures</cell><cell>.30</cell><cell> </cell><cell>1 coverlet</cell><cell>2.90</cell></row>
+               <row><cell>1 rug	</cell><cell>.50</cell><cell> </cell><cell>2 quilts</cell><cell>6.00</cell></row>
+               <row><cell>1 comfort</cell><cell>2.50</cell><cell> </cell><cell>1 quilt</cell><cell>5.00</cell></row>
+               <row><cell>1 - - - - -</cell><cell>2.50</cell><cell> </cell><cell>2 pin cushions</cell><cell>.25</cell></row>
+               <row><cell>1 - - - - -</cell><cell>2.50</cell><cell> </cell><cell>3 rocking chairs</cell><cell>9.75</cell></row>
+               <row><cell>1 quilt</cell><cell>3.60</cell><cell> </cell><cell>1 settee</cell><cell>30.00</cell></row>
+               <row><cell>1  “</cell><cell>3.60</cell><cell> </cell><cell>1 looking glass</cell><cell>16.00</cell></row>
+               <row><cell>2 quilts	</cell><cell>9.20</cell><cell> </cell><cell></cell><cell></cell></row>
+               <row><cell>1 quilt </cell><cell>5.00</cell><cell> </cell><cell></cell><cell></cell></row>
+               <row><cell>1 counterpane</cell><cell>.75</cell><cell> </cell><cell></cell><cell></cell></row>
             </table>
          </div>
-            
+         
+<!-- AR- image 028, transcription-1 page 28,-->  
+         <div type="entry" xml:id="KFO-28">
+            <head><pb facs="KFODiary_p028.jpg" n="28"/></head>
+            <p>Mother gave her <persName ref="#EFO">Gm.O.</persName> a little oblong shell box, the lid of which was inlaid with a pear vine design. <persName ref="#EFO">Gm.O.</persName> [Grandmother Overholt kept her licorice tablets in it, &amp; ater gave it back to mother as a keepsake.</p>
+            <p></p>
+            <p>Mother gave Betty Braddock king long ago a lace cap of <persName ref="#EFO">Gm.O.</persName> and a piece of linen.</p>
+            <p></p>
+            <p><persName ref="#CSRO">Uncle Cris SR O</persName> (a grandnephew of <persName ref="#AO">AO</persName>) asked <persName ref="#EFO">Gm. O.</persName> for Gf.O’s [Grandfather Overholt’s] hickory cane, when <persName ref="#EFO">Gm.O.</persName> might not wish to keep it longer.  <persName ref="#EFO">Gm.O.</persName> brought it over to <persName ref="#CSRO">Uncle Chris</persName>, when he was sick, a year or two later. <persName ref="#CSRO">Uncle Chris</persName> gave it to <persName ref="#KFO">me</persName> about <dtae when="1905">1905</dtae>.</p>
+         </div>
+         
 <!-- AR- image 050, transcription-2 page 20,-->  
          <div type="entry" xml:id="KFO-50">
             <head><pb facs="KFODiary_p050.jpg" n="50"/></head>
@@ -815,7 +865,7 @@
            <!-- AR- drawing of floor plan -->
            <!-- AR- text at bottom of page -->
             <p>Memo: (as to room SW opposite)</p>
-            <p>Later <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#AO">GFO</persName>death, room 2nd floor SW occupied by <persName ref="#SHF">Sarah Fox</persName>, <persName>Margaret McKelvy</persName> &amp; <persName>Katie Hunker</persName></p>
+            <p>Later <persName ref="#MFO">Mother</persName> had he brown room, 2nd floor N.W after <persName ref="#MFO">Mother</persName> had the brown room, 2nd floor N.W after <persName ref="#AO">GFO</persName>death, room 2nd floor SW occupied by <persName ref="#SHF">Sarah Fox</persName>, <persName>Margaret McKelvy</persName> &amp; <persName>Katie Hunker</persName></p>
          </div>
          
          
