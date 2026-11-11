@@ -146,8 +146,12 @@
     <xsl:template match="lb">
         <br/>
     </xsl:template>
-    
-    
+    <xsl:template match="add[@place='above']">
+        <sup><xsl:apply-templates/></sup>
+    </xsl:template>
+    <xsl:template match="span">
+        [<xsl:apply-templates/>]:
+    </xsl:template>
     
     
 </xsl:stylesheet>
