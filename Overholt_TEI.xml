@@ -807,15 +807,11 @@
                <row><cell>1 doz knives &amp; forks</cell><cell>29.00</cell><cell>|</cell><cell></cell><cell></cell></row>
             </table>
                
-<<<<<<< Updated upstream
+
 <!-- AR- image 025, transcription-1 page 025,-->  
-         
+
             <head><pb facs="KFODiary_p025.jpg" n="25"/></head>
-=======
-         <!-- AR- image 025, transcription-1 page 025,-->  
-         <div type="entry" xml:id="KFO-25">
-            <head><pb facs="KFODiary_p025.jpg" n="25"/>A.O. and W.“O.H” Furniture etc.</head>
->>>>>>> Stashed changes
+
             <table>
                <row><cell><persName ref="#CSRO">C.S.R.O.</persName></cell><cell>-</cell><cell>2 glass candle sticks</cell></row>
                <row><cell></cell><cell>-</cell><cell>mirror</cell></row>
