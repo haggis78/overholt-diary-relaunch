@@ -440,6 +440,20 @@
                   <note></note>
                </person>
                
+               <person xml:id="#MOO" sex="m">
+                  <persName>Martin O. Overholt</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
+               <person xml:id="#AMO" sex="f">
+                  <persName>Anna May Overholt</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note></note>
+               </person>
+               
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -856,6 +870,81 @@
             <p>Mother gave Betty Braddock king long ago a lace cap of <persName ref="#EFO">Gm.O.</persName> and a piece of linen.</p>
             <p></p>
             <p><persName ref="#CSRO">Uncle Cris SR O</persName> (a grandnephew of <persName ref="#AO">AO</persName>) asked <persName ref="#EFO">Gm. O.</persName> for Gf.O’s [Grandfather Overholt’s] hickory cane, when <persName ref="#EFO">Gm.O.</persName> might not wish to keep it longer.  <persName ref="#EFO">Gm.O.</persName> brought it over to <persName ref="#CSRO">Uncle Chris</persName>, when he was sick, a year or two later. <persName ref="#CSRO">Uncle Chris</persName> gave it to <persName ref="#KFO">me</persName> about <dtae when="1905">1905</dtae>.</p>
+         </div>
+         
+<!-- AR- image 029, transcription-1 page 29,-->  
+         <div type="entry" xml:id="KFO-29">
+            <head><pb facs="KFODiary_p029.jpg" n="29"/></head>
+            <p>Grandmother <persName ref="#MO">Maria O.</persName> wore black generally, with white lace at neck- wore silk cape trimmed in velvet.</p>
+            <p>Sometimes wore ashes of roses cashmere, but never purple.</p> 
+            <p>Her bonnet for church has black delays.</p>
+            <p><perName ref="#MFO">Mother</perName> recalls only one gray bonnet, which <persName ref="#EOF">Grm. O.</persName> wore on a trip to <placeName>Phila.</placeName></p>
+            <p><persName ref="#EOF">Gm.O.</persName>’s Caps were beautiful bobinet lace caps with white linen ties or strings.</p>
+            <p><persName ref="#EOF">Gm.O.</persName> Had blue eyes.</p>
+            <p><persName ref="#JDO">Gf.O.</persName> had grey eyes</p>
+         </div>
+         
+<!-- AR- image 030, transcription-1 page 30,-->  
+         <div type="entry" xml:id="KFO-30">
+            <head><pb facs="KFODiary_p030.jpg" n="30"/></head>
+            <p>James K. Polk, dem, was elected Pres. over Henry Clay, Rep. in November 1844. He received 170 electoral votes to HC 105 votes.</p>
+            <p>Dillon Gilbert- 2 stone masons working at <placeName>West Overton</placeName>,- hoisted a Polk sign on the distillery building.</p>
+            <p><persName ref="#MOO">Martin O.</persName> Overholt shot it down on order of <persName ref="#JDO">Grandpap O</persName>, who came out very angry with his underlip protruding.</p>
+         </div>
+         
+<!-- AR- image 031, transcription-2 page 1,-->  
+         <div type="entry" xml:id="KFO-31">
+            <head><pb facs="KFODiary_p031.jpg" n="31"/></head>
+            <p><persName ref="#AO">Gf. O.</persName> 1784-1870</p>
+            <p><persName ref="#MO">Gm O</persName>- 1790-1874</p>
+            <p><persName ref="#AO">Gf. O.</persName> was a Mennonite, and a polar of the church, but he would never speak as a lay preacher, nor “wash feet.” But for this he was never put out of the church, as other would have been. Often had evening meetings at his house.</p>
+            <p><persName ref="#JWF">GF. F.</persName> - before his marriage- worked for <persName ref="#AO">Gf. O.</persName> in teh mill  for $100 a year and boarded there. Used to carry wheat upstairs &amp; the fat pump.</p>
+            <p><persName ref="#AO">Gf. O.</persName> was heard to remark about Jenny Lind, whom he had heard sing in <placeName>Pgh</placeName> in 1850, “She sang as easy as we can talk.”</p>
+            <p><persName ref="#AO">Gf. O.</persName> noticed boys had not oiled up wheels of oxcart &amp; said “You must be working for a rich man. You have silver in your boxes.”</p>
+            <p><persName ref="#AO">Gf. O.</persName> was looking over planting, &amp; came over to where <persName ref="#CSO">CSO</persName> was working &amp; asked, “Who did this planting?” Uncle Cris said he did. <persName ref="#AO">Gf. O.</persName> replied “Best hills in the fields I’ve seen today.”</p>
+            <p>-At table once <persName ref="#MO">Gm O</persName> said to <persName ref="#AO">Grandpap</persName>. You’ve taken my appetite many a time- <persName ref="#AO">Grandpap</persName> replied: Yes &amp; you’ve taken my appetite too.</p>
+         </div>
+         
+<!-- AR- image 032, transcription-2 page 2,-->  
+         <div type="entry" xml:id="KFO-32">
+            <head><pb facs="KFODiary_p032.jpg" n="32"/></head>
+            <p><persName ref="#MO">Grandmother Overholt</persName>’s garden had sundial. </p>
+            <p>She raised all kinds of herbs, sage, tanzy, etc.</p>
+            <p>Had a strawberry bed, rows and rows of sweet potatoes.</p>
+            <p></p>
+            <p></p>
+            <p>She raised her lavender and rosemary picking it &amp; making perfumes for her linens therefrom.</p>
+         </div>
+         
+<!-- AR- image 033, transcription-2 page 3,-->  
+         <div type="entry" xml:id="KFO-33">
+            <head><pb facs="KFODiary_p033.jpg" n="33"/>Incidents- <persName ref="#AO">A.O.</persName> </head>
+            <p>While <persName ref="#AO">A.O.</persName> had whiskey on his side board, according to some (which <persName ref="#MFO">Mother</persName> negatives), all agree that he never offered it to anyone, but anyone was permitted to take a drink.</p>
+            <p>Mrs Tinstman says that she ahs heard that in a gathering, <persName ref="#AO">A.O.</persName> would bring out a decanter of whiskey, pout out a certain amt [sic] (probably “two fingers”) in a glass, set his glass on table and then the decanter would be passed around, &amp; each guest could fill his glass to extent that <persName ref="#AO">A.O.</persName> did, but no more. Then when decanter reached <persName ref="#AO">A.O.</persName> again, all would drink. But there was no second helping, &amp; the decanter would be put away!</p>
+            <p><persName ref="#MFO">Mother</persName> states <persName ref="#AO">A.O.</persName> would, at home, alone, have his whiskey &amp; a loaf sugar in a glass each morning before breakfast. His whiskey was kept in a cupboard in his room back of sitting room/ his loaf sugar in sugar box on mantel in sitting room.</p>
+            <p>Height: 5’8” or 10”- chest measured 42” </p>
+            <p>Would decide quickly any matter ^ under consideration</p>
+            <p><persName ref="#HSO">Henry S.O.</persName> didn’t like <persName ref="#JOT">Jacob O Tinstman</persName>, father <persName ref="#ALT">A.L.</persName> mother Tinstman</p>
+          </div>
+         
+<!-- AR- image 034, transcription-2 page 4,-->  
+         <div type="entry" xml:id="KFO-34">
+            <head><pb facs="KFODiary_p034.jpg" n="34"/></head>
+            <p><persName ref="#AMO">Mrs. Law</persName> tells of <persName ref="#AO">A.O.</persName> sending her father <persName ref="#CSO">C.SO.</persName> (his son) out to buy up wheat in Ohio, as he felt that the wheat crop would be short that year, and that prices would be put up, &amp; people generally would suffer from lack. </p>
+            <p>Each son went to different places, &amp; much was bought &amp; when they returned they thought perhaps <persName ref="#AO">A.O.</persName> would say they brought too much. However, instead of that, <persName ref="#AO">A.O.</persName> told them to start out again the next day &amp; “buy as much more.” He then accumulated a great deal, and the expected shortage occurred. The people flocked to him, wanting wheat &amp; many wanted moor [sic] than they actually needed, &amp; <add place="above">^some were willing to pay high for it.</add> </p>
+            <p>However, he sold to each enough for their actually needs, but not more; also he sold at what it cost him, not boosting the price.</p>
+         </div>
+         
+<!-- AR- image 035, transcription-2 page 5,-->  
+         <div type="entry" xml:id="KFO-35">
+            <head><pb facs="KFODiary_p035.jpg" n="35"/></head>
+            <p><persName ref="#AO">Gf. O.</persName> drove in to <placeName>Mt. Pleasant</placeName> on Wednesday afternoons for a shave. </p>
+            <p>Drove a bay horse (Frank) &amp; gray horse (Charlie) in “piano box” vehicle. It was the only buggin in that country. All wagons [sic].</p>
+            <p><persName ref="#AO">Gf O</persName> aways rode horseback from <placeName>W.O.</placeName> to <placeName>Bfd.</placeName>  Charlie gray horse being ridden.</p>
+            <p><persName ref="#AO">Gf O</persName> would leave his can at the <placeName>W.O.</placeName> mill office often, &amp; <persName ref="#CSRO">CSRO</persName> would go &amp; get it for him. Had two dogs: Topsey &amp; Tigher</p>
+            <p>Tigher- both- smooth hair; part bull dog; black, with white at throat</p>
+            <p>Go everywhere with <persName ref="#AO">Gf O</persName> <add place="above">to the mill &amp;</add> around <placeName>W.O.</placeName> on foot; never go away.</p>
+            <p>After <persName ref="#AO">Gf O’s</persName> death, dog lived with <persName ref="#ASO">Gm O.</persName> till he died.</p>
          </div>
          
 <!-- AR- image 050, transcription-2 page 20,-->  
