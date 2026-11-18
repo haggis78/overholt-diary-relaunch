@@ -268,7 +268,7 @@
                
                <person xml:id="#JEF" sex="m">
                   <persName>J. Edgar Frick</persName>
-                  <birth when="1859">1859</birth>
+                  <birth when="1859-05-16">May 16, 1859</birth>
                   <death when=""></death>
                   <note>Born Peter Sherrick, name changed in 1874 to J. Edgar Frick in 1874.</note>
                </person>
@@ -452,6 +452,20 @@
                   <birth when=""></birth>
                   <death when=""></death>
                   <note></note>
+               </person>
+               
+               <person xml:id="#IS" sex="m">
+                  <persName>Issac Sherrick</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note>Brother of <persName ref="JS">John Sherrick</persName></note>
+               </person>
+               
+               <person xml:id="#JS" sex="m">
+                  <persName>John Sherrick</persName>
+                  <birth when=""></birth>
+                  <death when=""></death>
+                  <note>Brother of <persName ref="IS">Issac Sherrick</persName></note>
                </person>
                
             </listPerson>
@@ -976,6 +990,106 @@
             <p><persName ref="#AO">Gf O</persName> never had decanters ont eh table or sideboard -accdg to <persName ref="#CSRO">CSRO</persName></p>
             <p><persName ref="#AS">Gdm O</persName> always placed her saucer over the top of her cup of coffee thus keeping the coffee warmer</p>
             <p><persName ref="#AO">Gf O</persName> would call <persName ref="#MO">Maria</persName> to fetch a pitcher of water, &amp; then would take his whiskey in a glass.</p>
+         </div>
+         
+<!-- AR- image 039, transcription-2 page 9,-->  
+         <div type="entry" xml:id="KFO-39">
+            <head><pb facs="KFODiary_p039.jpg" n="39"/></head>
+            <p><span>school seating chart with two entrances at top of page</span></p>
+            <p><persName ref="ASAO">Sallie O</persName>, <persName ref="MFO">M.O.F.</persName><span>first column, second row from top of page</span></p>
+            <p><persName ref="JSRO">JSRO</persName><span>fourth column, first row from top of page</span></p>
+            <p>Dave Kough, <persName ref="IS">Isaac Sherrick</persName> <span>fourth column, fourth row from top</span></p>
+            <p>John Sherrick <span>fourth column, fifth row from top of page</span></p>
+            <p><persName ref="#HCF">HCF</persName>, <persName ref="BFO">BFO</persName> <span>fourth column sixth row from top of page</span></p>
+            <p>Teacher’s desk, chalkboard <span>At the button of diagram in section marked "platform"</span></p>
+            <p>Place of <placeName>West Overton</placeName> School, </p>
+            <p>Built 1860-61</p>
+         
+<!-- AR- image 040, transcription-2 page 10,-->  
+        
+            <head><pb facs="KFODiary_p040.jpg" n="40"/></head>
+            <p>Chester Booher relates that he sat with <persName ref="#HCF">Uncle Clay</persName> in school once, and in trying to describe a bat, <persName ref="#HCF">Uncle Clay</persName> gave him the following description:</p>
+            <p>“A bird with India rubber wings, and shoe string tail; sees best with eyes shut and winks like the devil.”</p>
+         
+<!-- AR- image 041, transcription-2 page 11,-->  
+            <head><pb facs="KFODiary_p041.jpg" n="41"/></head>
+            <p><persName ref="IS">Isaac Sherrick</persName> recalls famous “spelling bees” in those school days.</p>
+            <p>He and his brother <persName ref="JS">John</persName>- two of the best spellers- were always chosen first, &amp; and always were on opposing teams.</p>
+            <p>Recalls one bee, when he &amp; his brother were the last remaining ?fs. His brother was called upton to spell “Maine, a State.” He started &amp; spelled Main, a” and then stopped and attempted to correct himself; and a lively dispute ensued.</p>
+            <p>He also recalls a joint spelling bee, held by the <placeName>Alverton</placeName>, <placeName>West Overton</placeName>, and Old Independent Schools at Old Independent School house.</p>
+            <p>Uncle Clay was there.</p>
+            <p>The last remaining were <persName ref="IS">Isaac Sherrick</persName> &amp; Jonas Yothers (sone of Henry Yothers a Mennonite minister of Fayette Co).</p>
+            <p>Finally Isaac spelled him down-</p>
+            <p>He says that <persName ref="MFO">Mother</persName> and <persName ref="ASAO">Sallie O.</persName> [were most famous soprano singers, and Huey, the singing teacher, always counted on them; also that <persName ref="JSRO">Father</persName> was a good bass singer.</p>
+         </div>
+         
+<!-- AR- image 042, transcription-2 page 12,-->  
+         <div type="entry" xml:id="KFO-42">
+            <head><pb facs="KFODiary_p042.jpg" n="42"/></head>
+            <p>In winter 58-59 they moved to Stonerville now <placeName>Alverton</placeName>, where <date when="1859-05-16">5/16/59</date> <persName ref="#JEF">Uncle Edgar</persName> was born.</p>
+            <p><persName ref="#HCF">Uncle Clay</persName>, <persName ref="#AOF">Aunt Anna</persName>, &amp; <persName ref="#AF">Uncle Aaron</persName> were sent up to Shepard’s blacksmith shop to be out of the way. </p>
+            <p>The baby was named Peter, for <persName ref="#JEF">Peter Sherrick</persName>, a great friend of <persName ref="#JWF">Gf. Frick</persName>, but in <date when="1874-06-04">June 4, 1874</date>, <persName ref="#HCF">Uncle Clay</persName> had his name changed to J. Edgar, for which he gave him a pearl penknife.</p>
+            <p>The house at <placeName>Alverton</placeName> (Henry O. Stauffer house) is no longer standing, its site being where the station now stands.</p>
+            <p>The family lived there in 1860, when they moved to <placeName>West Overton</placeName> to the house across the road from <persName ref="#CSO">Uncle Cris O</persName>’s store and home.</p>
+            <p></p>
+            <p>In 1859, “Overton Mills” the present distillery was built by <persName ref="#AO">A.O.</persName> and his eldest son, <persName ref="#HSO">Henry S O</persName>.</p>
+            <p>In 1860 a new brick school building for the <placeName>West Overton</placeName> school was built out of bricks left over from building of the Overton Mills.</p>
+         </div>
+         
+<!-- AR- image 043, transcription-2 page 13,-->  
+         <div type="entry" xml:id="KFO-43">
+            <head><pb facs="KFODiary_p043.jpg" n="43"/></head>
+            <p><persName ref="MFO">Mother</persName> attended only one public school- that at West Overton. Her uncle, <persName ref="#HSO">Henry S. Overholt</persName>, was head of the school board; and always was present on the opening day of the term, which was from Nov. to Mch.</p>
+            <p>The log school house (replaced in ‘61 by the present brick one) was arranged as shown on opposite page.</p>
+            <p>The benches &amp; tables in center were for the smaller pupils; and the outdoor desks were for the older pupils, as all grades were taught.</p>
+         
+<!-- AR- image 044, transcription-2 page 14,-->  
+            <head><pb facs="KFODiary_p044.jpg" n="44"/></head>
+            <p><span>Entrance at top of Page, windows  along sides, 4 each side. </span></p>
+            <p><span>Cloak storage areas are in the corners on wall with entrance. </span></p>
+            <p><span>Platform with blackboard for 3 to right side of entrance.</span></p>
+            <p><span>Stove in center of room.</span></p>
+            <p><span>Teachers desk and seat between platform and stove.</span></p>
+            <p><span>Tables with benches on both sides of the tables are on either side of the stove.</span></p>
+            <p></p>
+            <p>Place of First West Overton School</p>
+         </div>
+         
+<!-- AR- image 045, transcription-2 page 15,-->  
+         <div type="entry" xml:id="KFO-45">
+            <head><pb facs="KFODiary_p045.jpg" n="45"/></head>
+            <p>Teachers in the First School, which <persName ref="MFO">Mother</persName> attended:</p>
+            <table>
+               <row><cell>55-57-</cell><cell>James Sherman, <lb/>later County Srpt. </cell><cell></cell></row>
+               <row><cell>Winter 58-59-</cell><cell>Andrew Fulton <lb/>later Greensburg Attorney</cell><cell></cell></row>
+               <row><cell>Winter 59-60-</cell><cell>John A. Stevenson <lb/>quite austere</cell><cell>Stevenson (afterwards in 15th PA Vol Cavalry, crippled &amp; discharged) </cell></row>
+               <row><cell>Winter 60-61-</cell><cell>John A. Stevenson <lb/>quite austere</cell><cell>(“    “)</cell></row>
+            </table>
+         </div>
+         
+<!-- AR- image 046, transcription-2 page 16,-->  
+         <div type="entry" xml:id="KFO-46">
+            <head><pb facs="KFODiary_p046.jpg" n="46"/>Pupils in the First School while Mother attended</head>
+            <p>Kate Sherrick</p>
+            <p>Barbara Sherrick</p>
+            <p>Kate Durstine     }</p>
+            <p>Ann Durstine       }Daughters Henry Durstine</p>
+            <p>Barbara Durstine}</p>
+            <p><persName ref="#ASAO">Sallie Overholt</persName>, daughter <persName ref="#HSO">Henry S.O</persName></p>
+            <p>Barbara Tinstman</p>
+            <p>Kate Shupe (Ralph Barnharts’ mother) (sister of Albert Shupe) (niece of <persName ref="#JEF">Peter Sherrick</persName>)</p>
+            <p>Nattie McMasters</p>
+            <p>Sue Overholt, now Mrs. Longsdorf in Missouri</p>
+            <p>Ann Durstine pierced mothers’ ears with cork &amp; needle one recess</p>
+            <p><persName ref="#HCF">Uncle Clay</persName>, <persName ref="#AOF">Aunt Anna</persName>, <persName ref="#CSRO">“C.S.R.O”</persName>, <persName ref="#BFO">B. Frank Overholt</persName>- Chester Booher, <persName ref="#JSRO">J.S.R.O</persName>- <persName ref="#ASRO">A.S.R.O.</persName> John Lowstettler (Youngwood) Dave Kough, Joseph Kough</p>
+            <p>David Sherrick, son of <persName ref="#JEF">Peter Sherrick</persName> (from Bridge.)</p>
+            <p><persName ref="#IS">Isaac Sherrick</persName></p>
+            <p><persName ref="#JS">John Sherrick</persName>      } Sons of Jacob B. Sherrick</p>
+            <p>Joseph Sherrick</p>
+            <p>Henry Durstine</p>
+            <p>John Durstine      } Sons of Henry Durstine</p>
+            <p>Jacob Durstine    </p>
+            <p>Joseph R. Stauffer (later of Scottdale) &amp; bro Abraham</p>
          </div>
          
 <!-- AR- image 050, transcription-2 page 20,-->  
