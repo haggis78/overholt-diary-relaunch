@@ -66,6 +66,7 @@
                 </div>
                
             <div id="container">  
+                <!--whc 18-NOV-2026: to align photos and text, I want to adapt this so there is another xsl:for-each that iterates over the pages in multi-page entries. This will be a bit difficult as there is no div type="page" within the entries... but that could, probably should, be added. Then for each page it would output the page image to the left and the text to the right, as it currently does, but the text would only start in alignment with the top of each subsequent page image. Further, for those multi-page entries, since on a first view of that webpage the user may not be aware that there are further pages of text, use and xsl:if to add a button below each page's text that says something like "scroll down to next page of entry".  Finally, note that adding the <div type="page"> tags may disrupt the XPath sometimes by adding an extra layer of tags within the entry, so look carefully through the XSLTs to see what child:: as opposed to descendant:: axes may be disrupted.-->
                 <div id="facsimile">
                     <xsl:apply-templates select="descendant::pb" mode="facsim"/>
                 </div>
@@ -141,7 +142,14 @@
         <tr><xsl:apply-templates/></tr>
     </xsl:template>
     <xsl:template match="cell">
-        <td><xsl:apply-templates/></td>
+        <xsl:choose>
+            <xsl:when test="@rend='right'">
+                <td text-align="right"><xsl:apply-templates/></td>
+            </xsl:when>
+            <xsl:otherwise>
+                <td><xsl:apply-templates/></td>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="lb">
         <br/>
